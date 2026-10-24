@@ -1,0 +1,195 @@
+{
+  "family": "flock-mixed",
+  "id": "p07l003",
+  "ordinal": 3,
+  "place": 7,
+  "tags": [
+    "place7"
+  ],
+  "type": "FLOCK",
+  "variants": {
+    "EASY": {
+      "birds": 15,
+      "frameScale": 125,
+      "levelSeed": 1092104398132412400,
+      "modifiers": [
+        "DIVE",
+        "WIND"
+      ],
+      "need": 10,
+      "patterns": [
+        "FORMATION",
+        "GLIDE"
+      ],
+      "photosPerBird": 6,
+      "ramp": 1,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 16
+      },
+      "species": [
+        {
+          "id": "great_crested_grebe",
+          "weight": 30
+        },
+        {
+          "id": "red_breasted_merganser",
+          "weight": 25
+        },
+        {
+          "id": "white_headed_duck",
+          "weight": 20
+        },
+        {
+          "id": "tufted_duck",
+          "weight": 15
+        },
+        {
+          "id": "coot",
+          "weight": 10
+        }
+      ],
+      "speed": 80,
+      "stars": {
+        "three": 8674,
+        "two": 7408
+      },
+      "timeoutTicks": 480
+    },
+    "HARD": {
+      "birds": 15,
+      "frameScale": 85,
+      "levelSeed": -3002202168352938198,
+      "modifiers": [
+        "DIVE",
+        "WIND"
+      ],
+      "need": 9,
+      "patterns": [
+        "FORMATION",
+        "GLIDE"
+      ],
+      "photosPerBird": 6,
+      "ramp": 5,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 16
+      },
+      "species": [
+        {
+          "id": "great_crested_grebe",
+          "weight": 30
+        },
+        {
+          "id": "red_breasted_merganser",
+          "weight": 25
+        },
+        {
+          "id": "white_headed_duck",
+          "weight": 20
+        },
+        {
+          "id": "tufted_duck",
+          "weight": 15
+        },
+        {
+          "id": "coot",
+          "weight": 10
+        }
+      ],
+      "speed": 120,
+      "stars": {
+        "three": 7380,
+        "two": 6439
+      },
+      "timeoutTicks": 300
+    },
+    "MEDIUM": {
+      "birds": 15,
+      "frameScale": 100,
+      "levelSeed": 4430646354160355107,
+      "modifiers": [
+        "DIVE",
+        "WIND"
+      ],
+      "need": 10,
+      "patterns": [
+        "FORMATION",
+        "GLIDE"
+      ],
+      "photosPerBird": 6,
+      "ramp": 3,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 16
+      },
+      "species": [
+        {
+          "id": "great_crested_grebe",
+          "weight": 30
+        },
+        {
+          "id": "red_breasted_merganser",
+          "weight": 25
+        },
+        {
+          "id": "white_headed_duck",
+          "weight": 20
+        },
+        {
+          "id": "tufted_duck",
+          "weight": 15
+        },
+        {
+          "id": "coot",
+          "weight": 10
+        }
+      ],
+      "speed": 100,
+      "stars": {
+        "three": 7882,
+        "two": 6662
+      },
+      "timeoutTicks": 390
+    }
+  }
+}

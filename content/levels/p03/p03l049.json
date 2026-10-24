@@ -1,0 +1,171 @@
+{
+  "family": "film-short",
+  "id": "p03l049",
+  "ordinal": 49,
+  "place": 3,
+  "tags": [
+    "place3"
+  ],
+  "type": "FILM",
+  "variants": {
+    "EASY": {
+      "birds": 10,
+      "frameScale": 125,
+      "levelSeed": 4990480192398652010,
+      "modifiers": [
+        "WIND"
+      ],
+      "need": 7,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 1,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 16
+      },
+      "species": [
+        {
+          "id": "greylag",
+          "weight": 40
+        },
+        {
+          "id": "barnacle",
+          "weight": 30
+        },
+        {
+          "id": "ruddy_shelduck",
+          "weight": 20
+        },
+        {
+          "id": "mallard",
+          "weight": 10
+        }
+      ],
+      "speed": 80,
+      "stars": {
+        "three": 6200,
+        "two": 5458
+      },
+      "timeoutTicks": 480
+    },
+    "HARD": {
+      "birds": 10,
+      "frameScale": 85,
+      "levelSeed": 1198503761103545614,
+      "modifiers": [
+        "WIND"
+      ],
+      "need": 7,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 5,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 13,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 16
+      },
+      "species": [
+        {
+          "id": "greylag",
+          "weight": 40
+        },
+        {
+          "id": "barnacle",
+          "weight": 30
+        },
+        {
+          "id": "ruddy_shelduck",
+          "weight": 20
+        },
+        {
+          "id": "mallard",
+          "weight": 10
+        }
+      ],
+      "speed": 120,
+      "stars": {
+        "three": 5733,
+        "two": 5027
+      },
+      "timeoutTicks": 300
+    },
+    "MEDIUM": {
+      "birds": 10,
+      "frameScale": 100,
+      "levelSeed": -4664996155019399338,
+      "modifiers": [
+        "WIND"
+      ],
+      "need": 7,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 3,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 14,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 16
+      },
+      "species": [
+        {
+          "id": "greylag",
+          "weight": 40
+        },
+        {
+          "id": "barnacle",
+          "weight": 30
+        },
+        {
+          "id": "ruddy_shelduck",
+          "weight": 20
+        },
+        {
+          "id": "mallard",
+          "weight": 10
+        }
+      ],
+      "speed": 100,
+      "stars": {
+        "three": 5594,
+        "two": 4823
+      },
+      "timeoutTicks": 390
+    }
+  }
+}

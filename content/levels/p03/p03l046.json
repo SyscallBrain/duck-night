@@ -1,0 +1,114 @@
+{
+  "family": "double-pair",
+  "id": "p03l046",
+  "ordinal": 46,
+  "place": 3,
+  "tags": [
+    "place3"
+  ],
+  "type": "DOUBLE",
+  "variants": {
+    "EASY": {
+      "birds": 10,
+      "frameScale": 125,
+      "levelSeed": 7283133243570647941,
+      "modifiers": [],
+      "need": 8,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 1,
+      "species": [
+        {
+          "id": "greylag",
+          "weight": 40
+        },
+        {
+          "id": "barnacle",
+          "weight": 30
+        },
+        {
+          "id": "ruddy_shelduck",
+          "weight": 20
+        },
+        {
+          "id": "mallard",
+          "weight": 10
+        }
+      ],
+      "speed": 85,
+      "stars": {
+        "three": 6132,
+        "two": 5485
+      },
+      "timeoutTicks": 480
+    },
+    "HARD": {
+      "birds": 10,
+      "frameScale": 85,
+      "levelSeed": -3348522677316303097,
+      "modifiers": [],
+      "need": 9,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 5,
+      "species": [
+        {
+          "id": "greylag",
+          "weight": 40
+        },
+        {
+          "id": "barnacle",
+          "weight": 30
+        },
+        {
+          "id": "ruddy_shelduck",
+          "weight": 20
+        },
+        {
+          "id": "mallard",
+          "weight": 10
+        }
+      ],
+      "speed": 160,
+      "stars": {
+        "three": 6480,
+        "two": 5850
+      },
+      "timeoutTicks": 300
+    },
+    "MEDIUM": {
+      "birds": 10,
+      "frameScale": 100,
+      "levelSeed": -3413866864411754623,
+      "modifiers": [],
+      "need": 9,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 3,
+      "species": [
+        {
+          "id": "greylag",
+          "weight": 40
+        },
+        {
+          "id": "barnacle",
+          "weight": 30
+        },
+        {
+          "id": "ruddy_shelduck",
+          "weight": 20
+        },
+        {
+          "id": "mallard",
+          "weight": 10
+        }
+      ],
+      "speed": 65,
+      "stars": {
+        "three": 6439,
+        "two": 5817
+      },
+      "timeoutTicks": 390
+    }
+  }
+}

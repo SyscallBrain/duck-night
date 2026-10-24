@@ -1,0 +1,228 @@
+{
+  "family": "classic-glide",
+  "id": "p10l038",
+  "ordinal": 38,
+  "place": 10,
+  "tags": [
+    "place10"
+  ],
+  "type": "CLASSIC",
+  "variants": {
+    "EASY": {
+      "birds": 10,
+      "frameScale": 125,
+      "levelSeed": 6276326196833022777,
+      "modifiers": [
+        "RAIN",
+        "MANUAL_ADVANCE",
+        "COVER"
+      ],
+      "need": 8,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 1,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [
+          {
+            "height": 44,
+            "width": 42,
+            "x": 20,
+            "y": 190
+          },
+          {
+            "height": 38,
+            "width": 44,
+            "x": 178,
+            "y": 196
+          }
+        ],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "eider",
+          "weight": 30
+        },
+        {
+          "id": "brent_goose",
+          "weight": 25
+        },
+        {
+          "id": "scoter",
+          "weight": 20
+        },
+        {
+          "id": "long_tailed_duck",
+          "weight": 15
+        },
+        {
+          "id": "goldeneye",
+          "weight": 10
+        }
+      ],
+      "speed": 80,
+      "stars": {
+        "three": 11720,
+        "two": 10530
+      },
+      "timeoutTicks": 480
+    },
+    "HARD": {
+      "birds": 10,
+      "frameScale": 85,
+      "levelSeed": -5049543693958107349,
+      "modifiers": [
+        "RAIN",
+        "MANUAL_ADVANCE",
+        "COVER"
+      ],
+      "need": 9,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 5,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [
+          {
+            "height": 44,
+            "width": 42,
+            "x": 20,
+            "y": 190
+          },
+          {
+            "height": 38,
+            "width": 44,
+            "x": 178,
+            "y": 196
+          }
+        ],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "eider",
+          "weight": 30
+        },
+        {
+          "id": "brent_goose",
+          "weight": 25
+        },
+        {
+          "id": "scoter",
+          "weight": 20
+        },
+        {
+          "id": "long_tailed_duck",
+          "weight": 15
+        },
+        {
+          "id": "goldeneye",
+          "weight": 10
+        }
+      ],
+      "speed": 145,
+      "stars": {
+        "three": 12225,
+        "two": 11225
+      },
+      "timeoutTicks": 300
+    },
+    "MEDIUM": {
+      "birds": 10,
+      "frameScale": 100,
+      "levelSeed": 6003948679924545347,
+      "modifiers": [
+        "RAIN",
+        "MANUAL_ADVANCE",
+        "COVER"
+      ],
+      "need": 9,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 3,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [
+          {
+            "height": 44,
+            "width": 42,
+            "x": 20,
+            "y": 190
+          },
+          {
+            "height": 38,
+            "width": 44,
+            "x": 178,
+            "y": 196
+          }
+        ],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "eider",
+          "weight": 30
+        },
+        {
+          "id": "brent_goose",
+          "weight": 25
+        },
+        {
+          "id": "scoter",
+          "weight": 20
+        },
+        {
+          "id": "long_tailed_duck",
+          "weight": 15
+        },
+        {
+          "id": "goldeneye",
+          "weight": 10
+        }
+      ],
+      "speed": 90,
+      "stars": {
+        "three": 11810,
+        "two": 10840
+      },
+      "timeoutTicks": 390
+    }
+  }
+}

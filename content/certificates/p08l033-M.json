@@ -1,0 +1,206 @@
+{
+  "botVersion": 2,
+  "difficulty": "MEDIUM",
+  "human": {
+    "meanScore": 22235.688622754493,
+    "p35": 20935,
+    "p70": 23750,
+    "profile": "MEDIUM_PLAYER",
+    "runs": 200,
+    "successRate": 0.835,
+    "successes": 167
+  },
+  "levelId": "p08l033",
+  "simVersion": 1,
+  "stars": {
+    "three": 23750,
+    "two": 20935
+  },
+  "variantHash": "d31c1374733debd62065acaebf2da6981bb5bdab197f122674770f0147c0dbbe",
+  "witness": {
+    "attemptIndex": 0,
+    "finalHash": -8258929377292159777,
+    "finalTick": 3600,
+    "inputLog": {
+      "entries": [
+        {
+          "action": {
+            "type": "snap",
+            "x": 66,
+            "y": 193
+          },
+          "tick": 98
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 80,
+            "y": 195
+          },
+          "tick": 390
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 76,
+            "y": 197
+          },
+          "tick": 510
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 111,
+            "y": 192
+          },
+          "tick": 632
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 67,
+            "y": 196
+          },
+          "tick": 752
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 69,
+            "y": 194
+          },
+          "tick": 877
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 113,
+            "y": 188
+          },
+          "tick": 1096
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 186,
+            "y": 188
+          },
+          "tick": 1378
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 169,
+            "y": 188
+          },
+          "tick": 1496
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 134,
+            "y": 197
+          },
+          "tick": 1747
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 24,
+            "y": 191
+          },
+          "tick": 1873
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 157,
+            "y": 193
+          },
+          "tick": 1992
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 44,
+            "y": 189
+          },
+          "tick": 2112
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 67,
+            "y": 189
+          },
+          "tick": 2234
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 98,
+            "y": 185
+          },
+          "tick": 2355
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 100,
+            "y": 182
+          },
+          "tick": 2649
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 82,
+            "y": 190
+          },
+          "tick": 2764
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 133,
+            "y": 184
+          },
+          "tick": 2883
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 144,
+            "y": 190
+          },
+          "tick": 2999
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 86,
+            "y": 177
+          },
+          "tick": 3122
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 62,
+            "y": 174
+          },
+          "tick": 3242
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 132,
+            "y": 187
+          },
+          "tick": 3452
+        }
+      ]
+    },
+    "seed": -4199016808898650188
+  }
+}

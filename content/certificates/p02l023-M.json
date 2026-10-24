@@ -1,0 +1,102 @@
+{
+  "botVersion": 2,
+  "difficulty": "MEDIUM",
+  "human": {
+    "meanScore": 8477.0,
+    "p35": 8204,
+    "p70": 8900,
+    "profile": "MEDIUM_PLAYER",
+    "runs": 200,
+    "successRate": 0.72,
+    "successes": 144
+  },
+  "levelId": "p02l023",
+  "simVersion": 1,
+  "stars": {
+    "three": 8900,
+    "two": 8204
+  },
+  "variantHash": "71f503df5f6fa61661e37c99ba4c5fe5a90899fdcec016b6fc5d7b5fe3d6778d",
+  "witness": {
+    "attemptIndex": 0,
+    "finalHash": 6576240901908736336,
+    "finalTick": 1263,
+    "inputLog": {
+      "entries": [
+        {
+          "action": {
+            "type": "snap",
+            "x": 173,
+            "y": 199
+          },
+          "tick": 15
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 190,
+            "y": 197
+          },
+          "tick": 160
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 212,
+            "y": 197
+          },
+          "tick": 306
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 161,
+            "y": 199
+          },
+          "tick": 446
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 141,
+            "y": 193
+          },
+          "tick": 591
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 121,
+            "y": 197
+          },
+          "tick": 731
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 59,
+            "y": 192
+          },
+          "tick": 875
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 127,
+            "y": 194
+          },
+          "tick": 1020
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 100,
+            "y": 197
+          },
+          "tick": 1164
+        }
+      ]
+    },
+    "seed": 2115538751088606371
+  }
+}

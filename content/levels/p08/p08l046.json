@@ -1,0 +1,192 @@
+{
+  "family": "flock-v",
+  "id": "p08l046",
+  "ordinal": 46,
+  "place": 8,
+  "tags": [
+    "place8"
+  ],
+  "type": "FLOCK",
+  "variants": {
+    "EASY": {
+      "birds": 15,
+      "frameScale": 125,
+      "levelSeed": -5323460028998845423,
+      "modifiers": [
+        "DIVE"
+      ],
+      "need": 10,
+      "patterns": [
+        "FORMATION",
+        "GLIDE"
+      ],
+      "photosPerBird": 6,
+      "ramp": 1,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "mandarin",
+          "weight": 30
+        },
+        {
+          "id": "wood_duck",
+          "weight": 25
+        },
+        {
+          "id": "ferruginous_duck",
+          "weight": 20
+        },
+        {
+          "id": "tufted_duck",
+          "weight": 15
+        },
+        {
+          "id": "pochard",
+          "weight": 10
+        }
+      ],
+      "speed": 80,
+      "stars": {
+        "three": 10395,
+        "two": 8710
+      },
+      "timeoutTicks": 480
+    },
+    "HARD": {
+      "birds": 15,
+      "frameScale": 85,
+      "levelSeed": 3613656973906950670,
+      "modifiers": [
+        "DIVE"
+      ],
+      "need": 9,
+      "patterns": [
+        "FORMATION",
+        "GLIDE"
+      ],
+      "photosPerBird": 6,
+      "ramp": 5,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "mandarin",
+          "weight": 30
+        },
+        {
+          "id": "wood_duck",
+          "weight": 25
+        },
+        {
+          "id": "ferruginous_duck",
+          "weight": 20
+        },
+        {
+          "id": "tufted_duck",
+          "weight": 15
+        },
+        {
+          "id": "pochard",
+          "weight": 10
+        }
+      ],
+      "speed": 120,
+      "stars": {
+        "three": 9360,
+        "two": 8005
+      },
+      "timeoutTicks": 300
+    },
+    "MEDIUM": {
+      "birds": 15,
+      "frameScale": 100,
+      "levelSeed": 2852922240061577157,
+      "modifiers": [
+        "DIVE"
+      ],
+      "need": 9,
+      "patterns": [
+        "FORMATION",
+        "GLIDE"
+      ],
+      "photosPerBird": 6,
+      "ramp": 3,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "mandarin",
+          "weight": 30
+        },
+        {
+          "id": "wood_duck",
+          "weight": 25
+        },
+        {
+          "id": "ferruginous_duck",
+          "weight": 20
+        },
+        {
+          "id": "tufted_duck",
+          "weight": 15
+        },
+        {
+          "id": "pochard",
+          "weight": 10
+        }
+      ],
+      "speed": 100,
+      "stars": {
+        "three": 9650,
+        "two": 7955
+      },
+      "timeoutTicks": 390
+    }
+  }
+}

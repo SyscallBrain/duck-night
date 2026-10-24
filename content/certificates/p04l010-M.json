@@ -1,0 +1,70 @@
+{
+  "botVersion": 2,
+  "difficulty": "MEDIUM",
+  "human": {
+    "meanScore": 5651.462427745665,
+    "p35": 5149,
+    "p70": 6174,
+    "profile": "MEDIUM_PLAYER",
+    "runs": 200,
+    "successRate": 0.865,
+    "successes": 173
+  },
+  "levelId": "p04l010",
+  "simVersion": 1,
+  "stars": {
+    "three": 6174,
+    "two": 5149
+  },
+  "variantHash": "49c3087d1cbf6ab1990ec571c2214e6f257cc259db0f40ba9b9f1a37194d6798",
+  "witness": {
+    "attemptIndex": 2,
+    "finalHash": 4591321081196651493,
+    "finalTick": 284,
+    "inputLog": {
+      "entries": [
+        {
+          "action": {
+            "type": "snap",
+            "x": 10,
+            "y": 120
+          },
+          "tick": 16
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 115,
+            "y": 206
+          },
+          "tick": 86
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 47,
+            "y": 120
+          },
+          "tick": 97
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 127,
+            "y": 206
+          },
+          "tick": 216
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 70,
+            "y": 120
+          },
+          "tick": 232
+        }
+      ]
+    },
+    "seed": -6554439172225948127
+  }
+}

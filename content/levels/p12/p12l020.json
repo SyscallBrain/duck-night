@@ -1,0 +1,426 @@
+{
+  "family": "classic-glide",
+  "id": "p12l020",
+  "ordinal": 20,
+  "place": 12,
+  "tags": [
+    "place12"
+  ],
+  "type": "CLASSIC",
+  "variants": {
+    "EASY": {
+      "birds": 10,
+      "frameScale": 125,
+      "levelSeed": 1393269671291406686,
+      "modifiers": [],
+      "need": 9,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 1,
+      "species": [
+        {
+          "id": "mallard",
+          "weight": 10
+        },
+        {
+          "id": "teal",
+          "weight": 10
+        },
+        {
+          "id": "gadwall",
+          "weight": 10
+        },
+        {
+          "id": "wigeon",
+          "weight": 10
+        },
+        {
+          "id": "pochard",
+          "weight": 10
+        },
+        {
+          "id": "shoveler",
+          "weight": 10
+        },
+        {
+          "id": "pintail",
+          "weight": 10
+        },
+        {
+          "id": "garganey",
+          "weight": 10
+        },
+        {
+          "id": "greylag",
+          "weight": 10
+        },
+        {
+          "id": "barnacle",
+          "weight": 10
+        },
+        {
+          "id": "ruddy_shelduck",
+          "weight": 10
+        },
+        {
+          "id": "shelduck",
+          "weight": 10
+        },
+        {
+          "id": "coot",
+          "weight": 10
+        },
+        {
+          "id": "scoter",
+          "weight": 10
+        },
+        {
+          "id": "eider",
+          "weight": 10
+        },
+        {
+          "id": "merganser",
+          "weight": 10
+        },
+        {
+          "id": "golden",
+          "weight": 10
+        },
+        {
+          "id": "tufted_duck",
+          "weight": 10
+        },
+        {
+          "id": "red_crested_pochard",
+          "weight": 10
+        },
+        {
+          "id": "egyptian_goose",
+          "weight": 10
+        },
+        {
+          "id": "snow_goose",
+          "weight": 10
+        },
+        {
+          "id": "long_tailed_duck",
+          "weight": 10
+        },
+        {
+          "id": "goldeneye",
+          "weight": 10
+        },
+        {
+          "id": "great_crested_grebe",
+          "weight": 10
+        },
+        {
+          "id": "red_breasted_merganser",
+          "weight": 10
+        },
+        {
+          "id": "white_headed_duck",
+          "weight": 10
+        },
+        {
+          "id": "mandarin",
+          "weight": 10
+        },
+        {
+          "id": "wood_duck",
+          "weight": 10
+        },
+        {
+          "id": "ferruginous_duck",
+          "weight": 10
+        },
+        {
+          "id": "brent_goose",
+          "weight": 10
+        }
+      ],
+      "speed": 80,
+      "stars": {
+        "three": 10736,
+        "two": 9383
+      },
+      "timeoutTicks": 480
+    },
+    "HARD": {
+      "birds": 10,
+      "frameScale": 85,
+      "levelSeed": -1933689270227980869,
+      "modifiers": [],
+      "need": 9,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 5,
+      "species": [
+        {
+          "id": "mallard",
+          "weight": 10
+        },
+        {
+          "id": "teal",
+          "weight": 10
+        },
+        {
+          "id": "gadwall",
+          "weight": 10
+        },
+        {
+          "id": "wigeon",
+          "weight": 10
+        },
+        {
+          "id": "pochard",
+          "weight": 10
+        },
+        {
+          "id": "shoveler",
+          "weight": 10
+        },
+        {
+          "id": "pintail",
+          "weight": 10
+        },
+        {
+          "id": "garganey",
+          "weight": 10
+        },
+        {
+          "id": "greylag",
+          "weight": 10
+        },
+        {
+          "id": "barnacle",
+          "weight": 10
+        },
+        {
+          "id": "ruddy_shelduck",
+          "weight": 10
+        },
+        {
+          "id": "shelduck",
+          "weight": 10
+        },
+        {
+          "id": "coot",
+          "weight": 10
+        },
+        {
+          "id": "scoter",
+          "weight": 10
+        },
+        {
+          "id": "eider",
+          "weight": 10
+        },
+        {
+          "id": "merganser",
+          "weight": 10
+        },
+        {
+          "id": "golden",
+          "weight": 10
+        },
+        {
+          "id": "tufted_duck",
+          "weight": 10
+        },
+        {
+          "id": "red_crested_pochard",
+          "weight": 10
+        },
+        {
+          "id": "egyptian_goose",
+          "weight": 10
+        },
+        {
+          "id": "snow_goose",
+          "weight": 10
+        },
+        {
+          "id": "long_tailed_duck",
+          "weight": 10
+        },
+        {
+          "id": "goldeneye",
+          "weight": 10
+        },
+        {
+          "id": "great_crested_grebe",
+          "weight": 10
+        },
+        {
+          "id": "red_breasted_merganser",
+          "weight": 10
+        },
+        {
+          "id": "white_headed_duck",
+          "weight": 10
+        },
+        {
+          "id": "mandarin",
+          "weight": 10
+        },
+        {
+          "id": "wood_duck",
+          "weight": 10
+        },
+        {
+          "id": "ferruginous_duck",
+          "weight": 10
+        },
+        {
+          "id": "brent_goose",
+          "weight": 10
+        }
+      ],
+      "speed": 160,
+      "stars": {
+        "three": 11292,
+        "two": 9685
+      },
+      "timeoutTicks": 300
+    },
+    "MEDIUM": {
+      "birds": 10,
+      "frameScale": 100,
+      "levelSeed": -4326256140122086746,
+      "modifiers": [],
+      "need": 9,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 3,
+      "species": [
+        {
+          "id": "mallard",
+          "weight": 10
+        },
+        {
+          "id": "teal",
+          "weight": 10
+        },
+        {
+          "id": "gadwall",
+          "weight": 10
+        },
+        {
+          "id": "wigeon",
+          "weight": 10
+        },
+        {
+          "id": "pochard",
+          "weight": 10
+        },
+        {
+          "id": "shoveler",
+          "weight": 10
+        },
+        {
+          "id": "pintail",
+          "weight": 10
+        },
+        {
+          "id": "garganey",
+          "weight": 10
+        },
+        {
+          "id": "greylag",
+          "weight": 10
+        },
+        {
+          "id": "barnacle",
+          "weight": 10
+        },
+        {
+          "id": "ruddy_shelduck",
+          "weight": 10
+        },
+        {
+          "id": "shelduck",
+          "weight": 10
+        },
+        {
+          "id": "coot",
+          "weight": 10
+        },
+        {
+          "id": "scoter",
+          "weight": 10
+        },
+        {
+          "id": "eider",
+          "weight": 10
+        },
+        {
+          "id": "merganser",
+          "weight": 10
+        },
+        {
+          "id": "golden",
+          "weight": 10
+        },
+        {
+          "id": "tufted_duck",
+          "weight": 10
+        },
+        {
+          "id": "red_crested_pochard",
+          "weight": 10
+        },
+        {
+          "id": "egyptian_goose",
+          "weight": 10
+        },
+        {
+          "id": "snow_goose",
+          "weight": 10
+        },
+        {
+          "id": "long_tailed_duck",
+          "weight": 10
+        },
+        {
+          "id": "goldeneye",
+          "weight": 10
+        },
+        {
+          "id": "great_crested_grebe",
+          "weight": 10
+        },
+        {
+          "id": "red_breasted_merganser",
+          "weight": 10
+        },
+        {
+          "id": "white_headed_duck",
+          "weight": 10
+        },
+        {
+          "id": "mandarin",
+          "weight": 10
+        },
+        {
+          "id": "wood_duck",
+          "weight": 10
+        },
+        {
+          "id": "ferruginous_duck",
+          "weight": 10
+        },
+        {
+          "id": "brent_goose",
+          "weight": 10
+        }
+      ],
+      "speed": 100,
+      "stars": {
+        "three": 10456,
+        "two": 9181
+      },
+      "timeoutTicks": 390
+    }
+  }
+}

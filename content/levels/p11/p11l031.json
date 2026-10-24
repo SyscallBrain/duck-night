@@ -1,0 +1,201 @@
+{
+  "family": "clay-cross",
+  "id": "p11l031",
+  "ordinal": 31,
+  "place": 11,
+  "tags": [
+    "place11"
+  ],
+  "type": "CLAY",
+  "variants": {
+    "EASY": {
+      "birds": 20,
+      "frameScale": 125,
+      "levelSeed": 7887353372549811524,
+      "modifiers": [],
+      "need": 6,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 1,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "golden",
+          "weight": 15
+        },
+        {
+          "id": "eider",
+          "weight": 20
+        },
+        {
+          "id": "scoter",
+          "weight": 20
+        },
+        {
+          "id": "merganser",
+          "weight": 15
+        },
+        {
+          "id": "red_crested_pochard",
+          "weight": 10
+        },
+        {
+          "id": "goldeneye",
+          "weight": 10
+        },
+        {
+          "id": "tufted_duck",
+          "weight": 10
+        }
+      ],
+      "speed": 80,
+      "stars": {
+        "three": 6431,
+        "two": 5026
+      },
+      "timeoutTicks": 480
+    },
+    "HARD": {
+      "birds": 20,
+      "frameScale": 85,
+      "levelSeed": 3970171420837481901,
+      "modifiers": [],
+      "need": 10,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 5,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "golden",
+          "weight": 15
+        },
+        {
+          "id": "eider",
+          "weight": 20
+        },
+        {
+          "id": "scoter",
+          "weight": 20
+        },
+        {
+          "id": "merganser",
+          "weight": 15
+        },
+        {
+          "id": "red_crested_pochard",
+          "weight": 10
+        },
+        {
+          "id": "goldeneye",
+          "weight": 10
+        },
+        {
+          "id": "tufted_duck",
+          "weight": 10
+        }
+      ],
+      "speed": 120,
+      "stars": {
+        "three": 7383,
+        "two": 6369
+      },
+      "timeoutTicks": 300
+    },
+    "MEDIUM": {
+      "birds": 20,
+      "frameScale": 100,
+      "levelSeed": 7809697969605456729,
+      "modifiers": [],
+      "need": 7,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 3,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "golden",
+          "weight": 15
+        },
+        {
+          "id": "eider",
+          "weight": 20
+        },
+        {
+          "id": "scoter",
+          "weight": 20
+        },
+        {
+          "id": "merganser",
+          "weight": 15
+        },
+        {
+          "id": "red_crested_pochard",
+          "weight": 10
+        },
+        {
+          "id": "goldeneye",
+          "weight": 10
+        },
+        {
+          "id": "tufted_duck",
+          "weight": 10
+        }
+      ],
+      "speed": 100,
+      "stars": {
+        "three": 5922,
+        "two": 4766
+      },
+      "timeoutTicks": 390
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "botVersion": 2,
+  "difficulty": "HARD",
+  "human": {
+    "meanScore": 10953.008130081302,
+    "p35": 10345,
+    "p70": 11790,
+    "profile": "HARD_PLAYER",
+    "runs": 200,
+    "successRate": 0.615,
+    "successes": 123
+  },
+  "levelId": "p08l039",
+  "simVersion": 1,
+  "stars": {
+    "three": 11790,
+    "two": 10345
+  },
+  "variantHash": "9900e2757c8c8b2388ee0b9fc1d996e145fda3055862f4e3e5d4b0d55f771ee6",
+  "witness": {
+    "attemptIndex": 0,
+    "finalHash": 9174865724454168316,
+    "finalTick": 717,
+    "inputLog": {
+      "entries": [
+        {
+          "action": {
+            "type": "snap",
+            "x": 93,
+            "y": 194
+          },
+          "tick": 15
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 190,
+            "y": 179
+          },
+          "tick": 27
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 111,
+            "y": 188
+          },
+          "tick": 163
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 151,
+            "y": 174
+          },
+          "tick": 179
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 125,
+            "y": 194
+          },
+          "tick": 316
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 181,
+            "y": 178
+          },
+          "tick": 329
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 68,
+            "y": 178
+          },
+          "tick": 466
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 100,
+            "y": 179
+          },
+          "tick": 610
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 214,
+            "y": 169
+          },
+          "tick": 627
+        }
+      ]
+    },
+    "seed": -5788245189259442718
+  }
+}

@@ -1,0 +1,1 @@
+Duck Night 1.0.0: a campanha completa de 600 níveis, doze lugares, quarenta e oito aves, a feira, a arcada, o desafio diário, o treino, o duelo a dois e a repetição do falhanço. Novas opções de acessibilidade e uma versão reproduzível.

@@ -1,0 +1,222 @@
+{
+  "family": "timed-stream",
+  "id": "p06l020",
+  "ordinal": 20,
+  "place": 6,
+  "tags": [
+    "place6"
+  ],
+  "type": "TIMED",
+  "variants": {
+    "EASY": {
+      "birds": 100,
+      "frameScale": 125,
+      "levelSeed": -4234691658655103317,
+      "modifiers": [
+        "SNOW",
+        "PROTECTED"
+      ],
+      "need": 18,
+      "patterns": [],
+      "photosPerBird": 999,
+      "ramp": 1,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 1,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "snow_goose",
+          "weight": 35
+        },
+        {
+          "id": "long_tailed_duck",
+          "weight": 25
+        },
+        {
+          "id": "goldeneye",
+          "weight": 20
+        },
+        {
+          "id": "barnacle",
+          "weight": 10
+        },
+        {
+          "id": "greylag",
+          "weight": 10
+        },
+        {
+          "id": "white_stork",
+          "weight": 25
+        },
+        {
+          "id": "heron",
+          "weight": 25
+        },
+        {
+          "id": "little_egret",
+          "weight": 20
+        }
+      ],
+      "speed": 80,
+      "stars": {
+        "three": 23355,
+        "two": 21301
+      },
+      "timeoutTicks": 480
+    },
+    "HARD": {
+      "birds": 100,
+      "frameScale": 85,
+      "levelSeed": -4827985449173038710,
+      "modifiers": [
+        "SNOW",
+        "PROTECTED"
+      ],
+      "need": 18,
+      "patterns": [],
+      "photosPerBird": 999,
+      "ramp": 5,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 3,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "snow_goose",
+          "weight": 35
+        },
+        {
+          "id": "long_tailed_duck",
+          "weight": 25
+        },
+        {
+          "id": "goldeneye",
+          "weight": 20
+        },
+        {
+          "id": "barnacle",
+          "weight": 10
+        },
+        {
+          "id": "greylag",
+          "weight": 10
+        },
+        {
+          "id": "white_stork",
+          "weight": 25
+        },
+        {
+          "id": "heron",
+          "weight": 25
+        },
+        {
+          "id": "little_egret",
+          "weight": 20
+        }
+      ],
+      "speed": 120,
+      "stars": {
+        "three": 22330,
+        "two": 20418
+      },
+      "timeoutTicks": 300
+    },
+    "MEDIUM": {
+      "birds": 100,
+      "frameScale": 100,
+      "levelSeed": 494743318270040528,
+      "modifiers": [
+        "SNOW",
+        "PROTECTED"
+      ],
+      "need": 18,
+      "patterns": [],
+      "photosPerBird": 999,
+      "ramp": 3,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "snow_goose",
+          "weight": 35
+        },
+        {
+          "id": "long_tailed_duck",
+          "weight": 25
+        },
+        {
+          "id": "goldeneye",
+          "weight": 20
+        },
+        {
+          "id": "barnacle",
+          "weight": 10
+        },
+        {
+          "id": "greylag",
+          "weight": 10
+        },
+        {
+          "id": "white_stork",
+          "weight": 25
+        },
+        {
+          "id": "heron",
+          "weight": 25
+        },
+        {
+          "id": "little_egret",
+          "weight": 20
+        }
+      ],
+      "speed": 100,
+      "stars": {
+        "three": 22417,
+        "two": 19895
+      },
+      "timeoutTicks": 390
+    }
+  }
+}

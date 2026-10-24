@@ -1,0 +1,102 @@
+{
+  "botVersion": 2,
+  "difficulty": "MEDIUM",
+  "human": {
+    "meanScore": 13918.608108108108,
+    "p35": 12315,
+    "p70": 15710,
+    "profile": "MEDIUM_PLAYER",
+    "runs": 200,
+    "successRate": 0.74,
+    "successes": 148
+  },
+  "levelId": "p11l004",
+  "simVersion": 1,
+  "stars": {
+    "three": 15710,
+    "two": 12315
+  },
+  "variantHash": "723c33626651002c76db32426e568e727230750a37d32f38cc79fa798ec5a242",
+  "witness": {
+    "attemptIndex": 0,
+    "finalHash": 8649222826835210631,
+    "finalTick": 984,
+    "inputLog": {
+      "entries": [
+        {
+          "action": {
+            "type": "snap",
+            "x": 17,
+            "y": 131
+          },
+          "tick": 59
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 178,
+            "y": 136
+          },
+          "tick": 70
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 66,
+            "y": 129
+          },
+          "tick": 236
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 117,
+            "y": 124
+          },
+          "tick": 250
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 80,
+            "y": 210
+          },
+          "tick": 466
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 18,
+            "y": 228
+          },
+          "tick": 519
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 38,
+            "y": 133
+          },
+          "tick": 723
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 210,
+            "y": 200
+          },
+          "tick": 859
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 191,
+            "y": 204
+          },
+          "tick": 882
+        }
+      ]
+    },
+    "seed": -5869572563161982910
+  }
+}

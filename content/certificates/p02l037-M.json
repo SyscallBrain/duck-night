@@ -1,0 +1,102 @@
+{
+  "botVersion": 2,
+  "difficulty": "MEDIUM",
+  "human": {
+    "meanScore": 7950.269662921349,
+    "p35": 7576,
+    "p70": 8454,
+    "profile": "MEDIUM_PLAYER",
+    "runs": 200,
+    "successRate": 0.89,
+    "successes": 178
+  },
+  "levelId": "p02l037",
+  "simVersion": 1,
+  "stars": {
+    "three": 8454,
+    "two": 7576
+  },
+  "variantHash": "a092f2550715b0a5e698a86c760fe81d92d767beba430c5c6df6eb72ef090621",
+  "witness": {
+    "attemptIndex": 0,
+    "finalHash": -1718107347647156707,
+    "finalTick": 1229,
+    "inputLog": {
+      "entries": [
+        {
+          "action": {
+            "type": "snap",
+            "x": 174,
+            "y": 190
+          },
+          "tick": 15
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 183,
+            "y": 186
+          },
+          "tick": 156
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 175,
+            "y": 193
+          },
+          "tick": 297
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 57,
+            "y": 193
+          },
+          "tick": 440
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 62,
+            "y": 178
+          },
+          "tick": 583
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 115,
+            "y": 187
+          },
+          "tick": 718
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 112,
+            "y": 183
+          },
+          "tick": 858
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 128,
+            "y": 190
+          },
+          "tick": 994
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 224,
+            "y": 185
+          },
+          "tick": 1134
+        }
+      ]
+    },
+    "seed": -3396598039319436198
+  }
+}

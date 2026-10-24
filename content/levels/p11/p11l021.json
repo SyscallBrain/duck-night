@@ -1,0 +1,321 @@
+{
+  "family": "classic-fast",
+  "id": "p11l021",
+  "ordinal": 21,
+  "place": 11,
+  "tags": [
+    "place11"
+  ],
+  "type": "CLASSIC",
+  "variants": {
+    "EASY": {
+      "birds": 10,
+      "frameScale": 125,
+      "levelSeed": -5432122195862146157,
+      "modifiers": [
+        "PROTECTED",
+        "COVER"
+      ],
+      "need": 6,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 1,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [
+          {
+            "height": 44,
+            "width": 42,
+            "x": 20,
+            "y": 190
+          },
+          {
+            "height": 38,
+            "width": 44,
+            "x": 178,
+            "y": 196
+          }
+        ],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 1,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "golden",
+          "weight": 15
+        },
+        {
+          "id": "eider",
+          "weight": 20
+        },
+        {
+          "id": "scoter",
+          "weight": 20
+        },
+        {
+          "id": "merganser",
+          "weight": 15
+        },
+        {
+          "id": "red_crested_pochard",
+          "weight": 10
+        },
+        {
+          "id": "goldeneye",
+          "weight": 10
+        },
+        {
+          "id": "tufted_duck",
+          "weight": 10
+        },
+        {
+          "id": "white_stork",
+          "weight": 25
+        },
+        {
+          "id": "heron",
+          "weight": 25
+        },
+        {
+          "id": "little_egret",
+          "weight": 20
+        },
+        {
+          "id": "spoonbill",
+          "weight": 20
+        },
+        {
+          "id": "flamingo",
+          "weight": 20
+        },
+        {
+          "id": "crane",
+          "weight": 20
+        }
+      ],
+      "speed": 80,
+      "stars": {
+        "three": 15225,
+        "two": 13105
+      },
+      "timeoutTicks": 480
+    },
+    "HARD": {
+      "birds": 10,
+      "frameScale": 85,
+      "levelSeed": 8727268859907952675,
+      "modifiers": [
+        "PROTECTED",
+        "COVER"
+      ],
+      "need": 9,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 5,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [
+          {
+            "height": 44,
+            "width": 42,
+            "x": 20,
+            "y": 190
+          },
+          {
+            "height": 38,
+            "width": 44,
+            "x": 178,
+            "y": 196
+          }
+        ],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 3,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "golden",
+          "weight": 15
+        },
+        {
+          "id": "eider",
+          "weight": 20
+        },
+        {
+          "id": "scoter",
+          "weight": 20
+        },
+        {
+          "id": "merganser",
+          "weight": 15
+        },
+        {
+          "id": "red_crested_pochard",
+          "weight": 10
+        },
+        {
+          "id": "goldeneye",
+          "weight": 10
+        },
+        {
+          "id": "tufted_duck",
+          "weight": 10
+        },
+        {
+          "id": "white_stork",
+          "weight": 25
+        },
+        {
+          "id": "heron",
+          "weight": 25
+        },
+        {
+          "id": "little_egret",
+          "weight": 20
+        },
+        {
+          "id": "spoonbill",
+          "weight": 20
+        },
+        {
+          "id": "flamingo",
+          "weight": 20
+        },
+        {
+          "id": "crane",
+          "weight": 20
+        }
+      ],
+      "speed": 120,
+      "stars": {
+        "three": 15835,
+        "two": 13510
+      },
+      "timeoutTicks": 300
+    },
+    "MEDIUM": {
+      "birds": 10,
+      "frameScale": 100,
+      "levelSeed": -8868936525641793867,
+      "modifiers": [
+        "PROTECTED",
+        "COVER"
+      ],
+      "need": 9,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 3,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [
+          {
+            "height": 44,
+            "width": 42,
+            "x": 20,
+            "y": 190
+          },
+          {
+            "height": 38,
+            "width": 44,
+            "x": 178,
+            "y": 196
+          }
+        ],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "golden",
+          "weight": 15
+        },
+        {
+          "id": "eider",
+          "weight": 20
+        },
+        {
+          "id": "scoter",
+          "weight": 20
+        },
+        {
+          "id": "merganser",
+          "weight": 15
+        },
+        {
+          "id": "red_crested_pochard",
+          "weight": 10
+        },
+        {
+          "id": "goldeneye",
+          "weight": 10
+        },
+        {
+          "id": "tufted_duck",
+          "weight": 10
+        },
+        {
+          "id": "white_stork",
+          "weight": 25
+        },
+        {
+          "id": "heron",
+          "weight": 25
+        },
+        {
+          "id": "little_egret",
+          "weight": 20
+        },
+        {
+          "id": "spoonbill",
+          "weight": 20
+        },
+        {
+          "id": "flamingo",
+          "weight": 20
+        },
+        {
+          "id": "crane",
+          "weight": 20
+        }
+      ],
+      "speed": 100,
+      "stars": {
+        "three": 15305,
+        "two": 13310
+      },
+      "timeoutTicks": 390
+    }
+  }
+}

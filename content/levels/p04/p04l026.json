@@ -1,0 +1,219 @@
+{
+  "family": "flock-v",
+  "id": "p04l026",
+  "ordinal": 26,
+  "place": 4,
+  "tags": [
+    "place4"
+  ],
+  "type": "FLOCK",
+  "variants": {
+    "EASY": {
+      "birds": 15,
+      "frameScale": 125,
+      "levelSeed": -5240442710855556276,
+      "modifiers": [
+        "FOG"
+      ],
+      "need": 10,
+      "patterns": [
+        "FORMATION",
+        "GLIDE"
+      ],
+      "photosPerBird": 6,
+      "ramp": 1,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [
+          {
+            "height": 40,
+            "phase": 0,
+            "speed": 0,
+            "y": 60
+          },
+          {
+            "height": 50,
+            "phase": 0,
+            "speed": 0,
+            "y": 150
+          }
+        ],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "shelduck",
+          "weight": 35
+        },
+        {
+          "id": "coot",
+          "weight": 30
+        },
+        {
+          "id": "pochard",
+          "weight": 25
+        },
+        {
+          "id": "teal",
+          "weight": 10
+        }
+      ],
+      "speed": 80,
+      "stars": {
+        "three": 6037,
+        "two": 5032
+      },
+      "timeoutTicks": 480
+    },
+    "HARD": {
+      "birds": 15,
+      "frameScale": 85,
+      "levelSeed": 7105985789574388709,
+      "modifiers": [
+        "FOG"
+      ],
+      "need": 10,
+      "patterns": [
+        "FORMATION",
+        "GLIDE"
+      ],
+      "photosPerBird": 6,
+      "ramp": 5,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [
+          {
+            "height": 40,
+            "phase": 0,
+            "speed": 0,
+            "y": 60
+          },
+          {
+            "height": 50,
+            "phase": 0,
+            "speed": 0,
+            "y": 150
+          }
+        ],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "shelduck",
+          "weight": 35
+        },
+        {
+          "id": "coot",
+          "weight": 30
+        },
+        {
+          "id": "pochard",
+          "weight": 25
+        },
+        {
+          "id": "teal",
+          "weight": 10
+        }
+      ],
+      "speed": 120,
+      "stars": {
+        "three": 6415,
+        "two": 5180
+      },
+      "timeoutTicks": 300
+    },
+    "MEDIUM": {
+      "birds": 15,
+      "frameScale": 100,
+      "levelSeed": -5246508248021808311,
+      "modifiers": [
+        "FOG"
+      ],
+      "need": 9,
+      "patterns": [
+        "FORMATION",
+        "GLIDE"
+      ],
+      "photosPerBird": 6,
+      "ramp": 3,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [
+          {
+            "height": 40,
+            "phase": 0,
+            "speed": 0,
+            "y": 60
+          },
+          {
+            "height": 50,
+            "phase": 0,
+            "speed": 0,
+            "y": 150
+          }
+        ],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "shelduck",
+          "weight": 35
+        },
+        {
+          "id": "coot",
+          "weight": 30
+        },
+        {
+          "id": "pochard",
+          "weight": 25
+        },
+        {
+          "id": "teal",
+          "weight": 10
+        }
+      ],
+      "speed": 100,
+      "stars": {
+        "three": 6270,
+        "two": 5226
+      },
+      "timeoutTicks": 390
+    }
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "family": "film-tight",
+  "id": "p07l030",
+  "ordinal": 30,
+  "place": 7,
+  "tags": [
+    "place7"
+  ],
+  "type": "FILM",
+  "variants": {
+    "EASY": {
+      "birds": 10,
+      "frameScale": 125,
+      "levelSeed": -2966668591365231600,
+      "modifiers": [
+        "WIND"
+      ],
+      "need": 6,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 1,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 16
+      },
+      "species": [
+        {
+          "id": "great_crested_grebe",
+          "weight": 30
+        },
+        {
+          "id": "red_breasted_merganser",
+          "weight": 25
+        },
+        {
+          "id": "white_headed_duck",
+          "weight": 20
+        },
+        {
+          "id": "tufted_duck",
+          "weight": 15
+        },
+        {
+          "id": "coot",
+          "weight": 10
+        }
+      ],
+      "speed": 80,
+      "stars": {
+        "three": 9716,
+        "two": 8255
+      },
+      "timeoutTicks": 480
+    },
+    "HARD": {
+      "birds": 10,
+      "frameScale": 85,
+      "levelSeed": -4526705894370731025,
+      "modifiers": [
+        "WIND"
+      ],
+      "need": 7,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 5,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 13,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 16
+      },
+      "species": [
+        {
+          "id": "great_crested_grebe",
+          "weight": 30
+        },
+        {
+          "id": "red_breasted_merganser",
+          "weight": 25
+        },
+        {
+          "id": "white_headed_duck",
+          "weight": 20
+        },
+        {
+          "id": "tufted_duck",
+          "weight": 15
+        },
+        {
+          "id": "coot",
+          "weight": 10
+        }
+      ],
+      "speed": 120,
+      "stars": {
+        "three": 9235,
+        "two": 7855
+      },
+      "timeoutTicks": 300
+    },
+    "MEDIUM": {
+      "birds": 10,
+      "frameScale": 100,
+      "levelSeed": 2869159681524516080,
+      "modifiers": [
+        "WIND"
+      ],
+      "need": 7,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 3,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 14,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 16
+      },
+      "species": [
+        {
+          "id": "great_crested_grebe",
+          "weight": 30
+        },
+        {
+          "id": "red_breasted_merganser",
+          "weight": 25
+        },
+        {
+          "id": "white_headed_duck",
+          "weight": 20
+        },
+        {
+          "id": "tufted_duck",
+          "weight": 15
+        },
+        {
+          "id": "coot",
+          "weight": 10
+        }
+      ],
+      "speed": 90,
+      "stars": {
+        "three": 9133,
+        "two": 7667
+      },
+      "timeoutTicks": 390
+    }
+  }
+}

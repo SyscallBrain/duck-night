@@ -1,0 +1,228 @@
+{
+  "family": "flock-mixed",
+  "id": "p05l041",
+  "ordinal": 41,
+  "place": 5,
+  "tags": [
+    "place5"
+  ],
+  "type": "FLOCK",
+  "variants": {
+    "EASY": {
+      "birds": 15,
+      "frameScale": 125,
+      "levelSeed": -2594802381776579348,
+      "modifiers": [
+        "PROTECTED"
+      ],
+      "need": 7,
+      "patterns": [
+        "FORMATION",
+        "GLIDE"
+      ],
+      "photosPerBird": 6,
+      "ramp": 1,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 1,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "tufted_duck",
+          "weight": 30
+        },
+        {
+          "id": "red_crested_pochard",
+          "weight": 25
+        },
+        {
+          "id": "egyptian_goose",
+          "weight": 20
+        },
+        {
+          "id": "coot",
+          "weight": 15
+        },
+        {
+          "id": "pochard",
+          "weight": 10
+        },
+        {
+          "id": "white_stork",
+          "weight": 25
+        },
+        {
+          "id": "heron",
+          "weight": 25
+        },
+        {
+          "id": "little_egret",
+          "weight": 20
+        }
+      ],
+      "speed": 80,
+      "stars": {
+        "three": 7408,
+        "two": 6275
+      },
+      "timeoutTicks": 480
+    },
+    "HARD": {
+      "birds": 15,
+      "frameScale": 85,
+      "levelSeed": 6639135468367475751,
+      "modifiers": [
+        "PROTECTED"
+      ],
+      "need": 10,
+      "patterns": [
+        "FORMATION",
+        "GLIDE"
+      ],
+      "photosPerBird": 6,
+      "ramp": 5,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 3,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "tufted_duck",
+          "weight": 30
+        },
+        {
+          "id": "red_crested_pochard",
+          "weight": 25
+        },
+        {
+          "id": "egyptian_goose",
+          "weight": 20
+        },
+        {
+          "id": "coot",
+          "weight": 15
+        },
+        {
+          "id": "pochard",
+          "weight": 10
+        },
+        {
+          "id": "white_stork",
+          "weight": 25
+        },
+        {
+          "id": "heron",
+          "weight": 25
+        },
+        {
+          "id": "little_egret",
+          "weight": 20
+        }
+      ],
+      "speed": 120,
+      "stars": {
+        "three": 7504,
+        "two": 6596
+      },
+      "timeoutTicks": 300
+    },
+    "MEDIUM": {
+      "birds": 15,
+      "frameScale": 100,
+      "levelSeed": 8265362123355323941,
+      "modifiers": [
+        "PROTECTED"
+      ],
+      "need": 10,
+      "patterns": [
+        "FORMATION",
+        "GLIDE"
+      ],
+      "photosPerBird": 6,
+      "ramp": 3,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "tufted_duck",
+          "weight": 30
+        },
+        {
+          "id": "red_crested_pochard",
+          "weight": 25
+        },
+        {
+          "id": "egyptian_goose",
+          "weight": 20
+        },
+        {
+          "id": "coot",
+          "weight": 15
+        },
+        {
+          "id": "pochard",
+          "weight": 10
+        },
+        {
+          "id": "white_stork",
+          "weight": 25
+        },
+        {
+          "id": "heron",
+          "weight": 25
+        },
+        {
+          "id": "little_egret",
+          "weight": 20
+        }
+      ],
+      "speed": 100,
+      "stars": {
+        "three": 7299,
+        "two": 6277
+      },
+      "timeoutTicks": 390
+    }
+  }
+}

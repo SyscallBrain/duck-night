@@ -1,0 +1,102 @@
+{
+  "botVersion": 2,
+  "difficulty": "HARD",
+  "human": {
+    "meanScore": 8103.5298507462685,
+    "p35": 7537,
+    "p70": 8752,
+    "profile": "HARD_PLAYER",
+    "runs": 200,
+    "successRate": 0.67,
+    "successes": 134
+  },
+  "levelId": "p07l016",
+  "simVersion": 1,
+  "stars": {
+    "three": 8752,
+    "two": 7537
+  },
+  "variantHash": "140b9767a01c79208617e17bbdd0c59f40a027f12e02523d6a769f7fce9e7317",
+  "witness": {
+    "attemptIndex": 0,
+    "finalHash": -4576449851131777446,
+    "finalTick": 1609,
+    "inputLog": {
+      "entries": [
+        {
+          "action": {
+            "type": "snap",
+            "x": 167,
+            "y": 135
+          },
+          "tick": 51
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 210,
+            "y": 135
+          },
+          "tick": 68
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 87,
+            "y": 144
+          },
+          "tick": 969
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 68,
+            "y": 139
+          },
+          "tick": 1005
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 115,
+            "y": 132
+          },
+          "tick": 1164
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 186,
+            "y": 140
+          },
+          "tick": 1204
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 40,
+            "y": 129
+          },
+          "tick": 1359
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 30,
+            "y": 138
+          },
+          "tick": 1525
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 171,
+            "y": 105
+          },
+          "tick": 1540
+        }
+      ]
+    },
+    "seed": -8297508939408975071
+  }
+}

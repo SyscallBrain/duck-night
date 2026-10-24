@@ -1,0 +1,183 @@
+{
+  "family": "film-short",
+  "id": "p06l015",
+  "ordinal": 15,
+  "place": 6,
+  "tags": [
+    "place6"
+  ],
+  "type": "FILM",
+  "variants": {
+    "EASY": {
+      "birds": 10,
+      "frameScale": 125,
+      "levelSeed": 8174376505519570520,
+      "modifiers": [
+        "MANUAL_ADVANCE"
+      ],
+      "need": 6,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 1,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "snow_goose",
+          "weight": 35
+        },
+        {
+          "id": "long_tailed_duck",
+          "weight": 25
+        },
+        {
+          "id": "goldeneye",
+          "weight": 20
+        },
+        {
+          "id": "barnacle",
+          "weight": 10
+        },
+        {
+          "id": "greylag",
+          "weight": 10
+        }
+      ],
+      "speed": 80,
+      "stars": {
+        "three": 10820,
+        "two": 9045
+      },
+      "timeoutTicks": 480
+    },
+    "HARD": {
+      "birds": 10,
+      "frameScale": 85,
+      "levelSeed": -5742539310588686825,
+      "modifiers": [
+        "MANUAL_ADVANCE"
+      ],
+      "need": 7,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 5,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 13,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "snow_goose",
+          "weight": 35
+        },
+        {
+          "id": "long_tailed_duck",
+          "weight": 25
+        },
+        {
+          "id": "goldeneye",
+          "weight": 20
+        },
+        {
+          "id": "barnacle",
+          "weight": 10
+        },
+        {
+          "id": "greylag",
+          "weight": 10
+        }
+      ],
+      "speed": 120,
+      "stars": {
+        "three": 9751,
+        "two": 8331
+      },
+      "timeoutTicks": 300
+    },
+    "MEDIUM": {
+      "birds": 10,
+      "frameScale": 100,
+      "levelSeed": -96084725418801284,
+      "modifiers": [
+        "MANUAL_ADVANCE"
+      ],
+      "need": 7,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 3,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 14,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "snow_goose",
+          "weight": 35
+        },
+        {
+          "id": "long_tailed_duck",
+          "weight": 25
+        },
+        {
+          "id": "goldeneye",
+          "weight": 20
+        },
+        {
+          "id": "barnacle",
+          "weight": 10
+        },
+        {
+          "id": "greylag",
+          "weight": 10
+        }
+      ],
+      "speed": 100,
+      "stars": {
+        "three": 9948,
+        "two": 8263
+      },
+      "timeoutTicks": 390
+    }
+  }
+}

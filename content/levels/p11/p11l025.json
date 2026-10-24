@@ -1,0 +1,252 @@
+{
+  "family": "timed-waves",
+  "id": "p11l025",
+  "ordinal": 25,
+  "place": 11,
+  "tags": [
+    "place11"
+  ],
+  "type": "TIMED",
+  "variants": {
+    "EASY": {
+      "birds": 100,
+      "frameScale": 125,
+      "levelSeed": -6069939404745295463,
+      "modifiers": [
+        "GOLDEN",
+        "FOG",
+        "SNOW"
+      ],
+      "need": 10,
+      "patterns": [],
+      "photosPerBird": 999,
+      "ramp": 1,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [
+          {
+            "height": 40,
+            "phase": 0,
+            "speed": 0,
+            "y": 60
+          },
+          {
+            "height": 50,
+            "phase": 0,
+            "speed": 0,
+            "y": 150
+          }
+        ],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "golden",
+          "weight": 15
+        },
+        {
+          "id": "eider",
+          "weight": 20
+        },
+        {
+          "id": "scoter",
+          "weight": 20
+        },
+        {
+          "id": "merganser",
+          "weight": 15
+        },
+        {
+          "id": "red_crested_pochard",
+          "weight": 10
+        },
+        {
+          "id": "goldeneye",
+          "weight": 10
+        },
+        {
+          "id": "tufted_duck",
+          "weight": 10
+        }
+      ],
+      "speed": 80,
+      "stars": {
+        "three": 25575,
+        "two": 20510
+      },
+      "timeoutTicks": 480
+    },
+    "HARD": {
+      "birds": 100,
+      "frameScale": 85,
+      "levelSeed": -7349387721464924784,
+      "modifiers": [
+        "GOLDEN",
+        "FOG",
+        "SNOW"
+      ],
+      "need": 14,
+      "patterns": [],
+      "photosPerBird": 999,
+      "ramp": 5,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [
+          {
+            "height": 40,
+            "phase": 0,
+            "speed": 0,
+            "y": 60
+          },
+          {
+            "height": 50,
+            "phase": 0,
+            "speed": 0,
+            "y": 150
+          }
+        ],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "golden",
+          "weight": 15
+        },
+        {
+          "id": "eider",
+          "weight": 20
+        },
+        {
+          "id": "scoter",
+          "weight": 20
+        },
+        {
+          "id": "merganser",
+          "weight": 15
+        },
+        {
+          "id": "red_crested_pochard",
+          "weight": 10
+        },
+        {
+          "id": "goldeneye",
+          "weight": 10
+        },
+        {
+          "id": "tufted_duck",
+          "weight": 10
+        }
+      ],
+      "speed": 120,
+      "stars": {
+        "three": 31975,
+        "two": 26765
+      },
+      "timeoutTicks": 300
+    },
+    "MEDIUM": {
+      "birds": 100,
+      "frameScale": 100,
+      "levelSeed": 6272381884974481804,
+      "modifiers": [
+        "GOLDEN",
+        "FOG",
+        "SNOW"
+      ],
+      "need": 12,
+      "patterns": [],
+      "photosPerBird": 999,
+      "ramp": 3,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [
+          {
+            "height": 40,
+            "phase": 0,
+            "speed": 0,
+            "y": 60
+          },
+          {
+            "height": 50,
+            "phase": 0,
+            "speed": 0,
+            "y": 150
+          }
+        ],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "golden",
+          "weight": 15
+        },
+        {
+          "id": "eider",
+          "weight": 20
+        },
+        {
+          "id": "scoter",
+          "weight": 20
+        },
+        {
+          "id": "merganser",
+          "weight": 15
+        },
+        {
+          "id": "red_crested_pochard",
+          "weight": 10
+        },
+        {
+          "id": "goldeneye",
+          "weight": 10
+        },
+        {
+          "id": "tufted_duck",
+          "weight": 10
+        }
+      ],
+      "speed": 100,
+      "stars": {
+        "three": 27247,
+        "two": 22900
+      },
+      "timeoutTicks": 390
+    }
+  }
+}

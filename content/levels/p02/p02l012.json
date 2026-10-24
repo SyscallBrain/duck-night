@@ -1,0 +1,102 @@
+{
+  "family": "double-pair",
+  "id": "p02l012",
+  "ordinal": 12,
+  "place": 2,
+  "tags": [
+    "place2"
+  ],
+  "type": "DOUBLE",
+  "variants": {
+    "EASY": {
+      "birds": 10,
+      "frameScale": 125,
+      "levelSeed": -6229750928660084361,
+      "modifiers": [],
+      "need": 8,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 1,
+      "species": [
+        {
+          "id": "shoveler",
+          "weight": 50
+        },
+        {
+          "id": "pintail",
+          "weight": 30
+        },
+        {
+          "id": "garganey",
+          "weight": 20
+        }
+      ],
+      "speed": 120,
+      "stars": {
+        "three": 8404,
+        "two": 7578
+      },
+      "timeoutTicks": 480
+    },
+    "HARD": {
+      "birds": 10,
+      "frameScale": 85,
+      "levelSeed": -382115958743782456,
+      "modifiers": [],
+      "need": 9,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 5,
+      "species": [
+        {
+          "id": "shoveler",
+          "weight": 50
+        },
+        {
+          "id": "pintail",
+          "weight": 30
+        },
+        {
+          "id": "garganey",
+          "weight": 20
+        }
+      ],
+      "speed": 130,
+      "stars": {
+        "three": 9164,
+        "two": 8478
+      },
+      "timeoutTicks": 300
+    },
+    "MEDIUM": {
+      "birds": 10,
+      "frameScale": 100,
+      "levelSeed": -1674057754794626660,
+      "modifiers": [],
+      "need": 9,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 3,
+      "species": [
+        {
+          "id": "shoveler",
+          "weight": 50
+        },
+        {
+          "id": "pintail",
+          "weight": 30
+        },
+        {
+          "id": "garganey",
+          "weight": 20
+        }
+      ],
+      "speed": 100,
+      "stars": {
+        "three": 8642,
+        "two": 7982
+      },
+      "timeoutTicks": 390
+    }
+  }
+}

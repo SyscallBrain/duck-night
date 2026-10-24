@@ -1,0 +1,110 @@
+{
+  "botVersion": 2,
+  "difficulty": "HARD",
+  "human": {
+    "meanScore": 11894.185185185184,
+    "p35": 11315,
+    "p70": 12755,
+    "profile": "HARD_PLAYER",
+    "runs": 200,
+    "successRate": 0.675,
+    "successes": 135
+  },
+  "levelId": "p08l041",
+  "simVersion": 1,
+  "stars": {
+    "three": 12755,
+    "two": 11315
+  },
+  "variantHash": "378f0ee69c0cc00c73355326e390c9a83df51cdb914ca86f7625da74b9055fc6",
+  "witness": {
+    "attemptIndex": 0,
+    "finalHash": 2577695026789655112,
+    "finalTick": 3176,
+    "inputLog": {
+      "entries": [
+        {
+          "action": {
+            "type": "snap",
+            "x": 223,
+            "y": 176
+          },
+          "tick": 27
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 146,
+            "y": 193
+          },
+          "tick": 1038
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 148,
+            "y": 190
+          },
+          "tick": 1340
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 187,
+            "y": 184
+          },
+          "tick": 1631
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 141,
+            "y": 186
+          },
+          "tick": 1772
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 214,
+            "y": 172
+          },
+          "tick": 2100
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 177,
+            "y": 192
+          },
+          "tick": 2377
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 163,
+            "y": 182
+          },
+          "tick": 2653
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 89,
+            "y": 185
+          },
+          "tick": 2867
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 152,
+            "y": 180
+          },
+          "tick": 3082
+        }
+      ]
+    },
+    "seed": -8255260639302761191
+  }
+}

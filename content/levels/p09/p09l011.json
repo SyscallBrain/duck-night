@@ -1,0 +1,297 @@
+{
+  "family": "protect-mixed",
+  "id": "p09l011",
+  "ordinal": 11,
+  "place": 9,
+  "tags": [
+    "place9"
+  ],
+  "type": "PROTECT",
+  "variants": {
+    "EASY": {
+      "birds": 10,
+      "frameScale": 125,
+      "levelSeed": -3181368218362320278,
+      "modifiers": [
+        "FOG",
+        "PROTECTED"
+      ],
+      "need": 6,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 1,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [
+          {
+            "height": 40,
+            "phase": 0,
+            "speed": 0,
+            "y": 60
+          },
+          {
+            "height": 50,
+            "phase": 0,
+            "speed": 0,
+            "y": 150
+          }
+        ],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 1,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "merganser",
+          "weight": 30
+        },
+        {
+          "id": "scoter",
+          "weight": 25
+        },
+        {
+          "id": "tufted_duck",
+          "weight": 20
+        },
+        {
+          "id": "red_breasted_merganser",
+          "weight": 15
+        },
+        {
+          "id": "coot",
+          "weight": 10
+        },
+        {
+          "id": "white_stork",
+          "weight": 25
+        },
+        {
+          "id": "heron",
+          "weight": 25
+        },
+        {
+          "id": "little_egret",
+          "weight": 20
+        },
+        {
+          "id": "spoonbill",
+          "weight": 20
+        },
+        {
+          "id": "flamingo",
+          "weight": 20
+        },
+        {
+          "id": "crane",
+          "weight": 20
+        }
+      ],
+      "speed": 80,
+      "stars": {
+        "three": 12665,
+        "two": 11285
+      },
+      "timeoutTicks": 480
+    },
+    "HARD": {
+      "birds": 10,
+      "frameScale": 85,
+      "levelSeed": -6793530404703874886,
+      "modifiers": [
+        "FOG",
+        "PROTECTED"
+      ],
+      "need": 9,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 5,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [
+          {
+            "height": 40,
+            "phase": 0,
+            "speed": 0,
+            "y": 60
+          },
+          {
+            "height": 50,
+            "phase": 0,
+            "speed": 0,
+            "y": 150
+          }
+        ],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 3,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "merganser",
+          "weight": 30
+        },
+        {
+          "id": "scoter",
+          "weight": 25
+        },
+        {
+          "id": "tufted_duck",
+          "weight": 20
+        },
+        {
+          "id": "red_breasted_merganser",
+          "weight": 15
+        },
+        {
+          "id": "coot",
+          "weight": 10
+        },
+        {
+          "id": "white_stork",
+          "weight": 25
+        },
+        {
+          "id": "heron",
+          "weight": 25
+        },
+        {
+          "id": "little_egret",
+          "weight": 20
+        },
+        {
+          "id": "spoonbill",
+          "weight": 20
+        },
+        {
+          "id": "flamingo",
+          "weight": 20
+        },
+        {
+          "id": "crane",
+          "weight": 20
+        }
+      ],
+      "speed": 120,
+      "stars": {
+        "three": 13295,
+        "two": 11950
+      },
+      "timeoutTicks": 300
+    },
+    "MEDIUM": {
+      "birds": 10,
+      "frameScale": 100,
+      "levelSeed": -3169268357474170998,
+      "modifiers": [
+        "FOG",
+        "PROTECTED"
+      ],
+      "need": 7,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 3,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [
+          {
+            "height": 40,
+            "phase": 0,
+            "speed": 0,
+            "y": 60
+          },
+          {
+            "height": 50,
+            "phase": 0,
+            "speed": 0,
+            "y": 150
+          }
+        ],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "merganser",
+          "weight": 30
+        },
+        {
+          "id": "scoter",
+          "weight": 25
+        },
+        {
+          "id": "tufted_duck",
+          "weight": 20
+        },
+        {
+          "id": "red_breasted_merganser",
+          "weight": 15
+        },
+        {
+          "id": "coot",
+          "weight": 10
+        },
+        {
+          "id": "white_stork",
+          "weight": 25
+        },
+        {
+          "id": "heron",
+          "weight": 25
+        },
+        {
+          "id": "little_egret",
+          "weight": 20
+        },
+        {
+          "id": "spoonbill",
+          "weight": 20
+        },
+        {
+          "id": "flamingo",
+          "weight": 20
+        },
+        {
+          "id": "crane",
+          "weight": 20
+        }
+      ],
+      "speed": 100,
+      "stars": {
+        "three": 12495,
+        "two": 10805
+      },
+      "timeoutTicks": 390
+    }
+  }
+}

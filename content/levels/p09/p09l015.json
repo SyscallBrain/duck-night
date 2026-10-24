@@ -1,0 +1,225 @@
+{
+  "family": "classic-fast",
+  "id": "p09l015",
+  "ordinal": 15,
+  "place": 9,
+  "tags": [
+    "place9"
+  ],
+  "type": "CLASSIC",
+  "variants": {
+    "EASY": {
+      "birds": 10,
+      "frameScale": 125,
+      "levelSeed": -1217511614636940359,
+      "modifiers": [
+        "FOG",
+        "SNOW"
+      ],
+      "need": 9,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 1,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [
+          {
+            "height": 40,
+            "phase": 0,
+            "speed": 0,
+            "y": 60
+          },
+          {
+            "height": 50,
+            "phase": 0,
+            "speed": 0,
+            "y": 150
+          }
+        ],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "merganser",
+          "weight": 30
+        },
+        {
+          "id": "scoter",
+          "weight": 25
+        },
+        {
+          "id": "tufted_duck",
+          "weight": 20
+        },
+        {
+          "id": "red_breasted_merganser",
+          "weight": 15
+        },
+        {
+          "id": "coot",
+          "weight": 10
+        }
+      ],
+      "speed": 80,
+      "stars": {
+        "three": 12820,
+        "two": 11770
+      },
+      "timeoutTicks": 480
+    },
+    "HARD": {
+      "birds": 10,
+      "frameScale": 85,
+      "levelSeed": 1847823774018884415,
+      "modifiers": [
+        "FOG",
+        "SNOW"
+      ],
+      "need": 9,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 5,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [
+          {
+            "height": 40,
+            "phase": 0,
+            "speed": 0,
+            "y": 60
+          },
+          {
+            "height": 50,
+            "phase": 0,
+            "speed": 0,
+            "y": 150
+          }
+        ],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "merganser",
+          "weight": 30
+        },
+        {
+          "id": "scoter",
+          "weight": 25
+        },
+        {
+          "id": "tufted_duck",
+          "weight": 20
+        },
+        {
+          "id": "red_breasted_merganser",
+          "weight": 15
+        },
+        {
+          "id": "coot",
+          "weight": 10
+        }
+      ],
+      "speed": 135,
+      "stars": {
+        "three": 13240,
+        "two": 12015
+      },
+      "timeoutTicks": 300
+    },
+    "MEDIUM": {
+      "birds": 10,
+      "frameScale": 100,
+      "levelSeed": -5944249899128027606,
+      "modifiers": [
+        "FOG",
+        "SNOW"
+      ],
+      "need": 9,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 3,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [
+          {
+            "height": 40,
+            "phase": 0,
+            "speed": 0,
+            "y": 60
+          },
+          {
+            "height": 50,
+            "phase": 0,
+            "speed": 0,
+            "y": 150
+          }
+        ],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "merganser",
+          "weight": 30
+        },
+        {
+          "id": "scoter",
+          "weight": 25
+        },
+        {
+          "id": "tufted_duck",
+          "weight": 20
+        },
+        {
+          "id": "red_breasted_merganser",
+          "weight": 15
+        },
+        {
+          "id": "coot",
+          "weight": 10
+        }
+      ],
+      "speed": 100,
+      "stars": {
+        "three": 12810,
+        "two": 11825
+      },
+      "timeoutTicks": 390
+    }
+  }
+}

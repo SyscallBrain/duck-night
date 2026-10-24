@@ -1,0 +1,153 @@
+{
+  "family": "clay-cross",
+  "id": "p02l003",
+  "ordinal": 3,
+  "place": 2,
+  "tags": [
+    "place2"
+  ],
+  "type": "CLAY",
+  "variants": {
+    "EASY": {
+      "birds": 20,
+      "frameScale": 125,
+      "levelSeed": 3099637172103507639,
+      "modifiers": [],
+      "need": 6,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 1,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "shoveler",
+          "weight": 50
+        },
+        {
+          "id": "pintail",
+          "weight": 30
+        },
+        {
+          "id": "garganey",
+          "weight": 20
+        }
+      ],
+      "speed": 80,
+      "stars": {
+        "three": 6178,
+        "two": 5118
+      },
+      "timeoutTicks": 480
+    },
+    "HARD": {
+      "birds": 20,
+      "frameScale": 85,
+      "levelSeed": -734468298410042779,
+      "modifiers": [],
+      "need": 10,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 5,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "shoveler",
+          "weight": 50
+        },
+        {
+          "id": "pintail",
+          "weight": 30
+        },
+        {
+          "id": "garganey",
+          "weight": 20
+        }
+      ],
+      "speed": 120,
+      "stars": {
+        "three": 7027,
+        "two": 6283
+      },
+      "timeoutTicks": 300
+    },
+    "MEDIUM": {
+      "birds": 20,
+      "frameScale": 100,
+      "levelSeed": 1811926845999384336,
+      "modifiers": [],
+      "need": 7,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 3,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "shoveler",
+          "weight": 50
+        },
+        {
+          "id": "pintail",
+          "weight": 30
+        },
+        {
+          "id": "garganey",
+          "weight": 20
+        }
+      ],
+      "speed": 100,
+      "stars": {
+        "three": 5928,
+        "two": 4784
+      },
+      "timeoutTicks": 390
+    }
+  }
+}

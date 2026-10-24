@@ -1,0 +1,126 @@
+{
+  "family": "double-mixed",
+  "id": "p06l049",
+  "ordinal": 49,
+  "place": 6,
+  "tags": [
+    "place6"
+  ],
+  "type": "DOUBLE",
+  "variants": {
+    "EASY": {
+      "birds": 10,
+      "frameScale": 125,
+      "levelSeed": -7420180320077868716,
+      "modifiers": [],
+      "need": 8,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 1,
+      "species": [
+        {
+          "id": "snow_goose",
+          "weight": 35
+        },
+        {
+          "id": "long_tailed_duck",
+          "weight": 25
+        },
+        {
+          "id": "goldeneye",
+          "weight": 20
+        },
+        {
+          "id": "barnacle",
+          "weight": 10
+        },
+        {
+          "id": "greylag",
+          "weight": 10
+        }
+      ],
+      "speed": 90,
+      "stars": {
+        "three": 10248,
+        "two": 9155
+      },
+      "timeoutTicks": 480
+    },
+    "HARD": {
+      "birds": 10,
+      "frameScale": 85,
+      "levelSeed": -2947707204634606636,
+      "modifiers": [],
+      "need": 9,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 5,
+      "species": [
+        {
+          "id": "snow_goose",
+          "weight": 35
+        },
+        {
+          "id": "long_tailed_duck",
+          "weight": 25
+        },
+        {
+          "id": "goldeneye",
+          "weight": 20
+        },
+        {
+          "id": "barnacle",
+          "weight": 10
+        },
+        {
+          "id": "greylag",
+          "weight": 10
+        }
+      ],
+      "speed": 120,
+      "stars": {
+        "three": 10985,
+        "two": 10000
+      },
+      "timeoutTicks": 300
+    },
+    "MEDIUM": {
+      "birds": 10,
+      "frameScale": 100,
+      "levelSeed": -2549066060860300634,
+      "modifiers": [],
+      "need": 9,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 3,
+      "species": [
+        {
+          "id": "snow_goose",
+          "weight": 35
+        },
+        {
+          "id": "long_tailed_duck",
+          "weight": 25
+        },
+        {
+          "id": "goldeneye",
+          "weight": 20
+        },
+        {
+          "id": "barnacle",
+          "weight": 10
+        },
+        {
+          "id": "greylag",
+          "weight": 10
+        }
+      ],
+      "speed": 100,
+      "stars": {
+        "three": 10895,
+        "two": 9554
+      },
+      "timeoutTicks": 390
+    }
+  }
+}

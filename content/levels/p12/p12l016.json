@@ -1,0 +1,477 @@
+{
+  "family": "timed-stream",
+  "id": "p12l016",
+  "ordinal": 16,
+  "place": 12,
+  "tags": [
+    "place12"
+  ],
+  "type": "TIMED",
+  "variants": {
+    "EASY": {
+      "birds": 100,
+      "frameScale": 125,
+      "levelSeed": -8175046800444982116,
+      "modifiers": [],
+      "need": 21,
+      "patterns": [],
+      "photosPerBird": 999,
+      "ramp": 1,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "mallard",
+          "weight": 10
+        },
+        {
+          "id": "teal",
+          "weight": 10
+        },
+        {
+          "id": "gadwall",
+          "weight": 10
+        },
+        {
+          "id": "wigeon",
+          "weight": 10
+        },
+        {
+          "id": "pochard",
+          "weight": 10
+        },
+        {
+          "id": "shoveler",
+          "weight": 10
+        },
+        {
+          "id": "pintail",
+          "weight": 10
+        },
+        {
+          "id": "garganey",
+          "weight": 10
+        },
+        {
+          "id": "greylag",
+          "weight": 10
+        },
+        {
+          "id": "barnacle",
+          "weight": 10
+        },
+        {
+          "id": "ruddy_shelduck",
+          "weight": 10
+        },
+        {
+          "id": "shelduck",
+          "weight": 10
+        },
+        {
+          "id": "coot",
+          "weight": 10
+        },
+        {
+          "id": "scoter",
+          "weight": 10
+        },
+        {
+          "id": "eider",
+          "weight": 10
+        },
+        {
+          "id": "merganser",
+          "weight": 10
+        },
+        {
+          "id": "golden",
+          "weight": 10
+        },
+        {
+          "id": "tufted_duck",
+          "weight": 10
+        },
+        {
+          "id": "red_crested_pochard",
+          "weight": 10
+        },
+        {
+          "id": "egyptian_goose",
+          "weight": 10
+        },
+        {
+          "id": "snow_goose",
+          "weight": 10
+        },
+        {
+          "id": "long_tailed_duck",
+          "weight": 10
+        },
+        {
+          "id": "goldeneye",
+          "weight": 10
+        },
+        {
+          "id": "great_crested_grebe",
+          "weight": 10
+        },
+        {
+          "id": "red_breasted_merganser",
+          "weight": 10
+        },
+        {
+          "id": "white_headed_duck",
+          "weight": 10
+        },
+        {
+          "id": "mandarin",
+          "weight": 10
+        },
+        {
+          "id": "wood_duck",
+          "weight": 10
+        },
+        {
+          "id": "ferruginous_duck",
+          "weight": 10
+        },
+        {
+          "id": "brent_goose",
+          "weight": 10
+        }
+      ],
+      "speed": 90,
+      "stars": {
+        "three": 24403,
+        "two": 22513
+      },
+      "timeoutTicks": 480
+    },
+    "HARD": {
+      "birds": 100,
+      "frameScale": 85,
+      "levelSeed": 8476148100332670746,
+      "modifiers": [],
+      "need": 23,
+      "patterns": [],
+      "photosPerBird": 999,
+      "ramp": 5,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "mallard",
+          "weight": 10
+        },
+        {
+          "id": "teal",
+          "weight": 10
+        },
+        {
+          "id": "gadwall",
+          "weight": 10
+        },
+        {
+          "id": "wigeon",
+          "weight": 10
+        },
+        {
+          "id": "pochard",
+          "weight": 10
+        },
+        {
+          "id": "shoveler",
+          "weight": 10
+        },
+        {
+          "id": "pintail",
+          "weight": 10
+        },
+        {
+          "id": "garganey",
+          "weight": 10
+        },
+        {
+          "id": "greylag",
+          "weight": 10
+        },
+        {
+          "id": "barnacle",
+          "weight": 10
+        },
+        {
+          "id": "ruddy_shelduck",
+          "weight": 10
+        },
+        {
+          "id": "shelduck",
+          "weight": 10
+        },
+        {
+          "id": "coot",
+          "weight": 10
+        },
+        {
+          "id": "scoter",
+          "weight": 10
+        },
+        {
+          "id": "eider",
+          "weight": 10
+        },
+        {
+          "id": "merganser",
+          "weight": 10
+        },
+        {
+          "id": "golden",
+          "weight": 10
+        },
+        {
+          "id": "tufted_duck",
+          "weight": 10
+        },
+        {
+          "id": "red_crested_pochard",
+          "weight": 10
+        },
+        {
+          "id": "egyptian_goose",
+          "weight": 10
+        },
+        {
+          "id": "snow_goose",
+          "weight": 10
+        },
+        {
+          "id": "long_tailed_duck",
+          "weight": 10
+        },
+        {
+          "id": "goldeneye",
+          "weight": 10
+        },
+        {
+          "id": "great_crested_grebe",
+          "weight": 10
+        },
+        {
+          "id": "red_breasted_merganser",
+          "weight": 10
+        },
+        {
+          "id": "white_headed_duck",
+          "weight": 10
+        },
+        {
+          "id": "mandarin",
+          "weight": 10
+        },
+        {
+          "id": "wood_duck",
+          "weight": 10
+        },
+        {
+          "id": "ferruginous_duck",
+          "weight": 10
+        },
+        {
+          "id": "brent_goose",
+          "weight": 10
+        }
+      ],
+      "speed": 120,
+      "stars": {
+        "three": 27564,
+        "two": 25007
+      },
+      "timeoutTicks": 300
+    },
+    "MEDIUM": {
+      "birds": 100,
+      "frameScale": 100,
+      "levelSeed": 1754613989147544055,
+      "modifiers": [],
+      "need": 21,
+      "patterns": [],
+      "photosPerBird": 999,
+      "ramp": 3,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "mallard",
+          "weight": 10
+        },
+        {
+          "id": "teal",
+          "weight": 10
+        },
+        {
+          "id": "gadwall",
+          "weight": 10
+        },
+        {
+          "id": "wigeon",
+          "weight": 10
+        },
+        {
+          "id": "pochard",
+          "weight": 10
+        },
+        {
+          "id": "shoveler",
+          "weight": 10
+        },
+        {
+          "id": "pintail",
+          "weight": 10
+        },
+        {
+          "id": "garganey",
+          "weight": 10
+        },
+        {
+          "id": "greylag",
+          "weight": 10
+        },
+        {
+          "id": "barnacle",
+          "weight": 10
+        },
+        {
+          "id": "ruddy_shelduck",
+          "weight": 10
+        },
+        {
+          "id": "shelduck",
+          "weight": 10
+        },
+        {
+          "id": "coot",
+          "weight": 10
+        },
+        {
+          "id": "scoter",
+          "weight": 10
+        },
+        {
+          "id": "eider",
+          "weight": 10
+        },
+        {
+          "id": "merganser",
+          "weight": 10
+        },
+        {
+          "id": "golden",
+          "weight": 10
+        },
+        {
+          "id": "tufted_duck",
+          "weight": 10
+        },
+        {
+          "id": "red_crested_pochard",
+          "weight": 10
+        },
+        {
+          "id": "egyptian_goose",
+          "weight": 10
+        },
+        {
+          "id": "snow_goose",
+          "weight": 10
+        },
+        {
+          "id": "long_tailed_duck",
+          "weight": 10
+        },
+        {
+          "id": "goldeneye",
+          "weight": 10
+        },
+        {
+          "id": "great_crested_grebe",
+          "weight": 10
+        },
+        {
+          "id": "red_breasted_merganser",
+          "weight": 10
+        },
+        {
+          "id": "white_headed_duck",
+          "weight": 10
+        },
+        {
+          "id": "mandarin",
+          "weight": 10
+        },
+        {
+          "id": "wood_duck",
+          "weight": 10
+        },
+        {
+          "id": "ferruginous_duck",
+          "weight": 10
+        },
+        {
+          "id": "brent_goose",
+          "weight": 10
+        }
+      ],
+      "speed": 110,
+      "stars": {
+        "three": 24891,
+        "two": 22813
+      },
+      "timeoutTicks": 390
+    }
+  }
+}

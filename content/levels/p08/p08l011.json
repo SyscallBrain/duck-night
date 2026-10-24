@@ -1,0 +1,285 @@
+{
+  "family": "protect-mixed",
+  "id": "p08l011",
+  "ordinal": 11,
+  "place": 8,
+  "tags": [
+    "place8"
+  ],
+  "type": "PROTECT",
+  "variants": {
+    "EASY": {
+      "birds": 10,
+      "frameScale": 125,
+      "levelSeed": -6926542093906234013,
+      "modifiers": [
+        "COVER",
+        "WIND"
+      ],
+      "need": 8,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 1,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [
+          {
+            "height": 44,
+            "width": 42,
+            "x": 20,
+            "y": 190
+          },
+          {
+            "height": 38,
+            "width": 44,
+            "x": 178,
+            "y": 196
+          }
+        ],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 1,
+        "timedTicks": 3600,
+        "windStrength": 16
+      },
+      "species": [
+        {
+          "id": "mandarin",
+          "weight": 30
+        },
+        {
+          "id": "wood_duck",
+          "weight": 25
+        },
+        {
+          "id": "ferruginous_duck",
+          "weight": 20
+        },
+        {
+          "id": "tufted_duck",
+          "weight": 15
+        },
+        {
+          "id": "pochard",
+          "weight": 10
+        },
+        {
+          "id": "white_stork",
+          "weight": 25
+        },
+        {
+          "id": "heron",
+          "weight": 25
+        },
+        {
+          "id": "little_egret",
+          "weight": 20
+        },
+        {
+          "id": "spoonbill",
+          "weight": 20
+        },
+        {
+          "id": "flamingo",
+          "weight": 20
+        }
+      ],
+      "speed": 80,
+      "stars": {
+        "three": 12525,
+        "two": 11315
+      },
+      "timeoutTicks": 480
+    },
+    "HARD": {
+      "birds": 10,
+      "frameScale": 85,
+      "levelSeed": 6342949480607260843,
+      "modifiers": [
+        "COVER",
+        "WIND"
+      ],
+      "need": 9,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 5,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [
+          {
+            "height": 44,
+            "width": 42,
+            "x": 20,
+            "y": 190
+          },
+          {
+            "height": 38,
+            "width": 44,
+            "x": 178,
+            "y": 196
+          }
+        ],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 3,
+        "timedTicks": 3600,
+        "windStrength": 16
+      },
+      "species": [
+        {
+          "id": "mandarin",
+          "weight": 30
+        },
+        {
+          "id": "wood_duck",
+          "weight": 25
+        },
+        {
+          "id": "ferruginous_duck",
+          "weight": 20
+        },
+        {
+          "id": "tufted_duck",
+          "weight": 15
+        },
+        {
+          "id": "pochard",
+          "weight": 10
+        },
+        {
+          "id": "white_stork",
+          "weight": 25
+        },
+        {
+          "id": "heron",
+          "weight": 25
+        },
+        {
+          "id": "little_egret",
+          "weight": 20
+        },
+        {
+          "id": "spoonbill",
+          "weight": 20
+        },
+        {
+          "id": "flamingo",
+          "weight": 20
+        }
+      ],
+      "speed": 160,
+      "stars": {
+        "three": 12950,
+        "two": 11845
+      },
+      "timeoutTicks": 300
+    },
+    "MEDIUM": {
+      "birds": 10,
+      "frameScale": 100,
+      "levelSeed": -1535655632657816209,
+      "modifiers": [
+        "COVER",
+        "WIND"
+      ],
+      "need": 9,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 3,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [
+          {
+            "height": 44,
+            "width": 42,
+            "x": 20,
+            "y": 190
+          },
+          {
+            "height": 38,
+            "width": 44,
+            "x": 178,
+            "y": 196
+          }
+        ],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 16
+      },
+      "species": [
+        {
+          "id": "mandarin",
+          "weight": 30
+        },
+        {
+          "id": "wood_duck",
+          "weight": 25
+        },
+        {
+          "id": "ferruginous_duck",
+          "weight": 20
+        },
+        {
+          "id": "tufted_duck",
+          "weight": 15
+        },
+        {
+          "id": "pochard",
+          "weight": 10
+        },
+        {
+          "id": "white_stork",
+          "weight": 25
+        },
+        {
+          "id": "heron",
+          "weight": 25
+        },
+        {
+          "id": "little_egret",
+          "weight": 20
+        },
+        {
+          "id": "spoonbill",
+          "weight": 20
+        },
+        {
+          "id": "flamingo",
+          "weight": 20
+        }
+      ],
+      "speed": 100,
+      "stars": {
+        "three": 12410,
+        "two": 11445
+      },
+      "timeoutTicks": 390
+    }
+  }
+}

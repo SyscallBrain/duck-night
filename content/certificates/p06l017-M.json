@@ -1,0 +1,102 @@
+{
+  "botVersion": 2,
+  "difficulty": "MEDIUM",
+  "human": {
+    "meanScore": 8353.734693877552,
+    "p35": 7792,
+    "p70": 8953,
+    "profile": "MEDIUM_PLAYER",
+    "runs": 200,
+    "successRate": 0.735,
+    "successes": 147
+  },
+  "levelId": "p06l017",
+  "simVersion": 1,
+  "stars": {
+    "three": 8953,
+    "two": 7792
+  },
+  "variantHash": "8624dc8da347e499910fc2fe9304b21ebc68e0d21405bf0b8e21f4492cf28d37",
+  "witness": {
+    "attemptIndex": 0,
+    "finalHash": 8895777650378487710,
+    "finalTick": 1241,
+    "inputLog": {
+      "entries": [
+        {
+          "action": {
+            "type": "snap",
+            "x": 82,
+            "y": 197
+          },
+          "tick": 12
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 215,
+            "y": 181
+          },
+          "tick": 28
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 176,
+            "y": 194
+          },
+          "tick": 688
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 138,
+            "y": 198
+          },
+          "tick": 831
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 167,
+            "y": 174
+          },
+          "tick": 842
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 105,
+            "y": 194
+          },
+          "tick": 980
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 190,
+            "y": 186
+          },
+          "tick": 996
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 154,
+            "y": 187
+          },
+          "tick": 1135
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 27,
+            "y": 177
+          },
+          "tick": 1148
+        }
+      ]
+    },
+    "seed": -1560732331543359003
+  }
+}

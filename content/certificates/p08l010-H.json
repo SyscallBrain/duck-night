@@ -1,0 +1,102 @@
+{
+  "botVersion": 2,
+  "difficulty": "HARD",
+  "human": {
+    "meanScore": 12147.196261682244,
+    "p35": 11715,
+    "p70": 12645,
+    "profile": "HARD_PLAYER",
+    "runs": 200,
+    "successRate": 0.535,
+    "successes": 107
+  },
+  "levelId": "p08l010",
+  "simVersion": 1,
+  "stars": {
+    "three": 12645,
+    "two": 11715
+  },
+  "variantHash": "015172397a0e7c22614758a765c039872ee7585c735d23a3468887d18ea1e853",
+  "witness": {
+    "attemptIndex": 0,
+    "finalHash": -4478624366309707144,
+    "finalTick": 2578,
+    "inputLog": {
+      "entries": [
+        {
+          "action": {
+            "type": "snap",
+            "x": 66,
+            "y": 200
+          },
+          "tick": 57
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 82,
+            "y": 140
+          },
+          "tick": 1390
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 25,
+            "y": 135
+          },
+          "tick": 1566
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 198,
+            "y": 130
+          },
+          "tick": 1724
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 91,
+            "y": 136
+          },
+          "tick": 1882
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 212,
+            "y": 132
+          },
+          "tick": 2041
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 45,
+            "y": 131
+          },
+          "tick": 2201
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 125,
+            "y": 126
+          },
+          "tick": 2359
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 168,
+            "y": 127
+          },
+          "tick": 2502
+        }
+      ]
+    },
+    "seed": -3302913392992137314
+  }
+}

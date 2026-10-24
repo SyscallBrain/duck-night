@@ -1,0 +1,100 @@
+{
+  "botVersion": 2,
+  "difficulty": "EASY",
+  "human": {
+    "meanScore": 8105.5497382198955,
+    "p35": 7024,
+    "p70": 8841,
+    "profile": "EASY_PLAYER",
+    "runs": 200,
+    "successRate": 0.955,
+    "successes": 191
+  },
+  "levelId": "p12l010",
+  "simVersion": 1,
+  "stars": {
+    "three": 8841,
+    "two": 7024
+  },
+  "variantHash": "725af17fbab998f96bad8852c93a9ae7fbb651d2d2f394b5788d2506ec30a84d",
+  "witness": {
+    "attemptIndex": 0,
+    "finalHash": 3087802372026882547,
+    "finalTick": 391,
+    "inputLog": {
+      "entries": [
+        {
+          "action": {
+            "type": "snap",
+            "x": 4,
+            "y": 120
+          },
+          "tick": 12
+        },
+        {
+          "action": {
+            "type": "advance"
+          },
+          "tick": 13
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 114,
+            "y": 206
+          },
+          "tick": 88
+        },
+        {
+          "action": {
+            "type": "advance"
+          },
+          "tick": 89
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 44,
+            "y": 120
+          },
+          "tick": 104
+        },
+        {
+          "action": {
+            "type": "advance"
+          },
+          "tick": 105
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 116,
+            "y": 206
+          },
+          "tick": 281
+        },
+        {
+          "action": {
+            "type": "advance"
+          },
+          "tick": 282
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 49,
+            "y": 120
+          },
+          "tick": 296
+        },
+        {
+          "action": {
+            "type": "advance"
+          },
+          "tick": 297
+        }
+      ]
+    },
+    "seed": -558122595856832505
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "family": "timed-stream",
+  "id": "p04l032",
+  "ordinal": 32,
+  "place": 4,
+  "tags": [
+    "place4"
+  ],
+  "type": "TIMED",
+  "variants": {
+    "EASY": {
+      "birds": 100,
+      "frameScale": 125,
+      "levelSeed": -6626241170372747386,
+      "modifiers": [
+        "WIND"
+      ],
+      "need": 21,
+      "patterns": [],
+      "photosPerBird": 999,
+      "ramp": 1,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 16
+      },
+      "species": [
+        {
+          "id": "shelduck",
+          "weight": 35
+        },
+        {
+          "id": "coot",
+          "weight": 30
+        },
+        {
+          "id": "pochard",
+          "weight": 25
+        },
+        {
+          "id": "teal",
+          "weight": 10
+        }
+      ],
+      "speed": 130,
+      "stars": {
+        "three": 17639,
+        "two": 16537
+      },
+      "timeoutTicks": 480
+    },
+    "HARD": {
+      "birds": 100,
+      "frameScale": 85,
+      "levelSeed": 6744139031067440218,
+      "modifiers": [
+        "WIND"
+      ],
+      "need": 24,
+      "patterns": [],
+      "photosPerBird": 999,
+      "ramp": 5,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 16
+      },
+      "species": [
+        {
+          "id": "shelduck",
+          "weight": 35
+        },
+        {
+          "id": "coot",
+          "weight": 30
+        },
+        {
+          "id": "pochard",
+          "weight": 25
+        },
+        {
+          "id": "teal",
+          "weight": 10
+        }
+      ],
+      "speed": 120,
+      "stars": {
+        "three": 20359,
+        "two": 19224
+      },
+      "timeoutTicks": 300
+    },
+    "MEDIUM": {
+      "birds": 100,
+      "frameScale": 100,
+      "levelSeed": -6487140932680492834,
+      "modifiers": [
+        "WIND"
+      ],
+      "need": 21,
+      "patterns": [],
+      "photosPerBird": 999,
+      "ramp": 3,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 16
+      },
+      "species": [
+        {
+          "id": "shelduck",
+          "weight": 35
+        },
+        {
+          "id": "coot",
+          "weight": 30
+        },
+        {
+          "id": "pochard",
+          "weight": 25
+        },
+        {
+          "id": "teal",
+          "weight": 10
+        }
+      ],
+      "speed": 105,
+      "stars": {
+        "three": 18731,
+        "two": 17485
+      },
+      "timeoutTicks": 390
+    }
+  }
+}

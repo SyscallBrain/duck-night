@@ -1,0 +1,126 @@
+{
+  "family": "double-pair",
+  "id": "p05l026",
+  "ordinal": 26,
+  "place": 5,
+  "tags": [
+    "place5"
+  ],
+  "type": "DOUBLE",
+  "variants": {
+    "EASY": {
+      "birds": 10,
+      "frameScale": 125,
+      "levelSeed": -9186125588544777920,
+      "modifiers": [],
+      "need": 8,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 1,
+      "species": [
+        {
+          "id": "tufted_duck",
+          "weight": 30
+        },
+        {
+          "id": "red_crested_pochard",
+          "weight": 25
+        },
+        {
+          "id": "egyptian_goose",
+          "weight": 20
+        },
+        {
+          "id": "coot",
+          "weight": 15
+        },
+        {
+          "id": "pochard",
+          "weight": 10
+        }
+      ],
+      "speed": 80,
+      "stars": {
+        "three": 8443,
+        "two": 7715
+      },
+      "timeoutTicks": 480
+    },
+    "HARD": {
+      "birds": 10,
+      "frameScale": 85,
+      "levelSeed": -4817357345842082475,
+      "modifiers": [],
+      "need": 9,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 5,
+      "species": [
+        {
+          "id": "tufted_duck",
+          "weight": 30
+        },
+        {
+          "id": "red_crested_pochard",
+          "weight": 25
+        },
+        {
+          "id": "egyptian_goose",
+          "weight": 20
+        },
+        {
+          "id": "coot",
+          "weight": 15
+        },
+        {
+          "id": "pochard",
+          "weight": 10
+        }
+      ],
+      "speed": 120,
+      "stars": {
+        "three": 9144,
+        "two": 8296
+      },
+      "timeoutTicks": 300
+    },
+    "MEDIUM": {
+      "birds": 10,
+      "frameScale": 100,
+      "levelSeed": 1783399983197636867,
+      "modifiers": [],
+      "need": 8,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 3,
+      "species": [
+        {
+          "id": "tufted_duck",
+          "weight": 30
+        },
+        {
+          "id": "red_crested_pochard",
+          "weight": 25
+        },
+        {
+          "id": "egyptian_goose",
+          "weight": 20
+        },
+        {
+          "id": "coot",
+          "weight": 15
+        },
+        {
+          "id": "pochard",
+          "weight": 10
+        }
+      ],
+      "speed": 160,
+      "stars": {
+        "three": 8272,
+        "two": 7495
+      },
+      "timeoutTicks": 390
+    }
+  }
+}

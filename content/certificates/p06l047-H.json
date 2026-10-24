@@ -1,0 +1,170 @@
+{
+  "botVersion": 2,
+  "difficulty": "HARD",
+  "human": {
+    "meanScore": 9945.08510638298,
+    "p35": 9436,
+    "p70": 10812,
+    "profile": "HARD_PLAYER",
+    "runs": 200,
+    "successRate": 0.47,
+    "successes": 94
+  },
+  "levelId": "p06l047",
+  "simVersion": 1,
+  "stars": {
+    "three": 10812,
+    "two": 9436
+  },
+  "variantHash": "e183741a088ec31ff949d428a86d828caa262802587cb46bfe9e83977a1706df",
+  "witness": {
+    "attemptIndex": 0,
+    "finalHash": 709801861550789813,
+    "finalTick": 1387,
+    "inputLog": {
+      "entries": [
+        {
+          "action": {
+            "type": "snap",
+            "x": 44,
+            "y": 194
+          },
+          "tick": 13
+        },
+        {
+          "action": {
+            "type": "advance"
+          },
+          "tick": 14
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 99,
+            "y": 194
+          },
+          "tick": 155
+        },
+        {
+          "action": {
+            "type": "advance"
+          },
+          "tick": 156
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 159,
+            "y": 194
+          },
+          "tick": 297
+        },
+        {
+          "action": {
+            "type": "advance"
+          },
+          "tick": 298
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 147,
+            "y": 185
+          },
+          "tick": 443
+        },
+        {
+          "action": {
+            "type": "advance"
+          },
+          "tick": 444
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 48,
+            "y": 181
+          },
+          "tick": 583
+        },
+        {
+          "action": {
+            "type": "advance"
+          },
+          "tick": 584
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 95,
+            "y": 194
+          },
+          "tick": 722
+        },
+        {
+          "action": {
+            "type": "advance"
+          },
+          "tick": 723
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 203,
+            "y": 193
+          },
+          "tick": 863
+        },
+        {
+          "action": {
+            "type": "advance"
+          },
+          "tick": 864
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 192,
+            "y": 194
+          },
+          "tick": 1006
+        },
+        {
+          "action": {
+            "type": "advance"
+          },
+          "tick": 1007
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 38,
+            "y": 198
+          },
+          "tick": 1146
+        },
+        {
+          "action": {
+            "type": "advance"
+          },
+          "tick": 1147
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 125,
+            "y": 191
+          },
+          "tick": 1288
+        },
+        {
+          "action": {
+            "type": "advance"
+          },
+          "tick": 1289
+        }
+      ]
+    },
+    "seed": -3545199494855306203
+  }
+}

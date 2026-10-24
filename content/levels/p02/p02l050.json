@@ -1,0 +1,135 @@
+{
+  "family": "boss-p02",
+  "id": "p02l050",
+  "ordinal": 50,
+  "place": 2,
+  "tags": [
+    "place2"
+  ],
+  "type": "BOSS",
+  "variants": {
+    "EASY": {
+      "birds": 1,
+      "frameScale": 125,
+      "levelSeed": -8280385529893407455,
+      "modifiers": [],
+      "need": 3,
+      "patterns": [
+        "BOSS"
+      ],
+      "photosPerBird": 15,
+      "ramp": 1,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "twin_teal",
+          "weight": 100
+        }
+      ],
+      "speed": 50,
+      "stars": {
+        "three": 12495,
+        "two": 8535
+      },
+      "timeoutTicks": 5400
+    },
+    "HARD": {
+      "birds": 1,
+      "frameScale": 125,
+      "levelSeed": -3829370662969133531,
+      "modifiers": [],
+      "need": 3,
+      "patterns": [
+        "BOSS"
+      ],
+      "photosPerBird": 15,
+      "ramp": 5,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "twin_teal",
+          "weight": 100
+        }
+      ],
+      "speed": 145,
+      "stars": {
+        "three": 13500,
+        "two": 9600
+      },
+      "timeoutTicks": 5400
+    },
+    "MEDIUM": {
+      "birds": 1,
+      "frameScale": 125,
+      "levelSeed": -4768454936043442984,
+      "modifiers": [],
+      "need": 3,
+      "patterns": [
+        "BOSS"
+      ],
+      "photosPerBird": 15,
+      "ramp": 3,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "twin_teal",
+          "weight": 100
+        }
+      ],
+      "speed": 95,
+      "stars": {
+        "three": 13905,
+        "two": 9675
+      },
+      "timeoutTicks": 5400
+    }
+  }
+}

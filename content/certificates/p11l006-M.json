@@ -1,0 +1,102 @@
+{
+  "botVersion": 2,
+  "difficulty": "MEDIUM",
+  "human": {
+    "meanScore": 13707.067901234568,
+    "p35": 11787,
+    "p70": 14995,
+    "profile": "MEDIUM_PLAYER",
+    "runs": 200,
+    "successRate": 0.81,
+    "successes": 162
+  },
+  "levelId": "p11l006",
+  "simVersion": 1,
+  "stars": {
+    "three": 14995,
+    "two": 11787
+  },
+  "variantHash": "59da3035c3f0ac80a983e3ed07186df862c24d7fbef235c796e8318ea2a19072",
+  "witness": {
+    "attemptIndex": 0,
+    "finalHash": -8672029673945073114,
+    "finalTick": 716,
+    "inputLog": {
+      "entries": [
+        {
+          "action": {
+            "type": "snap",
+            "x": 128,
+            "y": 188
+          },
+          "tick": 16
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 83,
+            "y": 197
+          },
+          "tick": 157
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 135,
+            "y": 194
+          },
+          "tick": 168
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 81,
+            "y": 189
+          },
+          "tick": 309
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 161,
+            "y": 165
+          },
+          "tick": 326
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 118,
+            "y": 193
+          },
+          "tick": 456
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 68,
+            "y": 193
+          },
+          "tick": 472
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 97,
+            "y": 178
+          },
+          "tick": 615
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 54,
+            "y": 171
+          },
+          "tick": 626
+        }
+      ]
+    },
+    "seed": -6957106967842310895
+  }
+}

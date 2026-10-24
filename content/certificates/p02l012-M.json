@@ -1,0 +1,102 @@
+{
+  "botVersion": 2,
+  "difficulty": "MEDIUM",
+  "human": {
+    "meanScore": 8310.138888888889,
+    "p35": 7982,
+    "p70": 8642,
+    "profile": "MEDIUM_PLAYER",
+    "runs": 200,
+    "successRate": 0.72,
+    "successes": 144
+  },
+  "levelId": "p02l012",
+  "simVersion": 1,
+  "stars": {
+    "three": 8642,
+    "two": 7982
+  },
+  "variantHash": "576e9f72563bfa3e00da1971139642621b29fbe7221cef23044cd7b24463bc71",
+  "witness": {
+    "attemptIndex": 0,
+    "finalHash": 2958610542239583545,
+    "finalTick": 1257,
+    "inputLog": {
+      "entries": [
+        {
+          "action": {
+            "type": "snap",
+            "x": 159,
+            "y": 193
+          },
+          "tick": 16
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 184,
+            "y": 194
+          },
+          "tick": 161
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 168,
+            "y": 192
+          },
+          "tick": 303
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 169,
+            "y": 196
+          },
+          "tick": 441
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 168,
+            "y": 200
+          },
+          "tick": 581
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 201,
+            "y": 189
+          },
+          "tick": 726
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 122,
+            "y": 198
+          },
+          "tick": 867
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 164,
+            "y": 196
+          },
+          "tick": 1014
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 129,
+            "y": 194
+          },
+          "tick": 1158
+        }
+      ]
+    },
+    "seed": -2449364436286917164
+  }
+}

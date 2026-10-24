@@ -1,0 +1,9 @@
+{
+  "bossLevel": "p10l050",
+  "id": 10,
+  "introCards": [],
+  "music": "percussion",
+  "nameKey": "place_10_name",
+  "scene": "storm_delta",
+  "weather": "storm"
+}

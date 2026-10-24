@@ -1,0 +1,126 @@
+{
+  "family": "classic-open",
+  "id": "p01l037",
+  "ordinal": 37,
+  "place": 1,
+  "tags": [
+    "place1"
+  ],
+  "type": "CLASSIC",
+  "variants": {
+    "EASY": {
+      "birds": 10,
+      "frameScale": 125,
+      "levelSeed": -6122193023494441430,
+      "modifiers": [],
+      "need": 9,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 1,
+      "species": [
+        {
+          "id": "mallard",
+          "weight": 45
+        },
+        {
+          "id": "teal",
+          "weight": 30
+        },
+        {
+          "id": "gadwall",
+          "weight": 12
+        },
+        {
+          "id": "wigeon",
+          "weight": 10
+        },
+        {
+          "id": "golden",
+          "weight": 3
+        }
+      ],
+      "speed": 80,
+      "stars": {
+        "three": 8124,
+        "two": 6682
+      },
+      "timeoutTicks": 480
+    },
+    "HARD": {
+      "birds": 10,
+      "frameScale": 85,
+      "levelSeed": 1647836620726922878,
+      "modifiers": [],
+      "need": 10,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 5,
+      "species": [
+        {
+          "id": "mallard",
+          "weight": 45
+        },
+        {
+          "id": "teal",
+          "weight": 30
+        },
+        {
+          "id": "gadwall",
+          "weight": 12
+        },
+        {
+          "id": "wigeon",
+          "weight": 10
+        },
+        {
+          "id": "golden",
+          "weight": 3
+        }
+      ],
+      "speed": 75,
+      "stars": {
+        "three": 8350,
+        "two": 7405
+      },
+      "timeoutTicks": 300
+    },
+    "MEDIUM": {
+      "birds": 10,
+      "frameScale": 100,
+      "levelSeed": 5149610549470727355,
+      "modifiers": [],
+      "need": 9,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 3,
+      "species": [
+        {
+          "id": "mallard",
+          "weight": 45
+        },
+        {
+          "id": "teal",
+          "weight": 30
+        },
+        {
+          "id": "gadwall",
+          "weight": 12
+        },
+        {
+          "id": "wigeon",
+          "weight": 10
+        },
+        {
+          "id": "golden",
+          "weight": 3
+        }
+      ],
+      "speed": 100,
+      "stars": {
+        "three": 7806,
+        "two": 6535
+      },
+      "timeoutTicks": 390
+    }
+  }
+}

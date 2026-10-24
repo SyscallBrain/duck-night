@@ -1,0 +1,126 @@
+{
+  "family": "classic-open",
+  "id": "p10l046",
+  "ordinal": 46,
+  "place": 10,
+  "tags": [
+    "place10"
+  ],
+  "type": "CLASSIC",
+  "variants": {
+    "EASY": {
+      "birds": 10,
+      "frameScale": 125,
+      "levelSeed": 1372933555131716590,
+      "modifiers": [],
+      "need": 9,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 1,
+      "species": [
+        {
+          "id": "eider",
+          "weight": 30
+        },
+        {
+          "id": "brent_goose",
+          "weight": 25
+        },
+        {
+          "id": "scoter",
+          "weight": 20
+        },
+        {
+          "id": "long_tailed_duck",
+          "weight": 15
+        },
+        {
+          "id": "goldeneye",
+          "weight": 10
+        }
+      ],
+      "speed": 80,
+      "stars": {
+        "three": 12135,
+        "two": 11310
+      },
+      "timeoutTicks": 480
+    },
+    "HARD": {
+      "birds": 10,
+      "frameScale": 85,
+      "levelSeed": 1190679595277487447,
+      "modifiers": [],
+      "need": 9,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 5,
+      "species": [
+        {
+          "id": "eider",
+          "weight": 30
+        },
+        {
+          "id": "brent_goose",
+          "weight": 25
+        },
+        {
+          "id": "scoter",
+          "weight": 20
+        },
+        {
+          "id": "long_tailed_duck",
+          "weight": 15
+        },
+        {
+          "id": "goldeneye",
+          "weight": 10
+        }
+      ],
+      "speed": 140,
+      "stars": {
+        "three": 12560,
+        "two": 11255
+      },
+      "timeoutTicks": 300
+    },
+    "MEDIUM": {
+      "birds": 10,
+      "frameScale": 100,
+      "levelSeed": 7246319860361653095,
+      "modifiers": [],
+      "need": 9,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 3,
+      "species": [
+        {
+          "id": "eider",
+          "weight": 30
+        },
+        {
+          "id": "brent_goose",
+          "weight": 25
+        },
+        {
+          "id": "scoter",
+          "weight": 20
+        },
+        {
+          "id": "long_tailed_duck",
+          "weight": 15
+        },
+        {
+          "id": "goldeneye",
+          "weight": 10
+        }
+      ],
+      "speed": 100,
+      "stars": {
+        "three": 12060,
+        "two": 10950
+      },
+      "timeoutTicks": 390
+    }
+  }
+}

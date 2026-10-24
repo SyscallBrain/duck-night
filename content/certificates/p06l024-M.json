@@ -1,0 +1,128 @@
+{
+  "botVersion": 2,
+  "difficulty": "MEDIUM",
+  "human": {
+    "meanScore": 5997.816091954023,
+    "p35": 5464,
+    "p70": 6669,
+    "profile": "MEDIUM_PLAYER",
+    "runs": 200,
+    "successRate": 0.87,
+    "successes": 174
+  },
+  "levelId": "p06l024",
+  "simVersion": 1,
+  "stars": {
+    "three": 6669,
+    "two": 5464
+  },
+  "variantHash": "7aa378237fe42eadec04fa5f29bc692bcfddf5763f91dae87aa041fb79ba01cd",
+  "witness": {
+    "attemptIndex": 0,
+    "finalHash": -1455581513309906042,
+    "finalTick": 237,
+    "inputLog": {
+      "entries": [
+        {
+          "action": {
+            "type": "snap",
+            "x": 25,
+            "y": 112
+          },
+          "tick": 14
+        },
+        {
+          "action": {
+            "type": "advance"
+          },
+          "tick": 15
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 122,
+            "y": 198
+          },
+          "tick": 84
+        },
+        {
+          "action": {
+            "type": "advance"
+          },
+          "tick": 85
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 119,
+            "y": 214
+          },
+          "tick": 98
+        },
+        {
+          "action": {
+            "type": "advance"
+          },
+          "tick": 99
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 59,
+            "y": 120
+          },
+          "tick": 110
+        },
+        {
+          "action": {
+            "type": "advance"
+          },
+          "tick": 111
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 123,
+            "y": 198
+          },
+          "tick": 180
+        },
+        {
+          "action": {
+            "type": "advance"
+          },
+          "tick": 181
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 120,
+            "y": 214
+          },
+          "tick": 192
+        },
+        {
+          "action": {
+            "type": "advance"
+          },
+          "tick": 193
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 67,
+            "y": 120
+          },
+          "tick": 208
+        },
+        {
+          "action": {
+            "type": "advance"
+          },
+          "tick": 209
+        }
+      ]
+    },
+    "seed": -1731668959184613147
+  }
+}

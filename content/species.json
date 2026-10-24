@@ -1,0 +1,832 @@
+[
+  {
+    "body": "DABBLING",
+    "category": "DABBLING",
+    "dives": false,
+    "firstPlace": 1,
+    "id": "mallard",
+    "nameEn": "Mallard",
+    "namePt": "Pato-real",
+    "patterns": [
+      "ZIGZAG",
+      "GLIDE"
+    ],
+    "points": 500,
+    "protected": false,
+    "radius": 14,
+    "scientific": "Anas platyrhynchos",
+    "speedClass": "S1"
+  },
+  {
+    "body": "DABBLING_SMALL",
+    "category": "DABBLING",
+    "dives": false,
+    "firstPlace": 1,
+    "id": "teal",
+    "nameEn": "Eurasian Teal",
+    "namePt": "Marrequinha",
+    "patterns": [
+      "ZIGZAG",
+      "DART"
+    ],
+    "points": 1000,
+    "protected": false,
+    "radius": 10,
+    "scientific": "Anas crecca",
+    "speedClass": "S3"
+  },
+  {
+    "body": "DABBLING",
+    "category": "DABBLING",
+    "dives": false,
+    "firstPlace": 1,
+    "id": "gadwall",
+    "nameEn": "Gadwall",
+    "namePt": "Frisada",
+    "patterns": [
+      "ZIGZAG",
+      "GLIDE"
+    ],
+    "points": 800,
+    "protected": false,
+    "radius": 13,
+    "scientific": "Mareca strepera",
+    "speedClass": "S2"
+  },
+  {
+    "body": "DABBLING",
+    "category": "DABBLING",
+    "dives": false,
+    "firstPlace": 1,
+    "id": "wigeon",
+    "nameEn": "Eurasian Wigeon",
+    "namePt": "Piadeira",
+    "patterns": [
+      "ZIGZAG"
+    ],
+    "points": 800,
+    "protected": false,
+    "radius": 13,
+    "scientific": "Mareca penelope",
+    "speedClass": "S2"
+  },
+  {
+    "body": "DIVING",
+    "category": "DIVING",
+    "dives": true,
+    "firstPlace": 4,
+    "id": "pochard",
+    "nameEn": "Common Pochard",
+    "namePt": "Zarro-comum",
+    "patterns": [
+      "DIVE_SURFACE",
+      "ZIGZAG"
+    ],
+    "points": 1000,
+    "protected": false,
+    "radius": 13,
+    "scientific": "Aythya ferina",
+    "speedClass": "S3"
+  },
+  {
+    "body": "WADER",
+    "category": "WADER_PROTECTED",
+    "dives": false,
+    "firstPlace": 5,
+    "id": "heron",
+    "nameEn": "Gray Heron",
+    "namePt": "Garça-real",
+    "patterns": [
+      "GLIDE"
+    ],
+    "points": 800,
+    "protected": true,
+    "radius": 14,
+    "scientific": "Ardea cinerea",
+    "speedClass": "S2"
+  },
+  {
+    "body": "DABBLING",
+    "category": "DABBLING",
+    "dives": false,
+    "firstPlace": 2,
+    "id": "shoveler",
+    "nameEn": "Northern Shoveler",
+    "namePt": "Pato-trombeteiro",
+    "patterns": [
+      "GLIDE",
+      "ZIGZAG"
+    ],
+    "points": 800,
+    "protected": false,
+    "radius": 14,
+    "scientific": "Spatula clypeata",
+    "speedClass": "S2"
+  },
+  {
+    "body": "DABBLING",
+    "category": "DABBLING",
+    "dives": false,
+    "firstPlace": 2,
+    "id": "pintail",
+    "nameEn": "Northern Pintail",
+    "namePt": "Arrábio",
+    "patterns": [
+      "GLIDE"
+    ],
+    "points": 1000,
+    "protected": false,
+    "radius": 13,
+    "scientific": "Anas acuta",
+    "speedClass": "S3"
+  },
+  {
+    "body": "DABBLING_SMALL",
+    "category": "DABBLING",
+    "dives": false,
+    "firstPlace": 2,
+    "id": "garganey",
+    "nameEn": "Garganey",
+    "namePt": "Marreco",
+    "patterns": [
+      "DART"
+    ],
+    "points": 1000,
+    "protected": false,
+    "radius": 10,
+    "scientific": "Spatula querquedula",
+    "speedClass": "S3"
+  },
+  {
+    "body": "GOOSE",
+    "category": "GOOSE",
+    "dives": false,
+    "firstPlace": 3,
+    "id": "greylag",
+    "nameEn": "Greylag Goose",
+    "namePt": "Ganso-bravo",
+    "patterns": [
+      "GLIDE",
+      "FORMATION"
+    ],
+    "points": 500,
+    "protected": false,
+    "radius": 16,
+    "scientific": "Anser anser",
+    "speedClass": "S1"
+  },
+  {
+    "body": "GOOSE",
+    "category": "GOOSE",
+    "dives": false,
+    "firstPlace": 3,
+    "id": "barnacle",
+    "nameEn": "Barnacle Goose",
+    "namePt": "Ganso-de-faces-brancas",
+    "patterns": [
+      "FORMATION"
+    ],
+    "points": 800,
+    "protected": false,
+    "radius": 16,
+    "scientific": "Branta leucopsis",
+    "speedClass": "S2"
+  },
+  {
+    "body": "DABBLING",
+    "category": "DABBLING",
+    "dives": false,
+    "firstPlace": 3,
+    "id": "ruddy_shelduck",
+    "nameEn": "Ruddy Shelduck",
+    "namePt": "Pato-ferrugíneo",
+    "patterns": [
+      "GLIDE",
+      "FORMATION"
+    ],
+    "points": 800,
+    "protected": false,
+    "radius": 14,
+    "scientific": "Tadorna ferruginea",
+    "speedClass": "S2"
+  },
+  {
+    "body": "DABBLING",
+    "category": "DABBLING",
+    "dives": false,
+    "firstPlace": 4,
+    "id": "shelduck",
+    "nameEn": "Common Shelduck",
+    "namePt": "Tadorna",
+    "patterns": [
+      "GLIDE"
+    ],
+    "points": 800,
+    "protected": false,
+    "radius": 14,
+    "scientific": "Tadorna tadorna",
+    "speedClass": "S2"
+  },
+  {
+    "body": "COOT",
+    "category": "COOT",
+    "dives": true,
+    "firstPlace": 4,
+    "id": "coot",
+    "nameEn": "Eurasian Coot",
+    "namePt": "Galeirão",
+    "patterns": [
+      "DART"
+    ],
+    "points": 500,
+    "protected": false,
+    "radius": 12,
+    "scientific": "Fulica atra",
+    "speedClass": "S1"
+  },
+  {
+    "body": "DABBLING_SMALL",
+    "category": "LEGENDARY",
+    "dives": false,
+    "firstPlace": 2,
+    "id": "twin_teal",
+    "nameEn": "Twin Teals",
+    "namePt": "Marrecos Gémeos",
+    "patterns": [
+      "BOSS"
+    ],
+    "points": 1500,
+    "protected": false,
+    "radius": 12,
+    "scientific": "Anas gemina",
+    "speedClass": "S4"
+  },
+  {
+    "body": "GOOSE",
+    "category": "LEGENDARY",
+    "dives": false,
+    "firstPlace": 3,
+    "id": "wind_goose",
+    "nameEn": "Wind Goose",
+    "namePt": "Ganso do Vento",
+    "patterns": [
+      "BOSS"
+    ],
+    "points": 1500,
+    "protected": false,
+    "radius": 16,
+    "scientific": "Anser venti",
+    "speedClass": "S4"
+  },
+  {
+    "body": "GOOSE",
+    "category": "LEGENDARY",
+    "dives": false,
+    "firstPlace": 4,
+    "id": "mist_goose",
+    "nameEn": "Mist Goose",
+    "namePt": "Ganso das Névoas",
+    "patterns": [
+      "BOSS"
+    ],
+    "points": 1500,
+    "protected": false,
+    "radius": 16,
+    "scientific": "Anser nebulae",
+    "speedClass": "S4"
+  },
+  {
+    "body": "DIVING",
+    "category": "DIVING",
+    "dives": true,
+    "firstPlace": 9,
+    "id": "scoter",
+    "nameEn": "Common Scoter",
+    "namePt": "Negrola-comum",
+    "patterns": [
+      "ZIGZAG",
+      "DART"
+    ],
+    "points": 1500,
+    "protected": false,
+    "radius": 14,
+    "scientific": "Melanitta nigra",
+    "speedClass": "S4"
+  },
+  {
+    "body": "DIVING",
+    "category": "DIVING",
+    "dives": true,
+    "firstPlace": 10,
+    "id": "eider",
+    "nameEn": "Common Eider",
+    "namePt": "Êider",
+    "patterns": [
+      "GLIDE"
+    ],
+    "points": 1000,
+    "protected": false,
+    "radius": 16,
+    "scientific": "Somateria mollissima",
+    "speedClass": "S3"
+  },
+  {
+    "body": "DIVING_SLIM",
+    "category": "DIVING",
+    "dives": true,
+    "firstPlace": 9,
+    "id": "merganser",
+    "nameEn": "Common Merganser",
+    "namePt": "Merganso-grande",
+    "patterns": [
+      "DART",
+      "GLIDE"
+    ],
+    "points": 1500,
+    "protected": false,
+    "radius": 14,
+    "scientific": "Mergus merganser",
+    "speedClass": "S4"
+  },
+  {
+    "body": "DABBLING",
+    "category": "LEGENDARY",
+    "dives": false,
+    "firstPlace": 1,
+    "id": "golden",
+    "nameEn": "Golden Duck",
+    "namePt": "Pato-dourado",
+    "patterns": [
+      "DART",
+      "CIRCLE"
+    ],
+    "points": 3000,
+    "protected": false,
+    "radius": 12,
+    "scientific": "Anas aurata",
+    "speedClass": "GOLDEN"
+  },
+  {
+    "body": "DABBLING",
+    "category": "LEGENDARY",
+    "dives": false,
+    "firstPlace": 12,
+    "id": "great_duck",
+    "nameEn": "The Great Duck",
+    "namePt": "O Grão-Pato",
+    "patterns": [
+      "BOSS"
+    ],
+    "points": 1500,
+    "protected": false,
+    "radius": 16,
+    "scientific": "Anas maxima",
+    "speedClass": "S4"
+  },
+  {
+    "body": "DIVING",
+    "category": "DIVING",
+    "dives": true,
+    "firstPlace": 5,
+    "id": "tufted_duck",
+    "nameEn": "Tufted Duck",
+    "namePt": "Zarro-negrinha",
+    "patterns": [
+      "ZIGZAG",
+      "DART"
+    ],
+    "points": 1000,
+    "protected": false,
+    "radius": 13,
+    "scientific": "Aythya fuligula",
+    "speedClass": "S3"
+  },
+  {
+    "body": "DIVING",
+    "category": "DIVING",
+    "dives": true,
+    "firstPlace": 5,
+    "id": "red_crested_pochard",
+    "nameEn": "Red-crested Pochard",
+    "namePt": "Pato-de-bico-vermelho",
+    "patterns": [
+      "ZIGZAG"
+    ],
+    "points": 1000,
+    "protected": false,
+    "radius": 14,
+    "scientific": "Netta rufina",
+    "speedClass": "S3"
+  },
+  {
+    "body": "GOOSE",
+    "category": "GOOSE",
+    "dives": false,
+    "firstPlace": 5,
+    "id": "egyptian_goose",
+    "nameEn": "Egyptian Goose",
+    "namePt": "Ganso-do-egito",
+    "patterns": [
+      "GLIDE"
+    ],
+    "points": 800,
+    "protected": false,
+    "radius": 16,
+    "scientific": "Alopochen aegyptiaca",
+    "speedClass": "S2"
+  },
+  {
+    "body": "GOOSE",
+    "category": "GOOSE",
+    "dives": false,
+    "firstPlace": 6,
+    "id": "snow_goose",
+    "nameEn": "Snow Goose",
+    "namePt": "Ganso-das-neves",
+    "patterns": [
+      "FORMATION",
+      "GLIDE"
+    ],
+    "points": 800,
+    "protected": false,
+    "radius": 16,
+    "scientific": "Anser caerulescens",
+    "speedClass": "S2"
+  },
+  {
+    "body": "DIVING_SLIM",
+    "category": "DIVING",
+    "dives": true,
+    "firstPlace": 6,
+    "id": "long_tailed_duck",
+    "nameEn": "Long-tailed Duck",
+    "namePt": "Pato-rabilongo",
+    "patterns": [
+      "DART"
+    ],
+    "points": 1500,
+    "protected": false,
+    "radius": 13,
+    "scientific": "Clangula hyemalis",
+    "speedClass": "S4"
+  },
+  {
+    "body": "DIVING",
+    "category": "DIVING",
+    "dives": true,
+    "firstPlace": 6,
+    "id": "goldeneye",
+    "nameEn": "Common Goldeneye",
+    "namePt": "Olho-dourado",
+    "patterns": [
+      "ZIGZAG",
+      "DART"
+    ],
+    "points": 1500,
+    "protected": false,
+    "radius": 13,
+    "scientific": "Bucephala clangula",
+    "speedClass": "S4"
+  },
+  {
+    "body": "GREBE",
+    "category": "GREBE",
+    "dives": true,
+    "firstPlace": 7,
+    "id": "great_crested_grebe",
+    "nameEn": "Great Crested Grebe",
+    "namePt": "Mergulhão-de-poupa",
+    "patterns": [
+      "DIVE_SURFACE"
+    ],
+    "points": 800,
+    "protected": false,
+    "radius": 15,
+    "scientific": "Podiceps cristatus",
+    "speedClass": "S2"
+  },
+  {
+    "body": "DIVING_SLIM",
+    "category": "DIVING",
+    "dives": true,
+    "firstPlace": 7,
+    "id": "red_breasted_merganser",
+    "nameEn": "Red-breasted Merganser",
+    "namePt": "Merganso-de-poupa",
+    "patterns": [
+      "DART"
+    ],
+    "points": 1500,
+    "protected": false,
+    "radius": 14,
+    "scientific": "Mergus serrator",
+    "speedClass": "S4"
+  },
+  {
+    "body": "DIVING",
+    "category": "DIVING",
+    "dives": true,
+    "firstPlace": 7,
+    "id": "white_headed_duck",
+    "nameEn": "White-headed Duck",
+    "namePt": "Pato-de-rabo-alçado",
+    "patterns": [
+      "DIVE_SURFACE"
+    ],
+    "points": 1000,
+    "protected": false,
+    "radius": 12,
+    "scientific": "Oxyura leucocephala",
+    "speedClass": "S3"
+  },
+  {
+    "body": "DABBLING",
+    "category": "DABBLING",
+    "dives": false,
+    "firstPlace": 8,
+    "id": "mandarin",
+    "nameEn": "Mandarin Duck",
+    "namePt": "Pato-mandarim",
+    "patterns": [
+      "TREE_HOP",
+      "DART"
+    ],
+    "points": 1500,
+    "protected": false,
+    "radius": 13,
+    "scientific": "Aix galericulata",
+    "speedClass": "S4"
+  },
+  {
+    "body": "DABBLING",
+    "category": "DABBLING",
+    "dives": false,
+    "firstPlace": 8,
+    "id": "wood_duck",
+    "nameEn": "Wood Duck",
+    "namePt": "Pato-carolino",
+    "patterns": [
+      "TREE_HOP"
+    ],
+    "points": 1500,
+    "protected": false,
+    "radius": 13,
+    "scientific": "Aix sponsa",
+    "speedClass": "S4"
+  },
+  {
+    "body": "DIVING",
+    "category": "DIVING",
+    "dives": true,
+    "firstPlace": 8,
+    "id": "ferruginous_duck",
+    "nameEn": "Ferruginous Duck",
+    "namePt": "Zarro-castanho",
+    "patterns": [
+      "ZIGZAG"
+    ],
+    "points": 1000,
+    "protected": false,
+    "radius": 13,
+    "scientific": "Aythya nyroca",
+    "speedClass": "S3"
+  },
+  {
+    "body": "GOOSE",
+    "category": "GOOSE",
+    "dives": false,
+    "firstPlace": 10,
+    "id": "brent_goose",
+    "nameEn": "Brant",
+    "namePt": "Ganso-de-faces-pretas",
+    "patterns": [
+      "FORMATION"
+    ],
+    "points": 1000,
+    "protected": false,
+    "radius": 16,
+    "scientific": "Branta bernicla",
+    "speedClass": "S3"
+  },
+  {
+    "body": "WADER",
+    "category": "WADER_PROTECTED",
+    "dives": false,
+    "firstPlace": 5,
+    "id": "white_stork",
+    "nameEn": "White Stork",
+    "namePt": "Cegonha-branca",
+    "patterns": [
+      "GLIDE"
+    ],
+    "points": 800,
+    "protected": true,
+    "radius": 16,
+    "scientific": "Ciconia ciconia",
+    "speedClass": "S2"
+  },
+  {
+    "body": "WADER",
+    "category": "WADER_PROTECTED",
+    "dives": false,
+    "firstPlace": 5,
+    "id": "little_egret",
+    "nameEn": "Little Egret",
+    "namePt": "Garça-branca-pequena",
+    "patterns": [
+      "GLIDE"
+    ],
+    "points": 800,
+    "protected": true,
+    "radius": 13,
+    "scientific": "Egretta garzetta",
+    "speedClass": "S2"
+  },
+  {
+    "body": "WADER",
+    "category": "WADER_PROTECTED",
+    "dives": false,
+    "firstPlace": 7,
+    "id": "spoonbill",
+    "nameEn": "Eurasian Spoonbill",
+    "namePt": "Colhereiro",
+    "patterns": [
+      "GLIDE"
+    ],
+    "points": 800,
+    "protected": true,
+    "radius": 14,
+    "scientific": "Platalea leucorodia",
+    "speedClass": "S2"
+  },
+  {
+    "body": "WADER",
+    "category": "WADER_PROTECTED",
+    "dives": false,
+    "firstPlace": 7,
+    "id": "flamingo",
+    "nameEn": "Greater Flamingo",
+    "namePt": "Flamingo",
+    "patterns": [
+      "GLIDE"
+    ],
+    "points": 800,
+    "protected": true,
+    "radius": 15,
+    "scientific": "Phoenicopterus roseus",
+    "speedClass": "S2"
+  },
+  {
+    "body": "WADER",
+    "category": "WADER_PROTECTED",
+    "dives": false,
+    "firstPlace": 9,
+    "id": "crane",
+    "nameEn": "Common Crane",
+    "namePt": "Grou",
+    "patterns": [
+      "GLIDE"
+    ],
+    "points": 800,
+    "protected": true,
+    "radius": 16,
+    "scientific": "Grus grus",
+    "speedClass": "S2"
+  },
+  {
+    "body": "DABBLING",
+    "category": "LEGENDARY",
+    "dives": false,
+    "firstPlace": 1,
+    "id": "old_mallard",
+    "nameEn": "Old Mallard",
+    "namePt": "Pato-real Velho",
+    "patterns": [
+      "BOSS"
+    ],
+    "points": 1000,
+    "protected": false,
+    "radius": 16,
+    "scientific": "Anas vetus",
+    "speedClass": "S3"
+  },
+  {
+    "body": "CROW",
+    "category": "LEGENDARY",
+    "dives": false,
+    "firstPlace": 5,
+    "id": "thief_crow",
+    "nameEn": "Thief Crow",
+    "namePt": "Corvo Ladrão",
+    "patterns": [
+      "BOSS"
+    ],
+    "points": 1500,
+    "protected": false,
+    "radius": 13,
+    "scientific": "Corvus latro",
+    "speedClass": "S4"
+  },
+  {
+    "body": "GOOSE",
+    "category": "LEGENDARY",
+    "dives": false,
+    "firstPlace": 6,
+    "id": "royal_snow_goose",
+    "nameEn": "Royal Snow Goose",
+    "namePt": "Ganso-das-neves Real",
+    "patterns": [
+      "BOSS"
+    ],
+    "points": 1500,
+    "protected": false,
+    "radius": 16,
+    "scientific": "Anser niveus",
+    "speedClass": "S4"
+  },
+  {
+    "body": "GREBE",
+    "category": "LEGENDARY",
+    "dives": false,
+    "firstPlace": 7,
+    "id": "royal_grebe",
+    "nameEn": "Royal Grebe",
+    "namePt": "Mergulhão Real",
+    "patterns": [
+      "BOSS"
+    ],
+    "points": 1500,
+    "protected": false,
+    "radius": 16,
+    "scientific": "Podiceps regalis",
+    "speedClass": "S4"
+  },
+  {
+    "body": "DABBLING",
+    "category": "LEGENDARY",
+    "dives": false,
+    "firstPlace": 8,
+    "id": "imperial_mandarin",
+    "nameEn": "Imperial Mandarin",
+    "namePt": "Mandarim Imperial",
+    "patterns": [
+      "BOSS"
+    ],
+    "points": 1500,
+    "protected": false,
+    "radius": 14,
+    "scientific": "Aix imperialis",
+    "speedClass": "S4"
+  },
+  {
+    "body": "DABBLING_SMALL",
+    "category": "LEGENDARY",
+    "dives": false,
+    "firstPlace": 9,
+    "id": "ghost_duck",
+    "nameEn": "Ghost Duck",
+    "namePt": "Pato Fantasma",
+    "patterns": [
+      "BOSS"
+    ],
+    "points": 1500,
+    "protected": false,
+    "radius": 13,
+    "scientific": "Anas spectra",
+    "speedClass": "S4"
+  },
+  {
+    "body": "GOOSE",
+    "category": "LEGENDARY",
+    "dives": false,
+    "firstPlace": 10,
+    "id": "thunder_flock",
+    "nameEn": "Thunder Flock",
+    "namePt": "Bando do Trovão",
+    "patterns": [
+      "BOSS"
+    ],
+    "points": 1500,
+    "protected": false,
+    "radius": 16,
+    "scientific": "Branta tonitrui",
+    "speedClass": "S4"
+  },
+  {
+    "body": "DIVING",
+    "category": "LEGENDARY",
+    "dives": false,
+    "firstPlace": 11,
+    "id": "golden_eider",
+    "nameEn": "Golden Eider",
+    "namePt": "Eider Dourado",
+    "patterns": [
+      "BOSS"
+    ],
+    "points": 3000,
+    "protected": false,
+    "radius": 16,
+    "scientific": "Somateria aurea",
+    "speedClass": "GOLDEN"
+  }
+]

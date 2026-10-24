@@ -1,0 +1,206 @@
+{
+  "botVersion": 2,
+  "difficulty": "EASY",
+  "human": {
+    "meanScore": 9873.418367346938,
+    "p35": 9254,
+    "p70": 10648,
+    "profile": "EASY_PLAYER",
+    "runs": 200,
+    "successRate": 0.98,
+    "successes": 196
+  },
+  "levelId": "p04l006",
+  "simVersion": 1,
+  "stars": {
+    "three": 10648,
+    "two": 9254
+  },
+  "variantHash": "6b7989a1a83e629d1f4775ef05d58d69961dd45b0207500021204360ea03d672",
+  "witness": {
+    "attemptIndex": 0,
+    "finalHash": 4205125151674718592,
+    "finalTick": 3600,
+    "inputLog": {
+      "entries": [
+        {
+          "action": {
+            "type": "snap",
+            "x": 33,
+            "y": 209
+          },
+          "tick": 141
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 207,
+            "y": 144
+          },
+          "tick": 378
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 123,
+            "y": 202
+          },
+          "tick": 482
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 179,
+            "y": 143
+          },
+          "tick": 691
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 184,
+            "y": 142
+          },
+          "tick": 875
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 146,
+            "y": 136
+          },
+          "tick": 1041
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 66,
+            "y": 200
+          },
+          "tick": 1140
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 100,
+            "y": 202
+          },
+          "tick": 1263
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 198,
+            "y": 140
+          },
+          "tick": 1472
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 126,
+            "y": 136
+          },
+          "tick": 1647
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 164,
+            "y": 142
+          },
+          "tick": 1827
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 58,
+            "y": 141
+          },
+          "tick": 2016
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 49,
+            "y": 200
+          },
+          "tick": 2119
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 131,
+            "y": 202
+          },
+          "tick": 2241
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 54,
+            "y": 200
+          },
+          "tick": 2363
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 113,
+            "y": 201
+          },
+          "tick": 2484
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 141,
+            "y": 142
+          },
+          "tick": 2710
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 71,
+            "y": 201
+          },
+          "tick": 2813
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 203,
+            "y": 143
+          },
+          "tick": 3034
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 22,
+            "y": 141
+          },
+          "tick": 3213
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 144,
+            "y": 146
+          },
+          "tick": 3413
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 117,
+            "y": 200
+          },
+          "tick": 3517
+        }
+      ]
+    },
+    "seed": -2192595061830813280
+  }
+}

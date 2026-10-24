@@ -1,0 +1,135 @@
+{
+  "family": "boss-p06",
+  "id": "p06l050",
+  "ordinal": 50,
+  "place": 6,
+  "tags": [
+    "place6"
+  ],
+  "type": "BOSS",
+  "variants": {
+    "EASY": {
+      "birds": 1,
+      "frameScale": 125,
+      "levelSeed": -731733080711104159,
+      "modifiers": [],
+      "need": 3,
+      "patterns": [
+        "BOSS"
+      ],
+      "photosPerBird": 15,
+      "ramp": 1,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "royal_snow_goose",
+          "weight": 100
+        }
+      ],
+      "speed": 50,
+      "stars": {
+        "three": 12390,
+        "two": 8370
+      },
+      "timeoutTicks": 5400
+    },
+    "HARD": {
+      "birds": 1,
+      "frameScale": 125,
+      "levelSeed": 509444867921453168,
+      "modifiers": [],
+      "need": 3,
+      "patterns": [
+        "BOSS"
+      ],
+      "photosPerBird": 15,
+      "ramp": 5,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "royal_snow_goose",
+          "weight": 100
+        }
+      ],
+      "speed": 140,
+      "stars": {
+        "three": 13410,
+        "two": 9435
+      },
+      "timeoutTicks": 5400
+    },
+    "MEDIUM": {
+      "birds": 1,
+      "frameScale": 125,
+      "levelSeed": 7975187792539319870,
+      "modifiers": [],
+      "need": 3,
+      "patterns": [
+        "BOSS"
+      ],
+      "photosPerBird": 15,
+      "ramp": 3,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "royal_snow_goose",
+          "weight": 100
+        }
+      ],
+      "speed": 90,
+      "stars": {
+        "three": 12765,
+        "two": 9465
+      },
+      "timeoutTicks": 5400
+    }
+  }
+}

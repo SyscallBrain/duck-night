@@ -1,0 +1,270 @@
+{
+  "botVersion": 2,
+  "difficulty": "HARD",
+  "human": {
+    "meanScore": 19667.752475247526,
+    "p35": 19224,
+    "p70": 20359,
+    "profile": "HARD_PLAYER",
+    "runs": 200,
+    "successRate": 0.505,
+    "successes": 101
+  },
+  "levelId": "p04l032",
+  "simVersion": 1,
+  "stars": {
+    "three": 20359,
+    "two": 19224
+  },
+  "variantHash": "4e4bd45322c52ff62cc5c0d7ce5f5cff00ce51854e0bc0d1ca85042554b979dd",
+  "witness": {
+    "attemptIndex": 0,
+    "finalHash": -1360295607830352058,
+    "finalTick": 3600,
+    "inputLog": {
+      "entries": [
+        {
+          "action": {
+            "type": "snap",
+            "x": 188,
+            "y": 193
+          },
+          "tick": 14
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 153,
+            "y": 191
+          },
+          "tick": 136
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 59,
+            "y": 196
+          },
+          "tick": 257
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 57,
+            "y": 196
+          },
+          "tick": 379
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 154,
+            "y": 198
+          },
+          "tick": 503
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 178,
+            "y": 191
+          },
+          "tick": 626
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 177,
+            "y": 194
+          },
+          "tick": 745
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 86,
+            "y": 194
+          },
+          "tick": 865
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 106,
+            "y": 191
+          },
+          "tick": 987
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 219,
+            "y": 192
+          },
+          "tick": 1109
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 90,
+            "y": 191
+          },
+          "tick": 1229
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 30,
+            "y": 181
+          },
+          "tick": 1351
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 172,
+            "y": 186
+          },
+          "tick": 1470
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 76,
+            "y": 193
+          },
+          "tick": 1591
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 176,
+            "y": 191
+          },
+          "tick": 1714
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 100,
+            "y": 190
+          },
+          "tick": 1838
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 79,
+            "y": 182
+          },
+          "tick": 1958
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 178,
+            "y": 196
+          },
+          "tick": 2076
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 44,
+            "y": 192
+          },
+          "tick": 2196
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 112,
+            "y": 186
+          },
+          "tick": 2318
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 16,
+            "y": 193
+          },
+          "tick": 2438
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 81,
+            "y": 177
+          },
+          "tick": 2559
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 142,
+            "y": 185
+          },
+          "tick": 2678
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 154,
+            "y": 184
+          },
+          "tick": 2797
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 114,
+            "y": 173
+          },
+          "tick": 2919
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 224,
+            "y": 188
+          },
+          "tick": 3033
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 98,
+            "y": 190
+          },
+          "tick": 3150
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 94,
+            "y": 183
+          },
+          "tick": 3269
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 83,
+            "y": 188
+          },
+          "tick": 3385
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 141,
+            "y": 171
+          },
+          "tick": 3507
+        }
+      ]
+    },
+    "seed": 2071623558220605519
+  }
+}

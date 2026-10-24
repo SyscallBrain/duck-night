@@ -1,0 +1,102 @@
+{
+  "botVersion": 2,
+  "difficulty": "MEDIUM",
+  "human": {
+    "meanScore": 8309.724137931034,
+    "p35": 8028,
+    "p70": 8590,
+    "profile": "MEDIUM_PLAYER",
+    "runs": 200,
+    "successRate": 0.725,
+    "successes": 145
+  },
+  "levelId": "p02l001",
+  "simVersion": 1,
+  "stars": {
+    "three": 8590,
+    "two": 8028
+  },
+  "variantHash": "d1c2ba4c7cf2874c5f7137fa3b1624ebb873baa5371424aff374f8f959f59b0f",
+  "witness": {
+    "attemptIndex": 0,
+    "finalHash": 2879096489499763872,
+    "finalTick": 1246,
+    "inputLog": {
+      "entries": [
+        {
+          "action": {
+            "type": "snap",
+            "x": 181,
+            "y": 197
+          },
+          "tick": 14
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 73,
+            "y": 194
+          },
+          "tick": 158
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 62,
+            "y": 191
+          },
+          "tick": 303
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 136,
+            "y": 196
+          },
+          "tick": 443
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 167,
+            "y": 194
+          },
+          "tick": 587
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 70,
+            "y": 198
+          },
+          "tick": 726
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 132,
+            "y": 191
+          },
+          "tick": 869
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 157,
+            "y": 196
+          },
+          "tick": 1006
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 152,
+            "y": 190
+          },
+          "tick": 1150
+        }
+      ]
+    },
+    "seed": -6553217315709541552
+  }
+}

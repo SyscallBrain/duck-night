@@ -1,0 +1,9 @@
+{
+  "games": [
+    "A",
+    "B",
+    "C"
+  ],
+  "minCorrect": "min(10, 5 + round)",
+  "roundSpeedRampPercent": 7
+}

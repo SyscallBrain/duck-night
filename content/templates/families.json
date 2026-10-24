@@ -1,0 +1,306 @@
+{
+  "families": [
+    {
+      "id": "classic-open",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [
+        "basic"
+      ],
+      "type": "CLASSIC"
+    },
+    {
+      "id": "classic-glide",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [
+        "glide"
+      ],
+      "type": "CLASSIC"
+    },
+    {
+      "id": "classic-fast",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [
+        "fast"
+      ],
+      "type": "CLASSIC"
+    },
+    {
+      "id": "double-pair",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [],
+      "type": "DOUBLE"
+    },
+    {
+      "id": "double-mixed",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [],
+      "type": "DOUBLE"
+    },
+    {
+      "id": "flock-v",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [],
+      "type": "FLOCK"
+    },
+    {
+      "id": "flock-mixed",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [],
+      "type": "FLOCK"
+    },
+    {
+      "id": "film-short",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [],
+      "type": "FILM"
+    },
+    {
+      "id": "film-tight",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [],
+      "type": "FILM"
+    },
+    {
+      "id": "timed-stream",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [],
+      "type": "TIMED"
+    },
+    {
+      "id": "timed-waves",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [],
+      "type": "TIMED"
+    },
+    {
+      "id": "protect-cross",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [],
+      "type": "PROTECT"
+    },
+    {
+      "id": "protect-mixed",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [],
+      "type": "PROTECT"
+    },
+    {
+      "id": "clay-pairs",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [],
+      "type": "CLAY"
+    },
+    {
+      "id": "clay-cross",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [],
+      "type": "CLAY"
+    },
+    {
+      "id": "meadow-protect",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [
+        "place5"
+      ],
+      "type": "PROTECT"
+    },
+    {
+      "id": "snow-advance",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [
+        "place6"
+      ],
+      "type": "CLASSIC"
+    },
+    {
+      "id": "salt-dive",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [
+        "place7"
+      ],
+      "type": "CLASSIC"
+    },
+    {
+      "id": "autumn-hop",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [
+        "place8"
+      ],
+      "type": "CLASSIC"
+    },
+    {
+      "id": "night-sweep",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [
+        "place9"
+      ],
+      "type": "CLASSIC"
+    },
+    {
+      "id": "storm-front",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [
+        "place10"
+      ],
+      "type": "CLASSIC"
+    },
+    {
+      "id": "aurora-run",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [
+        "place11"
+      ],
+      "type": "CLASSIC"
+    },
+    {
+      "id": "great-finale",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [
+        "place12"
+      ],
+      "type": "CLASSIC"
+    },
+    {
+      "id": "boss-p01",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [],
+      "type": "BOSS"
+    },
+    {
+      "id": "boss-p02",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [],
+      "type": "BOSS"
+    },
+    {
+      "id": "boss-p03",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [],
+      "type": "BOSS"
+    },
+    {
+      "id": "boss-p04",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [],
+      "type": "BOSS"
+    },
+    {
+      "id": "boss-p05",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [],
+      "type": "BOSS"
+    },
+    {
+      "id": "boss-p06",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [],
+      "type": "BOSS"
+    },
+    {
+      "id": "boss-p07",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [],
+      "type": "BOSS"
+    },
+    {
+      "id": "boss-p08",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [],
+      "type": "BOSS"
+    },
+    {
+      "id": "boss-p09",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [],
+      "type": "BOSS"
+    },
+    {
+      "id": "boss-p10",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [],
+      "type": "BOSS"
+    },
+    {
+      "id": "boss-p11",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [],
+      "type": "BOSS"
+    },
+    {
+      "id": "boss-p12",
+      "maxBirds": 10,
+      "minBirds": 10,
+      "patterns": [],
+      "tags": [],
+      "type": "BOSS"
+    }
+  ]
+}

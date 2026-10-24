@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Duck Night</string>
+    <string name="home_subtitle">Duck photography at dusk</string>
+
+    <!-- Brand lines on the Home screen: the same words in every language. -->
+    <string name="brand_duck" translatable="false">Duck</string>
+    <string name="brand_night" translatable="false">Night</string>
+
+    <!-- Home screen. Sample values are static until the profile and the campaign exist (M5/M7). -->
+    <string name="home_rank_chip">%1$s · %2$d ★</string>
+    <string name="home_rank_sample">Apprentice</string>
+    <string name="home_place_label">PLACE %1$d OF %2$d</string>
+    <string name="home_continue">Continue</string>
+    <string name="home_continue_caption">Level %1$d · %2$s</string>
+    <string name="home_progress">Place %1$d of %2$d · %3$d of %4$d levels done</string>
+    <string name="home_daily">Daily challenge</string>
+    <string name="home_daily_caption">Today’s three rounds</string>
+    <string name="home_arcade">Classic arcade</string>
+    <string name="home_arcade_caption">Games A, B and C</string>
+    <string name="home_fair">Village Fair</string>
+    <string name="home_fair_caption">Clays and tin ducks</string>
+    <string name="home_album">Bird book</string>
+    <string name="home_album_caption">%1$d of %2$d birds</string>
+    <string name="home_training">Training</string>
+    <string name="home_duel">Two-player duel</string>
+    <string name="home_settings">Settings</string>
+    <string name="home_theme_switcher">Theme</string>
+
+    <string name="theme_lagoon">Lakeside Dusk</string>
+    <string name="theme_cassette">Yellow Cassette</string>
+    <string name="theme_paper">Cut Paper</string>
+    <string name="theme_fair">Village Fair</string>
+
+    <string name="difficulty_easy">Easy</string>
+    <string name="difficulty_medium">Medium</string>
+    <string name="difficulty_hard">Hard</string>
+
+    <!-- Place 1 and level selection (M5). -->
+    <string name="place_title">Village Pond</string>
+    <string name="place_levels">50 levels at dusk</string>
+    <string name="place_progress">%1$d of %2$d levels</string>
+    <string name="level_number">Level %1$d</string>
+    <string name="level_objective_classic">Photograph at least %1$d of %2$d birds.</string>
+    <string name="level_objective_film">Photograph at least %1$d of %2$d birds with a shared roll.</string>
+    <string name="level_objective_boss">Fill the album with three good photos.</string>
+    <string name="level_difficulty">Difficulty</string>
+    <string name="level_stars">★★ %1$d · ★★★ %2$d</string>
+    <string name="level_play">Play</string>
+    <string name="level_back">Back</string>
+    <string name="level_type_classic">Classic</string>
+    <string name="level_type_film">Short roll</string>
+    <string name="level_type_boss">Legendary bird</string>
+    <string name="level_type_other">Special round</string>
+    <string name="species_in_level">Birds: %1$s</string>
+
+    <!-- Game HUD and pause (M5). -->
+    <string name="game_pause">Pause</string>
+    <string name="game_score">%1$d</string>
+    <string name="game_level">Level %1$d</string>
+    <string name="game_birds">%1$d of %2$d</string>
+    <string name="game_needs_advance">Advance the film</string>
+    <string name="game_advance">Advance</string>
+    <string name="dog_laugh">Eh eh!</string>
+    <string name="dog_photo">Good photo</string>
+    <string name="protected_warning">Protected bird −500</string>
+    <string name="pause_title">Paused</string>
+    <string name="pause_continue">Continue</string>
+    <string name="pause_restart">Restart</string>
+    <string name="pause_quit">Back to map</string>
+
+    <!-- Result (M5). -->
+    <string name="result_title">Roll developed</string>
+    <string name="result_score">%1$d points</string>
+    <string name="result_birds">%1$d of %2$d birds · average quality %3$d</string>
+    <string name="result_stars_next">Next star: %1$d points</string>
+    <string name="result_next">Next</string>
+    <string name="result_repeat">Repeat</string>
+    <string name="result_map">Map</string>
+    <string name="result_fled">Fled</string>
+    <string name="result_boss">Album %1$d of 3</string>
+    <string name="result_failed">Not yet — try again.</string>
+
+    <!-- Tutorials 1–10 (M5). -->
+    <string name="tutorial_title">Farrusco says</string>
+    <string name="tutorial_1">Tap the bird to take the photo.</string>
+    <string name="tutorial_2">You have three photos per bird. If they run out, it flies away.</string>
+    <string name="tutorial_3">The line in the row below is the minimum needed to pass.</string>
+    <string name="tutorial_4">A good photo is worth more: keep the bird near the center.</string>
+    <string name="tutorial_5">Wings at the top give a pose bonus.</string>
+    <string name="tutorial_6">Different birds fly at different speeds.</string>
+    <string name="tutorial_7">Farrusco brings the developed photo and laughs when one escapes.</string>
+    <string name="tutorial_8">Stars: pass the round, score well, score even better.</string>
+    <string name="tutorial_9">You can change how you aim in Settings.</string>
+    <string name="tutorial_10">No more help. The pond is yours.</string>
+    <string name="tutorial_ok">Got it</string>
+
+    <string name="content_error">Could not load the level catalog.</string>
+
+
+    <!-- Settings and aiming (M6). -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_back">Back</string>
+    <string name="settings_aiming">Aiming</string>
+    <string name="aim_tap">Tap</string>
+    <string name="aim_gyro">Move the phone</string>
+    <string name="aim_trigger">Aim and trigger</string>
+    <string name="settings_gyro_gain">Phone movement gain: %1$d%%</string>
+    <string name="settings_recenter">Center</string>
+    <string name="settings_calibrate">Calibrate the gyroscope</string>
+    <string name="settings_tolerance">Viewfinder tolerance: %1$d%%</string>
+    <string name="settings_aim_assist">Aim assist (Easy only)</string>
+    <string name="settings_speed">Game speed: %1$d%%</string>
+    <string name="settings_bigger_birds">Bigger birds</string>
+    <string name="settings_left_handed">Left-handed layout</string>
+    <string name="settings_long_press">Advance the film with a long press</string>
+    <string name="settings_dog_laugh">Farrusco laughs</string>
+    <string name="settings_sound">Sound effects: %1$d%%</string>
+    <string name="settings_vibration">Vibration</string>
+    <string name="settings_aiming_note">The gyroscope uses no permission and is never the default.</string>
+
+    <string name="training_title">Training</string>
+    <string name="training_body">Slow birds, no minimum and no campaign score. Use it to try the three aiming modes and the gyroscope calibration.</string>
+    <string name="training_start">Start training</string>
+    <string name="training_mode">Aiming mode</string>
+    <string name="training_hint">Tap the birds, or try moving the phone. The result shows the average photo quality.</string>
+
+    <string name="calibration_title">Calibrate the gyroscope</string>
+    <string name="calibration_body">Hold the phone in your playing position and tap Center. Then move the aim through the four corners.</string>
+    <string name="calibration_center">Center</string>
+    <string name="calibration_drift">Current movement: %1$d°</string>
+    <string name="calibration_target">Target</string>
+
+    <string name="game_aim_hint">Move the phone to aim; tap to take the photo.</string>
+    <string name="game_trigger_hint">Drag to aim; press the shutter to take the photo.</string>
+    <string name="game_advance_hint">Pull the lever to advance the film.</string>
+
+
+    <!-- Profile, bird book and progression (M7). -->
+    <string name="profile_title">Photographer</string>
+    <string name="profile_back">Back</string>
+    <string name="profile_bird_book">Bird book</string>
+    <string name="profile_bosses">Boss gallery</string>
+    <string name="profile_achievements">Achievements</string>
+    <string name="profile_stats">Statistics</string>
+    <string name="profile_cosmetics">Dogs, cameras and viewfinders</string>
+    <string name="profile_backup">Export and import</string>
+    <string name="profile_reset">Reset campaign</string>
+    <string name="profile_reset_confirm">Reset the campaign? The bird book and achievements stay.</string>
+    <string name="bird_book_title">Bird book</string>
+    <string name="bird_book_count">%1$d of %2$d birds photographed</string>
+    <string name="bird_not_seen">Not seen yet</string>
+    <string name="bird_best_photo">Best photo</string>
+    <string name="bird_scientific">%1$s</string>
+    <string name="boss_gallery_title">Boss gallery</string>
+    <string name="boss_album">Album %1$d of 3</string>
+    <string name="boss_best_score">Best score %1$d</string>
+    <string name="boss_locked">Photograph the legendary bird to open this page.</string>
+    <string name="achievements_title">Achievements</string>
+    <string name="stats_title">Statistics</string>
+    <string name="stats_levels">Levels played</string>
+    <string name="stats_photos">Photos taken</string>
+    <string name="stats_birds">Birds photographed</string>
+    <string name="stats_good">Good photos</string>
+    <string name="stats_perfect">Perfect photos</string>
+    <string name="stats_group">Group photos</string>
+    <string name="stats_quality">Best quality</string>
+    <string name="stats_playtime">Time in the field</string>
+    <string name="stats_gyro">Levels with the phone</string>
+    <string name="stats_trigger">Levels with aim and trigger</string>
+    <string name="cosmetics_title">Dogs, cameras and viewfinders</string>
+    <string name="cosmetics_dog">Dog</string>
+    <string name="cosmetics_camera">Camera</string>
+    <string name="cosmetics_viewfinder">Viewfinder</string>
+    <string name="dog_farrusco">Farrusco</string>
+    <string name="dog_pantufa">Pantufa</string>
+    <string name="dog_tejo">Tejo</string>
+    <string name="camera_box">Box camera</string>
+    <string name="camera_reflex">Reflex</string>
+    <string name="camera_instant">Instant</string>
+    <string name="viewfinder_corners">Corners</string>
+    <string name="viewfinder_reticle">Reticle</string>
+    <string name="viewfinder_circle">Circle</string>
+    <string name="viewfinder_thirds">Thirds</string>
+    <string name="backup_title">Export and import</string>
+    <string name="backup_export">Export progress</string>
+    <string name="backup_import">Import progress</string>
+    <string name="backup_exported">Progress exported.</string>
+    <string name="backup_imported">Progress imported.</string>
+    <string name="backup_failed">Could not read that progress file.</string>
+    <string name="level_locked">Locked — pass the previous level first.</string>
+    <string name="title_apprentice">Apprentice</string>
+    <string name="title_amateur">Amateur</string>
+    <string name="title_third">Third-class Photographer</string>
+    <string name="title_second">Second-class Photographer</string>
+    <string name="title_first">First-class Photographer</string>
+    <string name="title_field">Field Photographer</string>
+    <string name="title_nature">Nature Photographer</string>
+    <string name="title_reporter">Bird Reporter</string>
+    <string name="title_master">Master Photographer</string>
+    <string name="title_legend">Legend of Dusk</string>
+    <string name="daily_title">Daily challenge</string>
+    <string name="daily_body">Three rounds, the same for everyone today. Your score is the sum of the three.</string>
+    <string name="daily_round">%1$d. Level %2$d · %3$s</string>
+    <string name="daily_play">Play the daily challenge</string>
+    <string name="daily_done">Today: %1$d points</string>
+
+    <string name="settings_music">Music: %1$d%%</string>
+    <string name="place_menu_title">Places</string>
+    <string name="place_menu_progress">%1$d of %2$d places</string>
+    <string name="place_locked">Finish the boss of the previous place first.</string>
+    <string name="place_2_name">Wheat Field</string>
+    <string name="place_3_name">Windy Pinewood</string>
+    <string name="place_4_name">Misty Marsh</string>
+
+
+    <string name="fair_title">Village Fair</string>
+    <string name="fair_clay">Free clay shooting</string>
+    <string name="fair_clay_caption">Ten pairs, three corks per pair.</string>
+    <string name="fair_gallery">Fair gallery</string>
+    <string name="fair_gallery_caption">Sixty seconds of tin ducks.</string>
+    <string name="arcade_title">Classic arcade</string>
+    <string name="arcade_game_a">Game A · one bird</string>
+    <string name="arcade_game_b">Game B · two birds</string>
+    <string name="arcade_game_c">Game C · clays</string>
+    <string name="arcade_start">Start arcade</string>
+    <string name="arcade_round">Round %1$d</string>
+    <string name="gallery_title">Fair gallery</string>
+    <string name="gallery_score">%1$d points</string>
+    <string name="gallery_time">%1$d s</string>
+    <string name="gallery_start">Start</string>
+
+    <string name="debug_unlock">Unlock all (debug)</string>
+    <string name="level_objective_protect">Photograph at least %1$d of %2$d birds; at most one protected bird.</string>
+    <string name="level_objective_flock">Photograph at least %1$d of %2$d birds, including group photos.</string>
+    <string name="level_objective_timed">Photograph at least %1$d birds in sixty seconds.</string>
+    <string name="level_objective_clay">Break at least %1$d of %2$d clays.</string>
+    <string name="place_5_name">Stork Meadow</string>
+    <string name="place_6_name">Snowy Ridge</string>
+    <string name="place_7_name">Salt Pans</string>
+    <string name="place_8_name">Autumn Wood</string>
+    <string name="place_9_name">Heath at Night</string>
+    <string name="place_10_name">Storm Delta</string>
+    <string name="place_11_name">Aurora Fjord</string>
+    <string name="place_12_name">Great Duck\'s Nest</string>
+    <string name="pause_replay">Failure replay</string>
+    <string name="replay_title">Failure replay</string>
+    <string name="replay_speed" formatted="false">25% speed</string>
+    <string name="replay_caption">The last three seconds, with the bird trail and each viewfinder.</string>
+    <string name="replay_progress">%1$d / %2$d</string>
+    <string name="replay_close">Close</string>
+    <string name="result_replay_hint">Tap a photo to replay it.</string>
+    <string name="duel_title">Two-player duel</string>
+    <string name="duel_setup_caption">Both players photograph the same round. Pass the phone between turns.</string>
+    <string name="duel_player_one">Player 1</string>
+    <string name="duel_player_two">Player 2</string>
+    <string name="duel_default_one">Alex</string>
+    <string name="duel_default_two">Sam</string>
+    <string name="duel_best_of">Best of</string>
+    <string name="duel_best_of_value">Best of %1$d</string>
+    <string name="duel_game">Game</string>
+    <string name="duel_game_a">Game A · one bird</string>
+    <string name="duel_game_b">Game B · two birds</string>
+    <string name="duel_game_c">Game C · clays</string>
+    <string name="duel_start">Start duel</string>
+    <string name="duel_round">Round %1$d</string>
+    <string name="duel_round_score">%1$s %2$d — %3$d %4$s</string>
+    <string name="duel_curtain_title">Pass the phone</string>
+    <string name="duel_curtain_turn">It\'s %1$s\'s turn</string>
+    <string name="duel_curtain_round">Round %1$d · %2$s</string>
+    <string name="duel_curtain_continue">I\'m ready</string>
+    <string name="duel_result_title">Duel result</string>
+    <string name="duel_winner">%1$s wins!</string>
+    <string name="duel_draw">It\'s a draw</string>
+    <string name="duel_play_again">Play again</string>
+    <string name="duel_home">Home</string>
+    <string name="duel_leave">Leave duel</string>
+    <string name="duel_scoreboard">%1$s %2$d · %3$s %4$d</string>
+    <string name="duel_round_number">Round %1$d of %2$d</string>
+    <string name="settings_accessibility">Accessibility</string>
+    <string name="settings_high_contrast">High-contrast bird outlines</string>
+    <string name="settings_large_text">Larger text (×1.15)</string>
+    <string name="settings_reduced_motion">Reduce motion</string>
+    <string name="settings_follow_system_motion">Follow the system motion setting</string>
+    <string name="settings_palette">Color palette</string>
+    <string name="settings_palette_note">The palettes keep the good, protected and danger signals distinct. Species also differ by shape.</string>
+    <string name="palette_normal">Normal</string>
+    <string name="palette_deuteranopia">Deuteranopia</string>
+    <string name="palette_protanopia">Protanopia</string>
+    <string name="palette_tritanopia">Tritanopia</string>
+    <string name="game_pause_description">Pause</string>
+    <string name="game_scene_description">Bird photography scene</string>
+    <string name="game_announce_photo">Photo, quality %1$d</string>
+    <string name="game_announce_fled">The bird flew away</string>
+    <string name="game_announce_passed">Round passed, %1$d of %2$d</string>
+    <string name="game_announce_failed">Round failed</string>
+    <string name="settings_about">About</string>
+    <string name="about_title">About Duck Night</string>
+    <string name="about_description">Duck Night is an offline reflex game: at dusk, you photograph ducks and other birds across twelve places, with Farrusco the dog at your side. No bird is ever harmed: the only shots are corks at the village fair.</string>
+    <string name="about_author">Author: Tiago Correia</string>
+    <string name="about_author_email" translatable="false">tiagorcorreia87@gmail.com</string>
+    <string name="about_close">Close</string>
+    <string name="cosmetic_locked_title">Unlocks with the title %1$s</string>
+    <string name="cosmetic_locked_perfect">Unlocks with 25 perfect photos</string>
+    <string name="cosmetic_locked_boss">Unlocks with the Snowy Ridge boss</string>
+    <string name="cosmetic_locked_group">Unlocks with 50 group photos</string>
+    <plurals name="profile_stars">
+        <item quantity="one">%1$d star</item>
+        <item quantity="other">%1$d stars</item>
+    </plurals>
+    <plurals name="bird_seen">
+        <item quantity="one">Seen once</item>
+        <item quantity="other">Seen %1$d times</item>
+    </plurals>
+    <string name="stats_value_minutes">%1$d min %2$02d s</string>
+    <string name="game_training">Training</string>
+    <string name="game_birds_count">Birds photographed: %1$d</string>
+    <string name="pause_leave">Leave</string>
+    <string name="result_quality">Quality %1$d</string>
+    <string name="achievement_first_photo">First photo</string>
+    <string name="achievement_first_good">First good photo</string>
+    <string name="achievement_first_perfect">First perfect photo</string>
+    <string name="achievement_first_group">First group photo</string>
+    <string name="achievement_group_3">A group photo with 3 birds</string>
+    <string name="achievement_group_5">A group photo with 5 birds</string>
+    <string name="achievement_no_flee">A round of 10 with no bird fleeing</string>
+    <string name="achievement_good_streak_10">10 good photos in a row</string>
+    <string name="achievement_boss">%1$s boss</string>
+    <string name="achievement_hard_places">Every boss on Hard</string>
+    <string name="achievement_birds_10">10 species photographed</string>
+    <string name="achievement_birds_20">20 species photographed</string>
+    <string name="achievement_birds_30">30 species photographed</string>
+    <string name="achievement_book_complete">See all 48 birds</string>
+    <string name="achievement_perfect_25">25 perfect photos</string>
+    <string name="achievement_perfect_100">100 perfect photos</string>
+    <string name="achievement_clays_100">100 clays broken</string>
+    <string name="achievement_clays_500">500 clays broken</string>
+    <string name="achievement_gallery_40">40 targets in one fair gallery</string>
+    <string name="achievement_arcade_a_10">Arcade: round 10 in Game A</string>
+    <string name="achievement_arcade_b_10">Arcade: round 10 in Game B</string>
+    <string name="achievement_arcade_c_10">Arcade: round 10 in Game C</string>
+    <string name="achievement_daily_7">7 daily challenges</string>
+    <string name="achievement_daily_30">30 daily challenges</string>
+    <string name="achievement_gyro_level">A level aiming with the phone</string>
+    <string name="achievement_trigger_level">A level with aim and trigger</string>
+    <string name="achievement_protect_20">20 protected-bird levels in a row without photographing one</string>
+    <string name="achievement_golden_p01">The Golden Duck at the Village Pond</string>
+    <string name="achievement_duel_sweep">Win a two-player duel 3–0</string>
+    <string name="achievement_ten_levels">10 levels with a star</string>
+    <string name="achievement_levels_100">100 levels with a star</string>
+    <string name="achievement_stars_100">100 stars</string>
+    <string name="achievement_stars_1000">1,000 stars</string>
+    <string name="achievement_three_stars_50">50 levels with three stars</string>
+    <string name="achievements_count">%1$d of %2$d earned</string>
+    <string name="achievement_progress">%1$d / %2$d</string>
+    <string name="camera_telephoto">Golden telephoto</string>
+    <string name="cosmetic_locked_hard_bosses">Unlocks with every boss on Hard</string>
+    <string name="record_none">No record yet</string>
+    <string name="record_points">Record: %1$d points</string>
+    <string name="record_arcade">Record: round %1$d · %2$d points</string>
+    <string name="gallery_corks">corks</string>
+    <string name="gallery_reloading">Reloading…</string>
+    <string name="stats_streak">Longest run of good photos</string>
+    <string name="stats_biggest_group">Largest group photo</string>
+    <string name="stats_plates">Clays broken</string>
+    <string name="boss_intro_1">The Old Mallard. Three good photos fill its album. After each page it ducks out of sight for a moment, and on the last page it pretends to fly off before coming back.</string>
+    <string name="boss_intro_2">The Twin Teals. Two of them fly at once and either one fills a page, but they swap places as soon as one is photographed.</string>
+    <string name="boss_intro_3">The Wind Goose. It glides with the gusts, which push it sideways. For the last page it leads a flock: aim at the leader.</string>
+    <string name="boss_intro_4">The Mist Goose. It only shows itself between the fog banks, and less and less with every page. Wait for it to come out.</string>
+    <string name="boss_intro_5">The Thief Crow. If your album does not grow for three seconds, it steals a page back. Keep shooting.</string>
+    <string name="boss_intro_6">The Royal Snow Goose. It melts into the snow every few seconds, and you must wind the roll after each photo.</string>
+    <string name="boss_intro_7">The Royal Grebe. It dives and surfaces where you least expect it, farther away every time. Watch the rings on the water.</string>
+    <string name="boss_intro_8">The Imperial Mandarin. It hops from tree to tree and rests a moment on each perch: that is your chance.</string>
+    <string name="boss_intro_9">The Ghost Duck. You can barely see it, but it glows just before it changes course. Shoot when it shines.</string>
+    <string name="boss_intro_10">The Thunder Flock. A V of geese: a photo with at least three of them fills a page. Lightning breaks the V for a moment.</string>
+    <string name="boss_intro_11">The Golden Eider. It loops around the whole field, and every good photo in a row raises the multiplier.</string>
+    <string name="boss_intro_12">The Great Duck. One page in the mist, one as a ghost and the last one diving. Everything you learned, together.</string>
+    <string name="boss_stole">The crow stole a page!</string>
+    <string name="game_plates_count">Clays broken: %1$d of %2$d</string>
+    <string name="game_advance_short">Film</string>
+    <string name="species_more">and %1$d more</string>
+    <plurals name="game_photos_left">
+        <item quantity="one">%1$d photo</item>
+        <item quantity="other">%1$d photos</item>
+    </plurals>
+    <plurals name="game_film_left">
+        <item quantity="one">%1$d frame</item>
+        <item quantity="other">%1$d frames</item>
+    </plurals>
+    <plurals name="bird_photographed">
+        <item quantity="one">%1$d photo · best %2$d</item>
+        <item quantity="other">%1$d photos · best %2$d</item>
+    </plurals>
+    <plurals name="duel_wins">
+        <item quantity="one">%1$d win</item>
+        <item quantity="other">%1$d wins</item>
+    </plurals>
+    <string name="place_of_1">Village Pond</string>
+    <string name="place_of_2">Wheat Field</string>
+    <string name="place_of_3">Windy Pinewood</string>
+    <string name="place_of_4">Misty Marsh</string>
+    <string name="place_of_5">Stork Meadow</string>
+    <string name="place_of_6">Snowy Ridge</string>
+    <string name="place_of_7">Salt Pans</string>
+    <string name="place_of_8">Autumn Wood</string>
+    <string name="place_of_9">Heath at Night</string>
+    <string name="place_of_10">Storm Delta</string>
+    <string name="place_of_11">Aurora Fjord</string>
+    <string name="place_of_12">Great Duck\'s Nest</string>
+    <string name="settings_language">Language</string>
+    <string name="language_system">Phone language</string>
+    <string name="language_english" translatable="false">English (US)</string>
+    <string name="language_portuguese" translatable="false">Português (Portugal)</string>
+</resources>

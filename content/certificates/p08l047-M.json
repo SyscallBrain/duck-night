@@ -1,0 +1,102 @@
+{
+  "botVersion": 2,
+  "difficulty": "MEDIUM",
+  "human": {
+    "meanScore": 9537.767295597485,
+    "p35": 8730,
+    "p70": 10500,
+    "profile": "MEDIUM_PLAYER",
+    "runs": 200,
+    "successRate": 0.795,
+    "successes": 159
+  },
+  "levelId": "p08l047",
+  "simVersion": 1,
+  "stars": {
+    "three": 10500,
+    "two": 8730
+  },
+  "variantHash": "96506bc90f0d1d35f19ada92bc514f9aaad0f7962e77d57e0d4b79d08d0715d5",
+  "witness": {
+    "attemptIndex": 0,
+    "finalHash": 4699091838715510783,
+    "finalTick": 1241,
+    "inputLog": {
+      "entries": [
+        {
+          "action": {
+            "type": "snap",
+            "x": 177,
+            "y": 188
+          },
+          "tick": 19
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 207,
+            "y": 175
+          },
+          "tick": 34
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 89,
+            "y": 194
+          },
+          "tick": 684
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 130,
+            "y": 185
+          },
+          "tick": 698
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 154,
+            "y": 186
+          },
+          "tick": 838
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 30,
+            "y": 175
+          },
+          "tick": 852
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 162,
+            "y": 176
+          },
+          "tick": 990
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 170,
+            "y": 174
+          },
+          "tick": 1134
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 29,
+            "y": 181
+          },
+          "tick": 1147
+        }
+      ]
+    },
+    "seed": 1084150168673971499
+  }
+}

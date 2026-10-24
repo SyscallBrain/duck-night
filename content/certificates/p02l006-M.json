@@ -1,0 +1,102 @@
+{
+  "botVersion": 2,
+  "difficulty": "MEDIUM",
+  "human": {
+    "meanScore": 8310.965986394558,
+    "p35": 8034,
+    "p70": 8670,
+    "profile": "MEDIUM_PLAYER",
+    "runs": 200,
+    "successRate": 0.735,
+    "successes": 147
+  },
+  "levelId": "p02l006",
+  "simVersion": 1,
+  "stars": {
+    "three": 8670,
+    "two": 8034
+  },
+  "variantHash": "b23596d6458d9fa53dd0c81cb087097c64a05af4d2b1e514a226933e90705f44",
+  "witness": {
+    "attemptIndex": 0,
+    "finalHash": 4755435095890473371,
+    "finalTick": 1251,
+    "inputLog": {
+      "entries": [
+        {
+          "action": {
+            "type": "snap",
+            "x": 78,
+            "y": 200
+          },
+          "tick": 11
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 100,
+            "y": 199
+          },
+          "tick": 154
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 54,
+            "y": 197
+          },
+          "tick": 295
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 110,
+            "y": 193
+          },
+          "tick": 442
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 115,
+            "y": 196
+          },
+          "tick": 583
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 102,
+            "y": 191
+          },
+          "tick": 727
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 118,
+            "y": 195
+          },
+          "tick": 867
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 84,
+            "y": 192
+          },
+          "tick": 1007
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 141,
+            "y": 198
+          },
+          "tick": 1151
+        }
+      ]
+    },
+    "seed": -1395340391329602923
+  }
+}

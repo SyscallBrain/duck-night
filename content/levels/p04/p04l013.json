@@ -1,0 +1,114 @@
+{
+  "family": "classic-open",
+  "id": "p04l013",
+  "ordinal": 13,
+  "place": 4,
+  "tags": [
+    "place4"
+  ],
+  "type": "CLASSIC",
+  "variants": {
+    "EASY": {
+      "birds": 10,
+      "frameScale": 125,
+      "levelSeed": -4351442396486771324,
+      "modifiers": [],
+      "need": 9,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 1,
+      "species": [
+        {
+          "id": "shelduck",
+          "weight": 35
+        },
+        {
+          "id": "coot",
+          "weight": 30
+        },
+        {
+          "id": "pochard",
+          "weight": 25
+        },
+        {
+          "id": "teal",
+          "weight": 10
+        }
+      ],
+      "speed": 80,
+      "stars": {
+        "three": 7719,
+        "two": 6972
+      },
+      "timeoutTicks": 480
+    },
+    "HARD": {
+      "birds": 10,
+      "frameScale": 85,
+      "levelSeed": -614390678999576334,
+      "modifiers": [],
+      "need": 10,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 5,
+      "species": [
+        {
+          "id": "shelduck",
+          "weight": 35
+        },
+        {
+          "id": "coot",
+          "weight": 30
+        },
+        {
+          "id": "pochard",
+          "weight": 25
+        },
+        {
+          "id": "teal",
+          "weight": 10
+        }
+      ],
+      "speed": 85,
+      "stars": {
+        "three": 8467,
+        "two": 7718
+      },
+      "timeoutTicks": 300
+    },
+    "MEDIUM": {
+      "birds": 10,
+      "frameScale": 100,
+      "levelSeed": -4085539262081227472,
+      "modifiers": [],
+      "need": 9,
+      "patterns": [],
+      "photosPerBird": 3,
+      "ramp": 3,
+      "species": [
+        {
+          "id": "shelduck",
+          "weight": 35
+        },
+        {
+          "id": "coot",
+          "weight": 30
+        },
+        {
+          "id": "pochard",
+          "weight": 25
+        },
+        {
+          "id": "teal",
+          "weight": 10
+        }
+      ],
+      "speed": 100,
+      "stars": {
+        "three": 7806,
+        "two": 6967
+      },
+      "timeoutTicks": 390
+    }
+  }
+}

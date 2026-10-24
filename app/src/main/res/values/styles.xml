@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.DuckNight" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">@color/dusk_night</item>
+        <item name="android:colorAccent">@color/sunset_orange</item>
+        <item name="android:statusBarColor">@color/dusk_night</item>
+        <item name="android:navigationBarColor">@color/dusk_night</item>
+    </style>
+</resources>

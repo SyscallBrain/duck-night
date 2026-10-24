@@ -1,0 +1,94 @@
+{
+  "botVersion": 2,
+  "difficulty": "HARD",
+  "human": {
+    "meanScore": 5632.105633802817,
+    "p35": 5169,
+    "p70": 6119,
+    "profile": "HARD_PLAYER",
+    "runs": 200,
+    "successRate": 0.71,
+    "successes": 142
+  },
+  "levelId": "p04l042",
+  "simVersion": 1,
+  "stars": {
+    "three": 6119,
+    "two": 5169
+  },
+  "variantHash": "63a1fba06fc116674db1d6ac2606f3ee34f086a282fcdec595c922ef55a4fae1",
+  "witness": {
+    "attemptIndex": 0,
+    "finalHash": -4152434285969034413,
+    "finalTick": 286,
+    "inputLog": {
+      "entries": [
+        {
+          "action": {
+            "type": "snap",
+            "x": 19,
+            "y": 120
+          },
+          "tick": 16
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 66,
+            "y": 120
+          },
+          "tick": 32
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 121,
+            "y": 206
+          },
+          "tick": 105
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 127,
+            "y": 206
+          },
+          "tick": 121
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 82,
+            "y": 120
+          },
+          "tick": 133
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 121,
+            "y": 206
+          },
+          "tick": 223
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 123,
+            "y": 206
+          },
+          "tick": 234
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 92,
+            "y": 120
+          },
+          "tick": 251
+        }
+      ]
+    },
+    "seed": -5132336018775279593
+  }
+}

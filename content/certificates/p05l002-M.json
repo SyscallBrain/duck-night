@@ -1,0 +1,102 @@
+{
+  "botVersion": 2,
+  "difficulty": "MEDIUM",
+  "human": {
+    "meanScore": 6752.230303030303,
+    "p35": 6269,
+    "p70": 7309,
+    "profile": "MEDIUM_PLAYER",
+    "runs": 200,
+    "successRate": 0.825,
+    "successes": 165
+  },
+  "levelId": "p05l002",
+  "simVersion": 1,
+  "stars": {
+    "three": 7309,
+    "two": 6269
+  },
+  "variantHash": "ee15ad706395c64aefbcb1bc2e84f1e5eab55c6c1f772716f149df20e3242d98",
+  "witness": {
+    "attemptIndex": 0,
+    "finalHash": 2461519341027434015,
+    "finalTick": 1242,
+    "inputLog": {
+      "entries": [
+        {
+          "action": {
+            "type": "snap",
+            "x": 128,
+            "y": 199
+          },
+          "tick": 11
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 174,
+            "y": 191
+          },
+          "tick": 23
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 163,
+            "y": 192
+          },
+          "tick": 691
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 177,
+            "y": 179
+          },
+          "tick": 706
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 101,
+            "y": 191
+          },
+          "tick": 847
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 61,
+            "y": 173
+          },
+          "tick": 859
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 36,
+            "y": 197
+          },
+          "tick": 993
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 100,
+            "y": 190
+          },
+          "tick": 1137
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 164,
+            "y": 179
+          },
+          "tick": 1148
+        }
+      ]
+    },
+    "seed": 1585096695818263730
+  }
+}

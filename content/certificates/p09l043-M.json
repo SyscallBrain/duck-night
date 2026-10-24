@@ -1,0 +1,102 @@
+{
+  "botVersion": 2,
+  "difficulty": "MEDIUM",
+  "human": {
+    "meanScore": 10222.260273972603,
+    "p35": 8650,
+    "p70": 11395,
+    "profile": "MEDIUM_PLAYER",
+    "runs": 200,
+    "successRate": 0.73,
+    "successes": 146
+  },
+  "levelId": "p09l043",
+  "simVersion": 1,
+  "stars": {
+    "three": 11395,
+    "two": 8650
+  },
+  "variantHash": "a0672111caa1f871c97734af2e88bd32eaa95ae712efb97066433d1914eb7079",
+  "witness": {
+    "attemptIndex": 0,
+    "finalHash": -6935949935419988834,
+    "finalTick": 3600,
+    "inputLog": {
+      "entries": [
+        {
+          "action": {
+            "type": "snap",
+            "x": 115,
+            "y": 189
+          },
+          "tick": 446
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 143,
+            "y": 217
+          },
+          "tick": 1628
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 126,
+            "y": 200
+          },
+          "tick": 2170
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 131,
+            "y": 199
+          },
+          "tick": 2296
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 123,
+            "y": 199
+          },
+          "tick": 2419
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 162,
+            "y": 189
+          },
+          "tick": 2562
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 180,
+            "y": 197
+          },
+          "tick": 2680
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 191,
+            "y": 197
+          },
+          "tick": 3294
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 161,
+            "y": 197
+          },
+          "tick": 3416
+        }
+      ]
+    },
+    "seed": 3499852164204214867
+  }
+}

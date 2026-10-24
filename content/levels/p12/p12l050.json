@@ -1,0 +1,135 @@
+{
+  "family": "boss-p12",
+  "id": "p12l050",
+  "ordinal": 50,
+  "place": 12,
+  "tags": [
+    "place12"
+  ],
+  "type": "BOSS",
+  "variants": {
+    "EASY": {
+      "birds": 1,
+      "frameScale": 125,
+      "levelSeed": -8319264045337472937,
+      "modifiers": [],
+      "need": 3,
+      "patterns": [
+        "BOSS"
+      ],
+      "photosPerBird": 15,
+      "ramp": 1,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "great_duck",
+          "weight": 100
+        }
+      ],
+      "speed": 50,
+      "stars": {
+        "three": 11880,
+        "two": 8340
+      },
+      "timeoutTicks": 5400
+    },
+    "HARD": {
+      "birds": 1,
+      "frameScale": 125,
+      "levelSeed": 8097870019433504674,
+      "modifiers": [],
+      "need": 3,
+      "patterns": [
+        "BOSS"
+      ],
+      "photosPerBird": 15,
+      "ramp": 5,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "great_duck",
+          "weight": 100
+        }
+      ],
+      "speed": 135,
+      "stars": {
+        "three": 14190,
+        "two": 9840
+      },
+      "timeoutTicks": 5400
+    },
+    "MEDIUM": {
+      "birds": 1,
+      "frameScale": 125,
+      "levelSeed": 2221799184478317757,
+      "modifiers": [],
+      "need": 3,
+      "patterns": [
+        "BOSS"
+      ],
+      "photosPerBird": 15,
+      "ramp": 3,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "great_duck",
+          "weight": 100
+        }
+      ],
+      "speed": 95,
+      "stars": {
+        "three": 12855,
+        "two": 9390
+      },
+      "timeoutTicks": 5400
+    }
+  }
+}

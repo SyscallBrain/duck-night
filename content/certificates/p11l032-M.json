@@ -1,0 +1,102 @@
+{
+  "botVersion": 2,
+  "difficulty": "MEDIUM",
+  "human": {
+    "meanScore": 8328.54938271605,
+    "p35": 6990,
+    "p70": 9340,
+    "profile": "MEDIUM_PLAYER",
+    "runs": 200,
+    "successRate": 0.81,
+    "successes": 162
+  },
+  "levelId": "p11l032",
+  "simVersion": 1,
+  "stars": {
+    "three": 9340,
+    "two": 6990
+  },
+  "variantHash": "f40f5d709a0ae94c9cb555419cc4a4ffe94891b611b6b1e5b89b2ba56fd0f4ec",
+  "witness": {
+    "attemptIndex": 1,
+    "finalHash": 2128524498484985040,
+    "finalTick": 2847,
+    "inputLog": {
+      "entries": [
+        {
+          "action": {
+            "type": "snap",
+            "x": 144,
+            "y": 186
+          },
+          "tick": 33
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 171,
+            "y": 186
+          },
+          "tick": 693
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 167,
+            "y": 164
+          },
+          "tick": 1526
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 172,
+            "y": 191
+          },
+          "tick": 1660
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 208,
+            "y": 203
+          },
+          "tick": 2130
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 178,
+            "y": 197
+          },
+          "tick": 2300
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 153,
+            "y": 185
+          },
+          "tick": 2445
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 144,
+            "y": 182
+          },
+          "tick": 2584
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 130,
+            "y": 203
+          },
+          "tick": 2745
+        }
+      ]
+    },
+    "seed": 7156426060390940307
+  }
+}

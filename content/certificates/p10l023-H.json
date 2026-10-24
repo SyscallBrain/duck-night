@@ -1,0 +1,102 @@
+{
+  "botVersion": 2,
+  "difficulty": "HARD",
+  "human": {
+    "meanScore": 10412.612612612613,
+    "p35": 10035,
+    "p70": 10915,
+    "profile": "HARD_PLAYER",
+    "runs": 200,
+    "successRate": 0.555,
+    "successes": 111
+  },
+  "levelId": "p10l023",
+  "simVersion": 1,
+  "stars": {
+    "three": 10915,
+    "two": 10035
+  },
+  "variantHash": "e250152b89d6157bc6b68e799cca1774904c6c170a769d6d6f268f7df448daf5",
+  "witness": {
+    "attemptIndex": 0,
+    "finalHash": -7614475354941266213,
+    "finalTick": 1471,
+    "inputLog": {
+      "entries": [
+        {
+          "action": {
+            "type": "snap",
+            "x": 89,
+            "y": 189
+          },
+          "tick": 16
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 40,
+            "y": 168
+          },
+          "tick": 27
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 156,
+            "y": 189
+          },
+          "tick": 934
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 123,
+            "y": 161
+          },
+          "tick": 950
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 105,
+            "y": 191
+          },
+          "tick": 1079
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 207,
+            "y": 184
+          },
+          "tick": 1093
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 64,
+            "y": 184
+          },
+          "tick": 1232
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 84,
+            "y": 184
+          },
+          "tick": 1375
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 197,
+            "y": 145
+          },
+          "tick": 1389
+        }
+      ]
+    },
+    "seed": -1811743183598028242
+  }
+}

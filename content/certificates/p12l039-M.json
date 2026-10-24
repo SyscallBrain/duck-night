@@ -1,0 +1,102 @@
+{
+  "botVersion": 2,
+  "difficulty": "MEDIUM",
+  "human": {
+    "meanScore": 6492.9455782312925,
+    "p35": 5762,
+    "p70": 7240,
+    "profile": "MEDIUM_PLAYER",
+    "runs": 200,
+    "successRate": 0.735,
+    "successes": 147
+  },
+  "levelId": "p12l039",
+  "simVersion": 1,
+  "stars": {
+    "three": 7240,
+    "two": 5762
+  },
+  "variantHash": "9c3eef6436a390e192f4db25852fdc5ac26773de3d479d28db423fdde9306c44",
+  "witness": {
+    "attemptIndex": 1,
+    "finalHash": -3944660676077454223,
+    "finalTick": 2291,
+    "inputLog": {
+      "entries": [
+        {
+          "action": {
+            "type": "snap",
+            "x": 108,
+            "y": 180
+          },
+          "tick": 34
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 77,
+            "y": 197
+          },
+          "tick": 1202
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 55,
+            "y": 195
+          },
+          "tick": 1344
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 54,
+            "y": 199
+          },
+          "tick": 1484
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 79,
+            "y": 191
+          },
+          "tick": 1627
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 119,
+            "y": 196
+          },
+          "tick": 1765
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 140,
+            "y": 198
+          },
+          "tick": 1910
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 110,
+            "y": 178
+          },
+          "tick": 2057
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 106,
+            "y": 189
+          },
+          "tick": 2194
+        }
+      ]
+    },
+    "seed": -2801220913438555539
+  }
+}

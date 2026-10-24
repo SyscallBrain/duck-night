@@ -1,0 +1,102 @@
+{
+  "botVersion": 2,
+  "difficulty": "HARD",
+  "human": {
+    "meanScore": 6153.436507936508,
+    "p35": 5850,
+    "p70": 6480,
+    "profile": "HARD_PLAYER",
+    "runs": 200,
+    "successRate": 0.63,
+    "successes": 126
+  },
+  "levelId": "p03l046",
+  "simVersion": 1,
+  "stars": {
+    "three": 6480,
+    "two": 5850
+  },
+  "variantHash": "c5652b3a88448688ff6b07fecc6957dd14e88ef67a05aff222e4f65c826514b8",
+  "witness": {
+    "attemptIndex": 0,
+    "finalHash": 3437002392669007357,
+    "finalTick": 1247,
+    "inputLog": {
+      "entries": [
+        {
+          "action": {
+            "type": "snap",
+            "x": 88,
+            "y": 192
+          },
+          "tick": 15
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 117,
+            "y": 198
+          },
+          "tick": 157
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 135,
+            "y": 189
+          },
+          "tick": 303
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 72,
+            "y": 191
+          },
+          "tick": 445
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 189,
+            "y": 179
+          },
+          "tick": 590
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 135,
+            "y": 190
+          },
+          "tick": 727
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 70,
+            "y": 190
+          },
+          "tick": 870
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 134,
+            "y": 195
+          },
+          "tick": 1008
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 141,
+            "y": 190
+          },
+          "tick": 1149
+        }
+      ]
+    },
+    "seed": -2282770465232379340
+  }
+}

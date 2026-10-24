@@ -1,0 +1,206 @@
+{
+  "botVersion": 2,
+  "difficulty": "MEDIUM",
+  "human": {
+    "meanScore": 10997.47435897436,
+    "p35": 10520,
+    "p70": 11602,
+    "profile": "MEDIUM_PLAYER",
+    "runs": 200,
+    "successRate": 0.78,
+    "successes": 156
+  },
+  "levelId": "p04l006",
+  "simVersion": 1,
+  "stars": {
+    "three": 11602,
+    "two": 10520
+  },
+  "variantHash": "394d68cedff815db50aed62ef23965c7e9f06e142e8d0516788701a2a4c8c529",
+  "witness": {
+    "attemptIndex": 0,
+    "finalHash": -7091533084364974880,
+    "finalTick": 3600,
+    "inputLog": {
+      "entries": [
+        {
+          "action": {
+            "type": "snap",
+            "x": 130,
+            "y": 202
+          },
+          "tick": 12
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 56,
+            "y": 137
+          },
+          "tick": 196
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 163,
+            "y": 141
+          },
+          "tick": 378
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 148,
+            "y": 142
+          },
+          "tick": 556
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 134,
+            "y": 139
+          },
+          "tick": 735
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 106,
+            "y": 141
+          },
+          "tick": 933
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 117,
+            "y": 145
+          },
+          "tick": 1129
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 34,
+            "y": 147
+          },
+          "tick": 1312
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 194,
+            "y": 131
+          },
+          "tick": 1470
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 168,
+            "y": 137
+          },
+          "tick": 1637
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 101,
+            "y": 203
+          },
+          "tick": 1776
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 160,
+            "y": 135
+          },
+          "tick": 1958
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 54,
+            "y": 206
+          },
+          "tick": 2088
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 118,
+            "y": 136
+          },
+          "tick": 2257
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 188,
+            "y": 200
+          },
+          "tick": 2357
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 214,
+            "y": 138
+          },
+          "tick": 2532
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 91,
+            "y": 205
+          },
+          "tick": 2668
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 219,
+            "y": 213
+          },
+          "tick": 2891
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 80,
+            "y": 141
+          },
+          "tick": 3082
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 22,
+            "y": 139
+          },
+          "tick": 3253
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 101,
+            "y": 136
+          },
+          "tick": 3411
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 107,
+            "y": 128
+          },
+          "tick": 3558
+        }
+      ]
+    },
+    "seed": 4377999535179305552
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "family": "boss-p01",
+  "id": "p01l050",
+  "ordinal": 50,
+  "place": 1,
+  "tags": [
+    "place1"
+  ],
+  "type": "BOSS",
+  "variants": {
+    "EASY": {
+      "birds": 1,
+      "frameScale": 125,
+      "levelSeed": 6098041752383337471,
+      "modifiers": [],
+      "need": 3,
+      "patterns": [
+        "BOSS"
+      ],
+      "photosPerBird": 15,
+      "ramp": 1,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "old_mallard",
+          "weight": 100
+        }
+      ],
+      "speed": 50,
+      "stars": {
+        "three": 7710,
+        "two": 5450
+      },
+      "timeoutTicks": 5400
+    },
+    "HARD": {
+      "birds": 1,
+      "frameScale": 125,
+      "levelSeed": -998856704397009480,
+      "modifiers": [],
+      "need": 3,
+      "patterns": [
+        "BOSS"
+      ],
+      "photosPerBird": 15,
+      "ramp": 5,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "old_mallard",
+          "weight": 100
+        }
+      ],
+      "speed": 130,
+      "stars": {
+        "three": 9310,
+        "two": 6410
+      },
+      "timeoutTicks": 5400
+    },
+    "MEDIUM": {
+      "birds": 1,
+      "frameScale": 125,
+      "levelSeed": 7169345716104519719,
+      "modifiers": [],
+      "need": 3,
+      "patterns": [
+        "BOSS"
+      ],
+      "photosPerBird": 15,
+      "ramp": 3,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "old_mallard",
+          "weight": 100
+        }
+      ],
+      "speed": 85,
+      "stars": {
+        "three": 8510,
+        "two": 6430
+      },
+      "timeoutTicks": 5400
+    }
+  }
+}

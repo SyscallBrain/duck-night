@@ -1,0 +1,5845 @@
+{
+  "entries": [
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l047"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l047"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l002"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p03l010"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l034"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l023"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p06l012"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p04l033"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p08l030"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p10l036"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p02l025"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p12l039"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p06l011"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p06l025"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p11l036"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l049"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p04l047"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p02l021"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p11l044"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p09l030"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l031"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l041"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p08l028"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p04l020"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p02l049"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p11l027"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p01l038"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l043"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p02l010"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l046"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p03l048"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l031"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p02l047"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p04l008"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p03l041"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l013"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p06l020"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l011"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p08l020"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p07l034"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p06l041"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p10l012"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p10l032"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l050"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p04l026"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l024"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p02l017"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p05l045"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l026"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p03l042"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p02l042"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p04l042"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l040"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p05l015"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p01l047"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l032"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l050"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l048"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p05l032"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p05l016"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p03l005"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p01l044"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l004"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p08l035"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p02l040"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l023"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p02l001"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p02l030"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p09l029"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p03l034"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p10l036"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l033"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p10l012"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l050"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p11l016"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l047"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p07l027"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p08l035"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p06l030"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l031"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p02l042"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l027"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l031"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l028"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p11l012"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l013"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p11l010"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p09l049"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p02l017"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p06l022"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p04l046"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p05l028"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p04l020"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p06l038"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p06l019"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p08l042"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l010"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l022"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p08l001"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l015"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p04l018"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l041"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p02l047"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p08l018"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l024"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p03l050"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p12l039"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p08l048"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p06l040"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p05l022"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l033"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p06l034"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l010"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p08l023"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l006"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l025"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p02l048"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p05l050"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p09l011"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p10l041"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l046"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p10l043"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p04l025"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p06l011"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p01l033"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l049"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l002"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p11l016"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p04l010"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p05l049"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p05l008"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p08l007"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l028"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p10l001"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p06l007"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p07l004"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l009"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p06l001"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p04l020"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p06l050"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l007"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l038"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p04l043"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p08l001"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p02l041"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p08l004"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l014"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p09l038"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p08l020"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l035"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p11l015"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l048"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p08l037"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p07l031"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p04l037"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l029"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l026"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l013"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p11l022"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p06l048"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p10l047"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l048"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p03l027"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p04l022"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p05l039"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p07l041"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p09l030"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p03l016"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p06l030"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p10l002"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p10l028"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p08l042"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p05l037"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l019"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l020"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p11l025"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p04l005"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p09l032"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p08l046"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p10l044"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l033"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p04l013"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p09l033"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l023"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l021"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p08l014"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p11l040"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l013"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l044"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l049"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p02l006"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p04l043"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l028"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l048"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p12l047"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p08l001"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p07l007"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p09l019"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l022"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l050"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p03l038"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p07l015"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l010"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l035"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p05l048"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p02l033"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l019"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l004"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p10l003"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l009"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p08l032"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p02l019"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p08l017"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p04l026"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p01l003"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p02l018"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p06l001"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p08l047"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l008"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l035"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l035"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p10l030"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p01l025"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l035"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l017"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l010"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l019"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l040"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p04l035"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p12l003"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p06l041"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l050"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p07l046"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l043"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l035"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l049"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p10l012"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p12l019"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p07l028"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l047"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p11l010"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p07l050"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l009"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p03l009"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p08l042"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p04l020"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p08l029"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p10l023"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p05l004"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p07l045"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l005"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p01l007"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p10l005"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l039"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p11l008"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l034"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p12l018"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l016"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l041"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l022"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p08l029"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p06l007"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p04l034"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l048"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p02l031"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p04l024"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p06l022"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p09l028"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p04l034"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p12l008"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l026"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p04l015"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p01l002"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p10l019"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p06l046"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l038"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p11l038"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l048"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p06l034"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p04l047"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p03l042"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p02l005"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l046"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p05l028"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p08l010"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l030"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l018"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p04l023"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l030"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p01l049"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p04l011"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l010"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p05l026"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p05l004"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p02l025"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p09l040"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l008"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p04l043"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l019"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p05l028"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l029"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p01l028"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p12l006"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p07l018"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l027"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p04l042"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l028"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p09l003"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p07l029"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p01l022"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p02l033"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p11l043"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p07l031"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p02l037"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l022"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l009"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p07l045"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l040"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p02l019"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p08l014"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p04l021"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p08l032"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l048"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p08l007"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l004"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l020"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p03l014"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l009"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l049"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p11l033"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l045"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p12l037"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p08l049"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p09l021"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l024"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p09l028"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l030"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p08l047"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p08l045"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l035"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l041"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l004"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l045"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p07l020"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p02l030"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p08l020"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l017"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p10l044"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p02l030"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l015"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p12l024"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p10l039"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p04l038"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l012"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p07l047"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p05l006"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l050"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p08l027"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p03l021"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p07l039"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p01l026"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l006"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l033"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l014"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l025"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l014"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p10l010"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l017"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l015"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l002"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l046"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p08l017"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p11l012"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l024"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l033"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l046"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l007"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p10l028"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p02l031"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p07l006"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l034"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p10l044"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p12l028"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p04l033"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p09l007"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p07l045"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p04l009"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p05l024"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p08l030"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p08l025"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p11l022"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l045"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p03l009"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l046"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p09l004"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p08l009"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p01l001"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p11l026"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p07l050"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p05l030"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p05l003"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p06l041"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p03l028"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p03l018"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p10l014"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p04l021"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p08l031"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p05l030"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p02l007"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l019"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p07l019"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l008"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p11l046"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l019"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p07l010"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p02l034"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p09l003"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p12l037"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p11l048"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l028"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p01l017"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l050"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p07l032"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l042"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l039"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p07l025"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p08l002"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p05l030"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p12l040"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l024"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p08l019"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p04l050"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p04l039"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p04l034"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p09l042"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p11l034"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l049"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p10l040"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p08l004"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l040"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p04l049"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p02l001"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p09l042"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p08l013"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l002"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p09l048"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p04l031"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p09l042"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p09l011"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p04l016"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p07l014"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p08l009"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l036"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p08l036"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p02l041"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l029"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l048"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p05l001"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p11l019"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p04l050"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l043"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p03l030"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l040"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l011"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p10l003"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l024"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l041"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l018"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l032"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p11l003"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p03l040"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p04l039"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p08l006"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p02l049"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p01l041"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p04l039"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p08l049"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l036"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p06l027"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p06l035"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l006"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l021"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p02l020"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p03l038"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l001"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l037"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p06l022"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p11l035"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p06l013"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p07l042"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l001"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p03l016"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p09l024"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p02l028"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p08l013"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l031"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l001"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p09l014"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l011"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p07l015"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p08l025"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p12l018"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l028"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p10l015"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p10l019"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l021"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p07l023"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p05l021"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p04l002"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l048"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p04l044"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p08l047"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l004"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p04l034"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p01l009"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l044"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p10l008"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l019"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p10l038"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p10l045"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l021"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p06l004"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l010"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p02l017"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p02l038"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l035"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p05l048"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p08l012"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p02l020"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l035"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p03l007"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p03l042"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p04l018"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p07l046"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p03l003"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p07l008"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p05l047"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p07l034"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p09l036"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p02l020"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p02l048"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p09l012"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l025"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l043"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l027"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l042"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l046"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p10l016"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l020"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l014"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l042"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l041"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p04l002"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p11l027"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l048"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p11l011"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p11l004"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p06l025"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p03l003"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p04l046"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p11l032"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l028"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p04l032"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p11l044"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p11l030"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l031"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l037"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p07l029"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p06l013"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p05l011"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l033"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p03l043"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l011"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p12l038"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p03l010"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p10l026"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l018"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l043"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p02l036"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p08l017"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p07l047"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p04l008"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p08l035"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p08l041"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l008"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p04l009"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l002"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p04l042"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p02l025"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l033"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l031"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l023"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l024"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l003"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p02l042"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l023"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p10l004"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l033"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l032"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p05l005"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l027"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l027"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l034"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p07l035"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p03l020"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p10l036"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p03l018"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p04l042"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l046"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p10l011"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p06l030"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p07l037"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p11l046"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l012"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p09l035"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p08l034"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l049"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l040"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p06l026"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l012"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l040"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p05l006"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p04l008"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p06l030"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l038"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p05l047"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p05l013"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p06l010"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l007"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p04l006"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l036"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l004"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l025"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l011"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p05l049"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p11l013"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p09l049"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l031"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p11l025"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l006"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l012"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l018"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p05l032"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l015"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p07l036"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p01l041"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l037"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p05l038"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l027"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l005"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p02l047"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p06l035"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p04l027"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l013"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l019"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p08l030"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l008"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p08l027"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l010"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p04l039"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l013"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l016"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l003"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l046"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l006"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l010"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l050"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p09l015"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p02l014"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l035"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p09l025"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p03l047"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l013"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l033"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p06l013"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p04l024"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p05l037"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p12l031"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l045"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l014"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p04l049"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p07l028"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l019"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p05l020"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p10l008"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l009"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p11l016"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l011"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p02l007"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p02l003"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p10l030"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p02l046"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p01l034"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p03l021"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l037"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l008"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p02l019"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l006"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l043"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p06l031"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p11l021"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p10l029"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p02l049"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l031"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p10l016"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p07l011"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l034"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p06l003"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l041"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l023"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p12l029"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l011"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p12l013"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l039"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l043"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p07l033"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p08l008"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l031"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p02l026"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p02l031"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p09l025"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l014"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l021"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p10l027"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l026"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l042"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p03l017"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l024"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l041"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p11l006"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p04l002"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l039"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l031"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p06l029"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p05l011"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p04l034"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l007"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p08l021"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p03l008"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l027"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p10l048"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p04l047"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l020"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p04l003"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p05l050"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p09l013"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p02l047"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p11l017"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p05l031"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p10l024"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l014"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p05l024"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l024"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l004"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p05l025"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l002"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l026"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l013"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p10l045"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p09l031"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p05l037"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l041"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p03l004"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p04l036"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p01l036"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l025"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l042"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p02l018"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l003"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l023"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l047"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l033"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p02l004"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p11l023"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p03l007"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l042"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p05l005"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p10l026"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l028"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p08l028"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p08l033"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l035"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p09l006"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l009"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l011"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p03l047"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p08l027"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l002"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l049"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p02l039"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p07l005"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p06l003"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p08l035"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l041"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l024"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p07l045"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p02l005"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p02l021"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l032"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p10l038"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p07l031"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l036"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p04l023"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p11l046"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l004"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p07l031"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l049"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l023"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p06l026"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p08l041"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p04l010"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p11l008"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p02l041"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p05l027"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p09l012"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l038"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p02l008"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p07l028"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p02l037"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l043"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l002"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p08l048"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p05l035"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l003"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p08l016"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p01l026"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p04l020"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p01l026"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p08l016"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p01l007"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l050"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l042"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l005"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p08l042"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p04l011"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p03l028"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p12l036"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l041"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p05l013"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p10l039"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p09l037"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l036"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p11l018"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l038"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p08l010"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p06l030"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l011"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p11l031"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p10l015"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p10l021"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l043"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p02l045"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p07l027"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p10l020"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p04l044"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p04l040"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l045"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p03l010"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p02l042"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p11l016"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p07l048"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p10l037"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p08l042"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p03l027"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l044"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l037"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p01l016"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p07l033"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l015"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p02l048"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l035"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l001"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l024"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l050"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p05l019"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l006"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l039"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l032"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p12l023"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l037"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p02l011"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l016"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l004"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p06l046"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l040"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l048"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p07l006"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l048"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p02l039"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l048"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p06l043"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p02l047"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p07l022"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l044"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l012"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l025"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p08l025"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l022"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l041"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p08l009"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p05l043"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l008"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l033"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l046"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p08l026"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l004"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p12l019"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l022"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l014"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p09l035"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p03l037"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l005"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l027"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l050"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p03l040"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p10l020"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l048"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l002"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l013"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p08l006"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p02l007"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p09l015"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l024"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l024"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p08l050"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p02l024"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p08l002"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p11l022"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p08l042"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l034"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p07l006"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p10l026"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l044"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p10l042"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p10l038"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p07l049"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l023"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l037"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l007"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p11l030"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p06l016"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l013"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p10l042"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p08l012"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p08l034"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p07l023"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p05l003"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p05l003"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p09l015"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p06l040"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l006"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p08l037"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p03l010"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p12l035"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l050"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p06l043"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p02l042"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p01l047"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l017"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p08l029"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p05l035"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l025"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p12l014"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l049"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l013"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l016"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p02l046"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p04l011"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p09l042"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p11l016"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p02l032"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l050"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p04l032"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p03l020"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l047"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p10l005"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p04l036"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l014"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p11l040"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l037"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p08l044"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l011"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l047"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p07l032"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p03l031"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p01l017"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p09l011"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p12l044"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p05l033"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p01l021"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p08l005"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p03l026"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l047"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l033"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p06l014"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l029"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l031"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p04l032"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p05l014"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l012"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l040"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l021"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p02l008"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l049"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p06l029"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l032"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p02l044"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l035"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p02l047"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p10l025"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l005"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l016"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p02l027"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l009"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l021"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l021"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p05l036"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p05l045"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p07l009"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l009"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p08l022"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l050"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p08l003"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l037"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p04l022"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p06l045"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p04l020"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l020"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p04l031"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l046"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l016"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l049"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p03l010"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p05l001"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l039"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l030"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l022"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p02l050"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l005"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p03l033"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l028"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p03l019"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p11l019"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p03l018"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p02l027"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p02l033"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p10l003"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p02l045"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p08l024"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l031"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p06l035"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l019"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p03l030"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p06l017"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l046"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p07l047"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l041"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p04l047"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p08l044"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p06l013"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l033"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l032"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p10l018"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p02l028"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p05l038"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p06l001"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p12l025"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p10l040"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l040"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p02l033"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p12l037"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p04l035"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p03l011"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p02l015"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p11l012"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p06l040"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p01l015"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l035"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p02l001"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p06l039"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p03l032"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p12l032"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p06l033"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "EASY",
+          "levelId": "p11l033"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p12l032"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p04l029"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p01l002"
+        },
+        {
+          "difficulty": "HARD",
+          "levelId": "p03l002"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p12l015"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p05l024"
+        },
+        {
+          "difficulty": "MEDIUM",
+          "levelId": "p09l012"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p07l020"
+        }
+      ]
+    },
+    {
+      "rounds": [
+        {
+          "difficulty": "HARD",
+          "levelId": "p09l038"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p02l029"
+        },
+        {
+          "difficulty": "EASY",
+          "levelId": "p09l035"
+        }
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,102 @@
+{
+  "botVersion": 2,
+  "difficulty": "EASY",
+  "human": {
+    "meanScore": 8242.036269430051,
+    "p35": 7579,
+    "p70": 9086,
+    "profile": "EASY_PLAYER",
+    "runs": 200,
+    "successRate": 0.965,
+    "successes": 193
+  },
+  "levelId": "p06l033",
+  "simVersion": 1,
+  "stars": {
+    "three": 9086,
+    "two": 7579
+  },
+  "variantHash": "0883f3f2fe5e6f03f6e062808a0091ba7291561703e9cb9121fc08749e3943cf",
+  "witness": {
+    "attemptIndex": 0,
+    "finalHash": -5563524968334297592,
+    "finalTick": 737,
+    "inputLog": {
+      "entries": [
+        {
+          "action": {
+            "type": "snap",
+            "x": 96,
+            "y": 198
+          },
+          "tick": 16
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 100,
+            "y": 195
+          },
+          "tick": 160
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 64,
+            "y": 190
+          },
+          "tick": 176
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 95,
+            "y": 200
+          },
+          "tick": 314
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 30,
+            "y": 196
+          },
+          "tick": 329
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 70,
+            "y": 202
+          },
+          "tick": 470
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 212,
+            "y": 192
+          },
+          "tick": 483
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 90,
+            "y": 194
+          },
+          "tick": 626
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 44,
+            "y": 190
+          },
+          "tick": 640
+        }
+      ]
+    },
+    "seed": -2679865252067178667
+  }
+}

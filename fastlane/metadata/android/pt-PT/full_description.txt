@@ -1,0 +1,44 @@
+O Duck Night é um jogo de reflexos offline para Android sobre fotografar patos ao crepúsculo.
+
+Pega no desafio rápido de apontar e reagir dos antigos jogos de aves das consolas e transforma-o em fotografia. Aqui não se caça: enquadras a ave, carregas no obturador, e o Farrusco, um perdigueiro português, traz a foto revelada.
+
+CAMPANHA
+- 600 níveis em doze lugares, 50 por lugar, cada um em Fácil, Médio e Difícil.
+- Oito tipos de nível: clássico, dupla, bando, rolo curto, contra-relógio, aves protegidas, pratos e chefes.
+- Doze aves lendárias, cada uma com a sua manha e um álbum de três fotos em vez de uma barra de vida.
+- Vento, nevoeiro, neve, chuva, noite, cobertura, aves que mergulham, aves protegidas e o pato dourado.
+
+FOTOGRAFIA
+- Tocar na ave, mover o telemóvel, ou apontar com o polegar e premir o obturador.
+- Cada foto tem uma qualidade de 0 a 100, baseada na centragem, na nitidez e na pose da asa.
+- A melhor foto de cada espécie fica na caderneta e é redesenhada a partir dos dados.
+- O Farrusco traz a foto revelada e ri-se quando uma ave foge.
+
+LUGARES
+- Lagoa da Aldeia, Campo de Trigo, Pinhal do Vento, Pântano das Névoas, Prado das Cegonhas, Serra da Neve, Salinas, Bosque de Outono, Charneca à Noite, Delta da Tempestade, Fiorde da Aurora e o Ninho do Grão-Pato, cada um com o seu cenário.
+- As aves protegidas não se fotografam: o flash perturba os ninhos, e o Farrusco abana a cabeça.
+
+MODOS
+- Arcada clássica com os Jogos A, B e C.
+- Desafio diário com um histórico de 270 dias.
+- Tiro aos pratos livre e galeria de feira, com uma espingarda de rolha.
+- Treino, e duelo a dois no mesmo telemóvel com uma cortina de privacidade.
+- Repetição do falhanço: os últimos três segundos, o rasto da ave e o visor exato de cada foto.
+
+PROGRESSÃO
+- Estrelas por alcance e qualidade, títulos de fotógrafo, caderneta, galeria de chefes, 45 conquistas e estatísticas.
+- Três cães, máquinas e visores decorativos.
+- Sem vidas, sem moeda e sem ajudas compradas.
+
+ACESSIBILIDADE
+- Aves maiores, contorno de alto contraste, paletas para daltonismo e movimento reduzido.
+- Texto maior, jogo para canhotos, velocidade ajustável e mira assistida em Fácil.
+- Exportação e importação do progresso.
+- Inglês americano e português europeu.
+
+PRIVACIDADE
+- Sem permissão de internet. Sem anúncios, contas, análises de utilização nem rastreio.
+- A única permissão é a vibração, para o obturador e as fotos.
+- O teu progresso fica no telemóvel, e podes exportá-lo e importá-lo tu próprio.
+
+Código-fonte e licenças: MIT para o código, licença SIL Open Font para as fontes. Os sons e a música são gerados por scripts do repositório.

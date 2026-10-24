@@ -1,0 +1,135 @@
+{
+  "family": "boss-p04",
+  "id": "p04l050",
+  "ordinal": 50,
+  "place": 4,
+  "tags": [
+    "place4"
+  ],
+  "type": "BOSS",
+  "variants": {
+    "EASY": {
+      "birds": 1,
+      "frameScale": 125,
+      "levelSeed": -5774218143708740020,
+      "modifiers": [],
+      "need": 3,
+      "patterns": [
+        "BOSS"
+      ],
+      "photosPerBird": 15,
+      "ramp": 1,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "mist_goose",
+          "weight": 100
+        }
+      ],
+      "speed": 50,
+      "stars": {
+        "three": 11490,
+        "two": 8460
+      },
+      "timeoutTicks": 5400
+    },
+    "HARD": {
+      "birds": 1,
+      "frameScale": 125,
+      "levelSeed": -1956344907557509760,
+      "modifiers": [],
+      "need": 3,
+      "patterns": [
+        "BOSS"
+      ],
+      "photosPerBird": 15,
+      "ramp": 5,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "mist_goose",
+          "weight": 100
+        }
+      ],
+      "speed": 140,
+      "stars": {
+        "three": 13815,
+        "two": 9690
+      },
+      "timeoutTicks": 5400
+    },
+    "MEDIUM": {
+      "birds": 1,
+      "frameScale": 125,
+      "levelSeed": -8444116713566096931,
+      "modifiers": [],
+      "need": 3,
+      "patterns": [
+        "BOSS"
+      ],
+      "photosPerBird": 15,
+      "ramp": 3,
+      "rules": {
+        "bossPhases": 3,
+        "bossPhotoLimit": 15,
+        "bossTimeTicks": 5400,
+        "clayPairs": 10,
+        "corksPerPair": 3,
+        "coverBoxes": [],
+        "filmFrames": 15,
+        "flockSize": 5,
+        "flocks": 3,
+        "fogBanks": [],
+        "goalPages": 3,
+        "photoCooldownTicks": 21,
+        "protectedBirds": 2,
+        "timedTicks": 3600,
+        "windStrength": 12
+      },
+      "species": [
+        {
+          "id": "mist_goose",
+          "weight": 100
+        }
+      ],
+      "speed": 90,
+      "stars": {
+        "three": 13695,
+        "two": 9660
+      },
+      "timeoutTicks": 5400
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "botVersion": 2,
+  "difficulty": "HARD",
+  "human": {
+    "meanScore": 8395.925925925925,
+    "p35": 7505,
+    "p70": 9015,
+    "profile": "HARD_PLAYER",
+    "runs": 200,
+    "successRate": 0.675,
+    "successes": 135
+  },
+  "levelId": "p09l005",
+  "simVersion": 1,
+  "stars": {
+    "three": 9015,
+    "two": 7505
+  },
+  "variantHash": "926af4a4175737bd48c3a3cf1e2eb633c0d19c77c2e788bb3a3760c1d964c9fa",
+  "witness": {
+    "attemptIndex": 0,
+    "finalHash": -1040963632315347281,
+    "finalTick": 1639,
+    "inputLog": {
+      "entries": [
+        {
+          "action": {
+            "type": "snap",
+            "x": 150,
+            "y": 153
+          },
+          "tick": 48
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 149,
+            "y": 171
+          },
+          "tick": 186
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 119,
+            "y": 190
+          },
+          "tick": 679
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 137,
+            "y": 197
+          },
+          "tick": 817
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 149,
+            "y": 191
+          },
+          "tick": 957
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 143,
+            "y": 185
+          },
+          "tick": 1098
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 133,
+            "y": 182
+          },
+          "tick": 1237
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 151,
+            "y": 152
+          },
+          "tick": 1406
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 132,
+            "y": 135
+          },
+          "tick": 1560
+        }
+      ]
+    },
+    "seed": -8221907927705297497
+  }
+}

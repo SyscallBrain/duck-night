@@ -1,0 +1,102 @@
+{
+  "botVersion": 2,
+  "difficulty": "MEDIUM",
+  "human": {
+    "meanScore": 8071.699346405228,
+    "p35": 7140,
+    "p70": 8845,
+    "profile": "MEDIUM_PLAYER",
+    "runs": 200,
+    "successRate": 0.765,
+    "successes": 153
+  },
+  "levelId": "p09l018",
+  "simVersion": 1,
+  "stars": {
+    "three": 8845,
+    "two": 7140
+  },
+  "variantHash": "ff5c612fb11aa2e9f0cbb09e32a2dd25ce18833d64fcf2294bc30a42e4e7af42",
+  "witness": {
+    "attemptIndex": 0,
+    "finalHash": -4105017937480835361,
+    "finalTick": 3090,
+    "inputLog": {
+      "entries": [
+        {
+          "action": {
+            "type": "snap",
+            "x": 136,
+            "y": 125
+          },
+          "tick": 230
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 138,
+            "y": 160
+          },
+          "tick": 943
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 136,
+            "y": 133
+          },
+          "tick": 1370
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 124,
+            "y": 165
+          },
+          "tick": 1514
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 119,
+            "y": 185
+          },
+          "tick": 1654
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 142,
+            "y": 181
+          },
+          "tick": 2250
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 114,
+            "y": 153
+          },
+          "tick": 2686
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 119,
+            "y": 170
+          },
+          "tick": 2827
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 133,
+            "y": 198
+          },
+          "tick": 2990
+        }
+      ]
+    },
+    "seed": 1212159102386260046
+  }
+}

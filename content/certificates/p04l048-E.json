@@ -1,0 +1,206 @@
+{
+  "botVersion": 2,
+  "difficulty": "EASY",
+  "human": {
+    "meanScore": 9939.638888888889,
+    "p35": 9406,
+    "p70": 10584,
+    "profile": "EASY_PLAYER",
+    "runs": 200,
+    "successRate": 0.9,
+    "successes": 180
+  },
+  "levelId": "p04l048",
+  "simVersion": 1,
+  "stars": {
+    "three": 10584,
+    "two": 9406
+  },
+  "variantHash": "c34a4dc3bc2fdcfbd1ee5a108593081e2d9d48a69441966cf769436418ad46bb",
+  "witness": {
+    "attemptIndex": 0,
+    "finalHash": 5983598039798089269,
+    "finalTick": 3600,
+    "inputLog": {
+      "entries": [
+        {
+          "action": {
+            "type": "snap",
+            "x": 166,
+            "y": 202
+          },
+          "tick": 11
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 191,
+            "y": 203
+          },
+          "tick": 136
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 148,
+            "y": 201
+          },
+          "tick": 264
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 123,
+            "y": 200
+          },
+          "tick": 386
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 85,
+            "y": 202
+          },
+          "tick": 510
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 141,
+            "y": 200
+          },
+          "tick": 636
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 192,
+            "y": 144
+          },
+          "tick": 909
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 147,
+            "y": 200
+          },
+          "tick": 1013
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 143,
+            "y": 203
+          },
+          "tick": 1134
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 124,
+            "y": 138
+          },
+          "tick": 1333
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 123,
+            "y": 139
+          },
+          "tick": 1514
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 211,
+            "y": 139
+          },
+          "tick": 1687
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 198,
+            "y": 135
+          },
+          "tick": 1854
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 52,
+            "y": 140
+          },
+          "tick": 2051
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 82,
+            "y": 202
+          },
+          "tick": 2155
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 184,
+            "y": 147
+          },
+          "tick": 2392
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 74,
+            "y": 143
+          },
+          "tick": 2588
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 218,
+            "y": 203
+          },
+          "tick": 2729
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 67,
+            "y": 141
+          },
+          "tick": 2930
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 129,
+            "y": 138
+          },
+          "tick": 3117
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 116,
+            "y": 137
+          },
+          "tick": 3287
+        },
+        {
+          "action": {
+            "type": "snap",
+            "x": 85,
+            "y": 142
+          },
+          "tick": 3498
+        }
+      ]
+    },
+    "seed": -7775052658136725351
+  }
+}
